@@ -1,9 +1,10 @@
 {
- "revisadas": {},
+ "revisadas": {
+  "1 item": "1 objetoo"
+ },
  "ia": {
   "%d items": "%d objetos",
   "%d mB of %s": "%d mB de %s",
-  "1 item": "1 objeto",
   "Accept": "Aceptar",
   "Active": "Activo",
   "Add": "Agregar",
