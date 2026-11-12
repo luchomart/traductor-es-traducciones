@@ -1,0 +1,11 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%s has the following badges: \"%s\".": "%s tiene los siguientes distintivos: \"%s\".",
+  "Granted the badge '%s' to %s player(s).": "Se le otorgó el distintivo '%s' a %s jugador(es).",
+  "Revoked all badges from %s player(s).": "Se revocaron todos los distintivos de %s jugador(es).",
+  "Revoked the badge '%s' from %s player(s).": "Se revocó el distintivo '%s' de %s jugador(es).",
+  "Select an option...": "Seleccioná una opción...",
+  "TCDCommons": "TCDCommons"
+ }
+}

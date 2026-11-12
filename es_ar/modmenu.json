@@ -1,0 +1,18 @@
+{
+ "revisadas": {},
+ "ia": {
+  "A child of this mod has an update available.": "Un mod hijo tiene una actualización disponible.",
+  "An update is available:": "Hay una actualización disponible:",
+  "Disabled": "Deshabilitado",
+  "Enabled": "Activado",
+  "GitHub Sponsors": "Patrocinadores de GitHub",
+  "Hidden": "Oculto",
+  "Open Collective": "Open Collective",
+  "Shown": "Mostrado",
+  "Update Checker": "Verificador de actualizaciones",
+  "Update Indicator": "Indicador de actualización",
+  "patchwork forge fml": "patchwork forge fml",
+  "updates versions": "actualizaciones versiones",
+  "v%s on %s": "v%s en %s"
+ }
+}

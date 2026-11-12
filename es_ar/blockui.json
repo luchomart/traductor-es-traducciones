@@ -1,0 +1,9 @@
+{
+ "revisadas": {},
+ "ia": {
+  "BlockState properties:": "Propiedades de BlockState:",
+  "Container content is visible only when playing on integrated server (singleplayer, no lan).": "El contenido del contenedor solo es visible cuando jugás en un servidor integrado (un jugador, sin LAN).",
+  "Hold %s to show additional information": "Mantené %s para mostrar información adicional",
+  "This container is empty.": "Este contenedor está vacío."
+ }
+}

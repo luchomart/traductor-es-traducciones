@@ -1,0 +1,11 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Click to open!": "¡Hacé clic para abrir!",
+  "Starting world generation export, expect server lag & high ram usage...": "Iniciando la exportación de la generación del mundo, esperá lag en el servidor y un alto uso de RAM...",
+  "Uh oh, the world generation export could not be created, check your latest.log!": "Oh, no se pudo crear la exportación de la generación del mundo, ¡revisá tu archivo latest.log!",
+  "World generation export already exists! View it here: %s!": "¡La exportación de la generación del mundo ya existe! Mirala acá: %s!",
+  "World generation export command must be used in single player!": "¡El comando de exportación de generación del mundo debe usarse en un jugador!",
+  "World generation export successful! View the files here: %s!": "¡Exportación de la generación del mundo exitosa! Mirá los archivos acá: %s!"
+ }
+}

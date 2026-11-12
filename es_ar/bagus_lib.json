@@ -1,0 +1,10 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Enable Shake Camera For Vanilla": "Habilitar el movimiento de cámara para Vanilla",
+  "Successfully Removed All Dialog": "Se eliminaron todos los diálogos correctamente",
+  "Successfully add Dialog": "Se agregó el diálogo correctamente",
+  "Successfully add Image Dialog": "Se agregó el diálogo de imagen correctamente",
+  "Successfully add Item Dialog": "Se agregó el diálogo de objeto correctamente"
+ }
+}

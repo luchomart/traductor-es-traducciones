@@ -1,0 +1,18 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Harvest in Radius": "Recolectar en radio",
+  "High": "Alto",
+  "Hunger Level": "Nivel de hambre",
+  "Low": "Bajo",
+  "Make hoes of different tiers harvest multiple blocks in a radius. Requires `requireHoe` to be set to true.": "Permite que azadas de diferentes niveles recolecten múltiples bloques en un radio. Requiere que `requireHoe` esté configurado como verdadero.",
+  "None": "Ninguno",
+  "Normal": "Normal",
+  "Only allow harvesting certain crops (e.g. wheat, carrots) if the player is holding a hoe in their hand.": "Solo permite recolectar ciertos cultivos (por ejemplo, trigo, zanahorias) si el jugador está sosteniendo una azada en la mano.",
+  "Require Hoe": "Requerir azada",
+  "Right Click Harvest Config": "Configuración de recolección con clic derecho",
+  "The food usage when harvesting crops.": "El consumo de comida al recolectar cultivos.",
+  "Use Hunger": "Usar hambre",
+  "Use hunger when harvesting crops.": "Usar hambre al recolectar cultivos."
+ }
+}

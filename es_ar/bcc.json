@@ -1,0 +1,7 @@
+{
+ "revisadas": {},
+ "ia": {
+  "§3Server: {0}\n§2Client (You): {1}": "§3Servidor: {0}\n§2Cliente (vos): {1}",
+  "§6You are not running the same version of the modpack as the server :(\n \n§4Server: {0}\n§4Client (You): {1}": "§6No tenés la misma versión del modpack que el servidor :(\n \n§4Servidor: {0}\n§4Cliente (vos): {1}"
+ }
+}

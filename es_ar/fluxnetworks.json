@@ -1,0 +1,18 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Admin Configurator": "Configurador de administrador",
+  "Basic Flux Storage": "Almacenamiento de flux básico",
+  "Change": "Cambiar",
+  "Energy": "Energía",
+  "Flux Block": "Bloque de flux",
+  "Flux Configurator": "Configurador de flux",
+  "Flux Controller": "Controlador de flux",
+  "Flux Core": "Núcleo de flux",
+  "Flux Dust": "Polvo de flux",
+  "Flux Plug": "Conector de flux",
+  "Flux Point": "Punto de flux",
+  "Gargantuan Flux Storage": "Almacenamiento de flux gargantuesco",
+  "Herculean Flux Storage": "Almacenamiento de flux hercúleo"
+ }
+}

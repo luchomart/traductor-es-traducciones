@@ -1,0 +1,9 @@
+{
+ "revisadas": {},
+ "ia": {
+  "The Void": "El vacío",
+  "Unable to find valid portal location": "No se pudo encontrar una ubicación válida para el portal.",
+  "Unable to find world '%s'": "No se pudo encontrar el mundo '%s'.",
+  "Void Portal": "Portal al vacío"
+ }
+}

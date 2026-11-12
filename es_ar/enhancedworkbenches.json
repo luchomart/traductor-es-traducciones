@@ -1,0 +1,24 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Crafting Station": "Estación de crafteo",
+  "Enhanced Workbenches": "Enhanced Workbenches",
+  "Enhanced Workbenches Configuration": "Configuración de Enhanced Workbenches",
+  "How far, in chunks (16 blocks), you're able to see the content of the input.": "Qué tan lejos, en chunks (16 bloques), podés ver el contenido de la entrada.",
+  "Project Table": "Mesa de proyectos",
+  "Render Input Distance": "Distancia de renderizado de entrada",
+  "Render Input Requires 'Fancy'?": "¿La entrada requiere gráficos 'Detallados'?",
+  "Render Input on Crafting Stations?": "¿Renderizar entrada en Estaciones de crafteo?",
+  "Render Input on Project Tables?": "¿Renderizar entrada en Mesas de proyecto?",
+  "Render Input?": "¿Renderizar entrada?",
+  "Rendering": "Renderizado",
+  "Whether the input should be rendered on Crafting Stations.": "Determina si la entrada debe renderizarse en las Estaciones de crafteo.",
+  "Whether the input should be rendered on Project Tables.": "Determina si la entrada debe renderizarse en las Mesas de proyecto.",
+  "Whether the input should only be rendered": "Determina si la entrada solo debe renderizarse",
+  "Whether the input should only be rendered if you're using 'Fancy' or higher graphic settings.": "Determina si la entrada solo debe renderizarse si tenés configurados los gráficos en 'Detallados' o superior.",
+  "Whether you're able to see the contents of the input": "Determina si podés ver el contenido de la entrada",
+  "Whether you're able to see the contents of the input on top of either Project Tables or Crafting Stations.": "Determina si podés ver el contenido de la entrada sobre las Mesas de proyecto o las Estaciones de crafteo.",
+  "if you're using 'Fancy' or higher graphic settings.": "si tenés configurados los gráficos en 'Detallados' o superior.",
+  "on top of either Project Tables or Crafting Stations.": "sobre las Mesas de proyecto o las Estaciones de crafteo."
+ }
+}

@@ -1,0 +1,8 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Enables first-person dynamic lighting. It's recommended to disable this if you're using shaders that has their own dynamic lighting.": "Activa la iluminación dinámica en primera persona. Se recomienda desactivarla si estás usando shaders que tienen su propia iluminación dinámica.",
+  "First-person": "Primera persona",
+  "General": "General"
+ }
+}

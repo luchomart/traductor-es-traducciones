@@ -1,0 +1,26 @@
+{
+ "revisadas": {},
+ "ia": {
+  "16k ME Source Storage Cell": "Célula de almacenamiento de fuente ME de 16k",
+  "16k Portable Source Cell": "Célula de fuente portátil de 16k",
+  "1k ME Source Storage Cell": "Célula de almacenamiento de fuente ME de 1k",
+  "1k Portable Source Cell": "Célula de fuente portátil de 1k",
+  "256k ME Source Storage Cell": "Célula de almacenamiento de fuente ME de 256k",
+  "256k Portable Source Cell": "Célula de fuente portátil de 256k",
+  "4k ME Source Storage Cell": "Célula de almacenamiento de fuente ME de 4k",
+  "4k Portable Source Cell": "Célula de fuente portátil de 4k",
+  "64k ME Source Storage Cell": "Célula de almacenamiento de fuente ME de 64k",
+  "64k Portable Source Cell": "Célula de fuente portátil de 64k",
+  "Ars Énergistique": "Ars Énergistique",
+  "Creative ME Source Cell": "Célula de fuente ME creativa",
+  "ME Source Acceptor": "Aceptador de fuente ME de cable",
+  "ME Source Cell Housing": "Armazón de célula de fuente ME",
+  "ME Source Cells can be crafted with an ME Source Cell Housing. They will store many jars' worth of source within an Applied Energistics 2 ME system.": "Las Células de fuente ME se pueden craftear con un Armazón de célula de fuente ME. Almacenarán el equivalente a muchos frascos de fuente dentro de un sistema ME de Applied Energistics 2.",
+  "ME Source Converter": "Conversor de fuente ME",
+  "ME Source Jar": "Tarro de fuente ME",
+  "ME Source P2P Tunnel": "Túnel P2P de fuente ME",
+  "ME Spell P2P Tunnel": "Túnel P2P de hechizos ME",
+  "The ME Source Converter converts source into AE energy. Attach it to an ME network and feed it source with a relay in order to power the network itself simply using source.": "El Conversor de fuente ME convierte fuente en energía AE. Conectalo a una red ME y alimentalo con fuente usando un relé para darle poder a la red simplemente usando fuente.",
+  "The Source Converter comes in both block and cable part form.": "El Conversor de fuente viene tanto en forma de bloque como de parte de cable."
+ }
+}

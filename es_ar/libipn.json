@@ -1,0 +1,33 @@
+{
+ "revisadas": {},
+ "ia": {
+  " ...(more)": " ...(más)",
+  "- Left click to configure\n- Right click to reset to defaults": "- Haz clic izquierdo para configurar\n- Haz clic derecho para restablecer a los valores predeterminados",
+  "Activate On": "Activar al",
+  "Advanced Key Binding Settings": "Configuración avanzada de atajos de teclado",
+  "Allow Extra Keys": "Permitir teclas adicionales",
+  "Alpha": "Alfa",
+  "Blue": "Azul",
+  "Context": "Contexto",
+  "Ctrl/Alt/Shift": "Ctrl/Alt/Shift",
+  "Diff left/right": "Diferenciar izquierda/derecha",
+  "Green": "Verde",
+  "Gui": "Interfaz",
+  "In-game": "Dentro del juego",
+  "In-game / Gui": "Dentro del juego / Interfaz",
+  "Normal": "Normal",
+  "Order Sensitive": "Sensible al orden",
+  "Pick a Color": "Seleccionar un color",
+  "Press": "Presionar",
+  "Press / Release": "Presionar / soltar",
+  "Red": "Rojo",
+  "Release": "Soltar",
+  "Reset": "Reiniciar",
+  "Search": "Buscar",
+  "Shows only options that match the search term in the box.": "Muestra solo las opciones que coinciden con el término de búsqueda en el cuadro.",
+  "no": "no",
+  "yes": "Sí",
+  "§2true": "§2Sí",
+  "§4false": "§4falso"
+ }
+}

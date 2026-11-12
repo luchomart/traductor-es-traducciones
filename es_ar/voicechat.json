@@ -1,0 +1,10 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Camera": "Cámara",
+  "Got a response in %s ms after %s attempts": "Recibí una respuesta en %s ms después de %s intentos",
+  "Horizontal": "Horizontal",
+  "Player": "Jugador",
+  "Vertical": "Vertical"
+ }
+}

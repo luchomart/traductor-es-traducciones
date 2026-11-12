@@ -1,0 +1,19 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Chat Box": "Caja de chat",
+  "Chunk Controller": "Controlador de chunks",
+  "Computer Tool": "Herramienta informática",
+  "End automata core": "Núcleo de autómata del End",
+  "Energy Detector": "Detector de energía",
+  "Environment Detector": "Detector ambiental",
+  "Geo Scanner": "Geoscáner",
+  "Husbandry automata core": "Núcleo de autómata de crianza",
+  "Inventory Manager": "Gestor de inventarios",
+  "Memory Card": "Tarjeta de memoria",
+  "NBT Storage": "Almacenamiento NBT",
+  "Overpowered automata core": "Núcleo de autómata superpoderoso",
+  "Player Detector": "Detector de jugadores",
+  "Redstone Integrator": "Integrador de redstone"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Display Mode": "Modo de visualización",
+  "Down": "Abajo",
+  "East": "Este",
+  "General": "General",
+  "Lectern": "Atril",
+  "Mode: %s": "Modo: %s",
+  "None": "Ninguno",
+  "North": "Norte",
+  "Off": "Apagado",
+  "On": "Encendido",
+  "Owner: %s": "Dueño: %s",
+  "South": "Sur",
+  "Toggle": "Alternar",
+  "Top": "Superior",
+  "Up": "Arriba",
+  "West": "Oeste"
+ }
+}

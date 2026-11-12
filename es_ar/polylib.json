@@ -1,0 +1,15 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Active with redstone signal": "Activo con señal de redstone",
+  "Active without redstone signal": "Activo sin señal de redstone",
+  "Always active": "Siempre activo",
+  "Capacity:": "Capacidad:",
+  "Contains:": "Contiene:",
+  "Energy Storage": "Almacenamiento de energía",
+  "Fluid Storage": "Almacenamiento de fluidos",
+  "Never active": "Nunca activo",
+  "RF": "RF",
+  "Stored:": "Almacenado:"
+ }
+}

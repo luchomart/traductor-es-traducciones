@@ -1,0 +1,8 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Failed to create backup": "Falló la creación de la copia de seguridad",
+  "Finished creating backup": "Finalizó la creación de la copia de seguridad",
+  "Starting Server backup": "Comenzando la copia de seguridad del servidor"
+ }
+}

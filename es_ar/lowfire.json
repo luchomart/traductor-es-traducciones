@@ -1,0 +1,18 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Change Fire Offset": "Cambiar el desplazamiento del fuego",
+  "Enable Low Fire": "Activar Low Fire",
+  "Fire Offset": "Desplazamiento del fuego",
+  "Fire Rendering Disabled": "Renderización del fuego desactivada",
+  "Fire Rendering Enabled": "Renderización del fuego activada",
+  "Fire offset set to %s": "Desplazamiento del fuego establecido en %s",
+  "Low Fire": "Low Fire",
+  "Low Fire Disabled": "Low Fire desactivado",
+  "Low Fire Enabled": "Low Fire activado",
+  "Low Fire Menu": "Menú de Low Fire",
+  "Render Fire": "Renderizar fuego",
+  "Toggle Fire Rendering": "Activar/desactivar la renderización del fuego",
+  "Toggle Low Fire": "Activar/desactivar Low Fire"
+ }
+}

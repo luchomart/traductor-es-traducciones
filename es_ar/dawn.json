@@ -1,0 +1,14 @@
+{
+ "revisadas": {},
+ "ia": {
+  "A folder for this export already exists! View it here: %s, and delete it if you want to export again.": "¡Ya existe una carpeta para esta exportación! Mirala acá: %s, y borrala si querés exportar de nuevo.",
+  "API that facilitates the creation of features.\nAlso includes useful commands, entities and tools for creators.": "API que facilita la creación de funciones.\nTambién incluye comandos, entidades y herramientas útiles para creadores.",
+  "Click to Open in File Explorer": "Hacé clic para abrir en el explorador de archivos",
+  "Custom TNT": "TNT personalizada",
+  "Export successful! View the files here: %s": "¡Exportación exitosa! Mirá los archivos acá: %s",
+  "Flying Block": "Bloque volador",
+  "Something weird happened during the export, for more information check your log files.": "Pasó algo raro durante la exportación, para más información revisá tus archivos de registro.",
+  "Starting export, expect server lag & high RAM usage...": "Iniciando exportación, esperá lag en el servidor y un uso elevado de RAM...",
+  "You cannot export dynamic content in multiplayer!": "¡No podés exportar contenido dinámico en multijugador!"
+ }
+}

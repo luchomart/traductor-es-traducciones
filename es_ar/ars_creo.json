@@ -1,0 +1,9 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Ars Creo": "Ars Creo",
+  "Ars Creo enables special contraption behaviors for blocks from Ars Nouveau, including Spell Turrets and Source Jars. Basic Spell Turret - Fires a spell on contraption when interacted. Timer Turret - Fires a spell on its interval. Enchanted Spell Turret - Fires a spell every new block visited. Source Jar - Can be consumed by turrets on a contraption.": "Ars Creo habilita comportamientos especiales de artefactos animados para bloques de Ars Nouveau, incluyendo Torretas de Hechizos y Frascos de Fuente. Torretas básicas: dispara un hechizo al artefacto animado cuando interactuás con él. Torreta con temporizador: dispara un hechizo en su intervalo. Torreta de Hechizos: dispara un hechizo cada vez que visita un bloque nuevo. Frasco de Fuente: puede ser consumido por torretas en un artefacto animado.",
+  "Generates rotational force for Create. Placing a gold block in front of the wheel will increase the RPM.": "Genera fuerza rotacional para Create. Si colocás un Oro Falso frente a la Rueda, aumentarás las RPM.",
+  "Starbuncle Wheel": "Rueda de starbunco"
+ }
+}

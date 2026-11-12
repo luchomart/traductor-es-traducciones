@@ -1,0 +1,16 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Arrow": "Flecha",
+  "Close": "Cerrar",
+  "Confirm": "Confirmar",
+  "Left": "Izquierda",
+  "Never": "Nunca",
+  "No Cave Maps": "Sin mapas de cuevas",
+  "No Entity Radar": "Sin radar de entidades",
+  "No Minimap": "Sin minimapa",
+  "No Waypoints": "Sin waypoints",
+  "Reset": "Restablecer",
+  "Right": "Derecha"
+ }
+}

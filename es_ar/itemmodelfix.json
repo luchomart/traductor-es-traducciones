@@ -1,0 +1,16 @@
+{
+ "revisadas": {},
+ "ia": {
+  "General": "General",
+  "Item Model Fix Configuration": "Configuración de Item Model Fix",
+  "Item Model Generation Type": "Tipo de generación del modelo del objeto",
+  "Outline": "Contorno",
+  "Performance impact: §b§lnone§r\nSame as Unlerp mode, but uses a\ndifferent generation algorithm to\nprevent enchantment glint flickering.": "Impacto en el rendimiento: §b§lninguno§r\nEs lo mismo que el modo Unlerp, pero utiliza\nalgoritmo de generación diferente para\nprevenir el parpadeo del brillo de los encantamientos.",
+  "Performance impact: §b§lnone§r\nUses Vanilla model generation, but\napplies some math to make it look correct.\nMay cause flickering along model edges.": "Impacto en el rendimiento: §b§lninguno§r\nUtiliza la generación de modelos de Vanilla, pero\naplica algunas operaciones matemáticas para que se vea correcto.\nPuede causar parpadeo a lo largo de los bordes del modelo.",
+  "Performance impact: §b§lnone§r\nUses Vanilla model generation.": "Impacto en el rendimiento: §b§lninguno§r\nUtiliza la generación de modelos de Vanilla.",
+  "Performance impact: §b§lnone§r-§a§llow§r\nGenerates all pixels individually. Provides\nbest results but causes a larger impact\nwith higher resolution resource packs.": "Impacto en el rendimiento: §b§lninguno§r-§a§lbajo§r\nGenera todos los píxeles individualmente. Proporciona\nlos mejores resultados pero causa un mayor impacto\ncon paquetes de recursos de mayor resolución.",
+  "Pixel": "Píxel",
+  "Unlerp": "Unlerp",
+  "Vanilla": "Vanilla"
+ }
+}

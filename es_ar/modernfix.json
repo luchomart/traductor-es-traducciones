@@ -1,0 +1,6 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Fixes MC-272431, which tracks the ender dragon being unable to dive to the portal as it did in 1.13 and older. This causes the dragon to fly quite a bit differently from what modern players are used to and also patches out one-cycling, so it's not enabled by default. Thanks to Jukitsu for identifying the regression in the vanilla code.": "Corrige MC-272431, que describe el problema de que el enderdragón no puede sumergirse hacia el portal como lo hacía en la versión 1.13 y anteriores. Esto hace que el dragón vuele de manera muy diferente a lo que los jugadores modernos están acostumbrados, y también corrige el 'one-cycling', por lo que no está habilitado por defecto. Gracias a Jukitsu por identificar la regresión en el código original."
+ }
+}

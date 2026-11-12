@@ -1,0 +1,28 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Armor: %s": "Armadura: %s",
+  "Armorer Repair Guard Armor": "El herrero repara la armadura del guardia",
+  "Blacksmith Will Heal Iron Golems": "El herrero cura a los Golems de hierro",
+  "Cleric Healing": "Curación del clérigo",
+  "Friendly Fire": "Fuego amigo",
+  "Guard": "Guardia",
+  "Guard Always Shield": "El guardia siempre usa escudo",
+  "Guard Arrows Hurt Villagers": "Las flechas del guardia dañan a los aldeanos",
+  "Guard Attack All Mobs": "El guardia ataca a todos los mobs",
+  "Guard Attack Blacklist": "Lista de mobs que el guardia no ataca",
+  "Guard Formation": "Formación del guardia",
+  "Guard Help Range": "Rango de ayuda del guardia",
+  "Guard Regen": "Regeneración de guardias",
+  "Guard Spawn Egg": "Huevo generador de guardia",
+  "Guards Open Doors": "Los guardias abren puertas",
+  "Guards Run From Polar Bear": "Los guardias huyen del oso polar",
+  "Health: %s": "Salud: %s",
+  "Raiders Will Attack Animals": "Los invasores atacan a los animales",
+  "Require HOTV To Convert Villagers": "Se requiere HOTV para convertir aldeanos",
+  "Require HOTV To Give Guards Stuff": "Se requiere HOTV para dar cosas a los guardias",
+  "Require HOTV To Set Guards Patrol": "Se requiere HOTV para establecer el patrullaje de los guardias",
+  "Use Steve Model": "Usar modelo de Steve",
+  "Witches Will Attack Villagers": "Las brujas atacarán a los aldeanos"
+ }
+}

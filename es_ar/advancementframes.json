@@ -1,0 +1,19 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%1$s by %2$s: %3$s": "%1$s por %2$s: %3$s",
+  "%1$s has made the advancement %2$s": "%1$s ha conseguido el logro %2$s",
+  "%s Broken": "%s rotos",
+  "%s Crafted": "%s crafteados",
+  "%s Dropped": "%s tirados",
+  "%s Killed": "%s matados",
+  "%s Mined": "%s minados",
+  "%s Picked Up": "%s recogidos",
+  "%s Used": "%s usados",
+  "Killed by %s": "Matado por %s",
+  "Select a Statistic to display": "Seleccioná una estadística para mostrar",
+  "Select an Advancement to display": "Seleccioná un logro para mostrar",
+  "Stat Frame": "Marco de estadísticas",
+  "Stat Value": "Valor de estadística"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Arrow": "Flecha",
+  "Bait runs out": "Se acaba la carnada",
+  "Bottle breaks": "La botella se rompe",
+  "Fish Mount broken": "Soporte para peces roto",
+  "Fish Mount pladed": "Soporte para peces colocado",
+  "Fish aproaching Hook": "Pez acercándose al anzuelo",
+  "Fish collides": "Pez choca",
+  "Fish dies": "Pez muere",
+  "Fish flps": "Pez aletea",
+  "Fish mounted on Mish Mount": "Pez montado en el soporte para peces",
+  "Fish removed from Fish Mount": "Pez retirado del soporte para peces",
+  "Fish swims": "Pez nadando",
+  "Hook lands on Lava": "El anzuelo cae en lava",
+  "Jellyfish flops": "Medusa aletea",
+  "Null Pointer Exception: Aquaculture.MessageInABottle (String) cannot be null.": "Excepción de puntero nulo: Aquaculture.MessageInABottle (Hilo) no puede ser nulo.",
+  "Tackle Box closes": "Caja de pesca se cierra",
+  "Tackle Box opens": "Caja de pesca se abre",
+  "Worm Farm empties": "Granja de lombrices se vacía",
+  "fish hurts": "Pez herido"
+ }
+}

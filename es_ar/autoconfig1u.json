@@ -1,0 +1,30 @@
+{
+ "revisadas": {},
+ "ia": {
+  "A Boolean": "Un booleano",
+  "A Button-Like Enum": "Una enumeración tipo botón",
+  "A List<Integer>": "Una lista<Integer>",
+  "A List<PairOfInts>": "Una lista<PairOfInts>",
+  "A PairOfInts": "Un par de enteros",
+  "A String": "Un hilo",
+  "An Enum": "Una enumeración",
+  "An Object": "Un objeto",
+  "An Object's First": "El primero de un objeto",
+  "An Object's Second": "Segundo elemento de un objeto",
+  "Auto Config Example": "Ejemplo de configuración automática",
+  "Bar": "Barra",
+  "Color": "Color",
+  "Example Category A": "Categoría de ejemplo a",
+  "Example Category B": "Categoría de ejemplo B",
+  "First": "Primero",
+  "Foo": "Foo",
+  "Int Slider": "Deslizador de enteros",
+  "Long Slider": "Deslizador de números largos",
+  "Second": "Segundo",
+  "This entry is auto generated from an enum field": "Esta entrada se genera automáticamente a partir de un campo de enumeración",
+  "This is an example of a config GUI generated with Auto Config API": "Este es un ejemplo de una interfaz de configuración generada con la API de Auto Config",
+  "This is an example tooltip.": "Esta es una descripción de ejemplo.",
+  "bar": "barra",
+  "foo": "foo"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Apply Mining Fatigue": "Aplicar cansancio",
+  "Disable Vanilla Pyramids": "Deshabilitar pirámides originales",
+  "Use /locate structure betterdeserttemples:desert_temple instead!": "¡Usá /locate structure betterdeserttemples:desert_temple en su lugar!",
+  "Whether or not mining fatigue is applied to players in the temple": "Si se le aplica o no Cansancio a los jugadores en el templo",
+  "Whether or not vanilla desert pyramids should be disabled.": "Si se deben deshabilitar o no las pirámides del desierto originales.",
+  "YUNG's Better Desert Temples": "YUNG's Better Desert Temples",
+  "if it has not yet been cleared.": "si todavía no fue despejado."
+ }
+}

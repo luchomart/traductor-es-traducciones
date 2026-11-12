@@ -1,0 +1,25 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Activation Methods": "Métodos de activación",
+  "Bundling": "Agrupamiento",
+  "Enable opening Crafting Tables": "Habilitar la apertura de mesas de crafteo",
+  "Enable opening EnderChest": "Habilitar la apertura del Cofre de Ender",
+  "Enable opening Shulker Boxes": "Habilitar la apertura de Cajas de shulker",
+  "Enable opening Stonecutter": "Habilitar la apertura del Cortapiedras",
+  "Enabled Items": "Objetos habilitados",
+  "Keybind": "Atajo de teclado",
+  "Keybind while hovering in Inventory": "Atajo de teclado mientras estás sobre el objeto en el inventario",
+  "Keybinding while holding item": "Atajo de teclado mientras sostenes el objeto",
+  "Open held Shulker Box": "Abrir la Caja de shulker que estás sosteniendo",
+  "Options": "Opciones",
+  "Quick Shulker": "Quick shulker",
+  "Quick Shulker Config": "Configuración de Quick shulker",
+  "R-Click a shulker w/ an item to insert it": "Clic derecho en una Caja de shulker con un objeto para insertarlo",
+  "R-Click an item w/ shulker to insert it": "Clic derecho en un objeto con una Caja de shulker para insertarlo",
+  "R-Click empty slot w/ shulker to extract item": "Clic derecho en un espacio vacío con una Caja de shulker para extraer el objeto",
+  "Right Click while holding item": "Clic derecho mientras sostenes el objeto",
+  "Right click opened shulker to close": "Clic derecho en la Caja de shulker abierta para cerrarla",
+  "Right click while hovering in Inventory": "Clic derecho mientras estás sobre el objeto en el inventario"
+ }
+}

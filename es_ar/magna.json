@@ -1,0 +1,16 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Curse of Gigantism": "Maldición de gigantismo",
+  "General": "General",
+  "Grants a larger Hammer break radius at the cost of mining speed.": "Otorga un radio de ruptura de martillo mayor a costa de la velocidad de minería.",
+  "Magna Config": "Configuración de Magna",
+  "Whether an extended hitbox should show air blocks (or other blocks without hitboxes).": "¿Querés que una hitbox extendida muestre los bloques de aire (u otros bloques sin hitbox).",
+  "Whether block breaking should show animation on all blocks.": "¿Querés que la animación de destrucción de bloques se muestre en todos los bloques.",
+  "Whether each block in an extended hitbox should show its outline separately.": "¿Querés que cada bloque en una hitbox extendida muestre su contorno por separado.",
+  "Whether extended hitboxes should be disabled when the player is sneaking.": "¿Querés deshabilitar las hitbox extendidas cuando el jugador está agachado.",
+  "Whether extended hitboxes should be enabled for the appropriate tools.": "¿Querés habilitar las hitbox extendidas para las herramientas correspondientes.",
+  "Whether non-full blocks (stairs, slabs) should be represented by a full cube in extended hitboxes.": "¿Querés que los bloques no completos (escaleras, losas) se representen con un cubo completo en las hitbox extendidas.",
+  "Whether only a single block should be disabled when the player is sneaking.": "¿Querés que solo se deshabilite un bloque cuando el jugador está agachado."
+ }
+}

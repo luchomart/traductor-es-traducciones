@@ -1,0 +1,9 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Error while reloading config, please check the logs!": "Error al recargar la configuración, ¡revisá los registros!",
+  "Error: Unknown config!": "Error: Configuración desconocida!",
+  "Successfully reloaded config!": "¡Configuración recargada correctamente!",
+  "That config cannot be reloaded. Restart the game to apply changes.": "Esta configuración no se puede recargar. Reiniciá el juego para aplicar los cambios."
+ }
+}

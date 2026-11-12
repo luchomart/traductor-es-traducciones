@@ -1,0 +1,19 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Best left at 1.": "Lo mejor es dejarlo en 1.",
+  "Bootstrap Worker Priority": "Prioridad de los hilos de trabajo de inicio",
+  "Bootstrap Worker Thread Count": "Cantidad de hilos de trabajo de inicio",
+  "Game Thread Priority": "Prioridad del hilo del juego",
+  "IO Worker Priority": "Prioridad de los hilos de e/s",
+  "Integrated Server Thread Priority": "Prioridad del hilo del servidor integrado",
+  "Main Worker Priority": "Prioridad de los hilos de trabajo principales",
+  "Main Worker Thread Count": "Cantidad de hilos de trabajo principales",
+  "May also affect in-game performance.": "También puede afectar el rendimiento dentro del juego.",
+  "Note: Increasing is known to decrease performance.": "Tené en cuenta que aumentar este valor puede disminuir el rendimiento.",
+  "Smooth Boot": "Arranque optimizado",
+  "This value greatly affect load times.": "Este valor afecta significativamente los tiempos de carga.",
+  "Thread Count": "Cantidad de hilos",
+  "Thread Priority": "Prioridad de los hilos"
+ }
+}

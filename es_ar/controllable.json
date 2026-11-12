@@ -1,0 +1,15 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Close": "Cerrar",
+  "Down": "Abajo",
+  "Left": "Izquierda",
+  "None": "Ninguno",
+  "Reset": "Restablecer",
+  "Right": "Derecha",
+  "Save": "Guardar",
+  "Select": "Seleccionar",
+  "Toggle": "Alternar",
+  "Up": "Arriba"
+ }
+}

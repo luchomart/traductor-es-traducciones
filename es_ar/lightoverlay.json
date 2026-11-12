@@ -1,0 +1,23 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Caching is recommended if the reach is above 16 or if you are running on a potato.": "Se recomienda el caché si el alcance está por encima de 16 o si estás usando una papa.",
+  "Caching:": "Caché:",
+  "Display Underwater:": "Mostrar bajo el agua:",
+  "Display in Mushroom Biomes:": "Mostrar en biomas de hongo:",
+  "General": "General",
+  "Invalid Color": "Color inválido",
+  "Light Level:": "Nivel de luz:",
+  "Light Overlay": "Superposición de luz",
+  "Line Width:": "Ancho de línea:",
+  "Reach:": "Alcance:",
+  "Red Color:": "Color rojo:",
+  "Secondary Color:": "Color secundario:",
+  "Secondary Light Level:": "Nivel de luz secundario:",
+  "Show Number Instead:": "Mostrar número en lugar de:",
+  "Smooth Lines:": "Suavizar líneas:",
+  "Toggle Light Overlay": "Activar/desactivar superposición de luz",
+  "Use glList while caching:": "Usar glList mientras se hace caché:",
+  "Yellow Color:": "Color amarillo:"
+ }
+}

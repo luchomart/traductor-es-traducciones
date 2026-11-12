@@ -1,0 +1,7 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Could not determine parameters": "No se pudieron determinar los parámetros.",
+  "Parameters at position %s %s %s: %s": "Parámetros en la posición %s %s %s: %s"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Attach to Body Part:": "Adjuntar a parte del cuerpo:",
+  "Banner": "Banner",
+  "Body": "Cuerpo",
+  "Drag to rotate": "Arrastra para rotar",
+  "Head": "Cabeza",
+  "Left Arm": "Brazo izquierdo",
+  "Left Leg": "Pierna izquierda",
+  "Modify position from:": "Modificar posición desde:",
+  "More": "Más opciones",
+  "More Settings": "Más opciones",
+  "Open Settings": "Abrir ajustes",
+  "Position X: ": "Posición X: ",
+  "Position Y: ": "Posición y: ",
+  "Position Z: ": "Posición Z: ",
+  "Reset": "Reiniciar",
+  "Reset all to 0": "Restablecer todo a 0",
+  "Right Arm": "Brazo derecho",
+  "Right Leg": "Pierna derecha",
+  "Rotation X: ": "Rotación X: ",
+  "Rotation Y: ": "Rotación y: ",
+  "Rotation Z: ": "Rotación Z: ",
+  "Shield": "Escudo",
+  "YDM's Weapon Master": "YDM's Weapon Master"
+ }
+}

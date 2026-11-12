@@ -1,0 +1,12 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Granted %d advancements to %s in %s:%s": "Se otorgaron %d logros a %s en %s:%s",
+  "Name for cloaked Blocks": "Nombre para los bloques ocultos",
+  "Name for cloaked Items": "Nombre para los objetos ocultos",
+  "Revelationary": "Revelationary",
+  "Revoked %d advancements from %s in %s:%s": "Se revocaron %d logros de %s en %s:%s",
+  "Synced %d advancements from %s to %s in %s:%s": "Se sincronizaron %d logros de %s a %s en %s:%s",
+  "Use target block/item name instead of scattering it": "Usar el nombre del bloque/objeto diana en lugar de dispersarlo"
+ }
+}

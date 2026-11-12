@@ -1,0 +1,12 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Open Mods Folder": "Abrir carpeta de mods",
+  "Optifine Alternatives": "Alternativas a Optifine",
+  "Proceed Anyway": "Continuar de todos modos",
+  "Warning: Indium missing from game client": "Advertencia: Falta Indium en el cliente del juego",
+  "Warning: One or more mods present in your game client might have issues caused by the use of Optifabric, ranging from minor visual artifacts to game crashes. It's recommended to remove the mod to avoid these issues and more. If you needed Optifine for one reason or another, check LambdAurora's Optifine Alternatives list:": "Advertencia: Uno o más mods presentes en tu cliente de juego podrían tener problemas causados por el uso de Optifabric, que van desde pequeños artefactos visuales hasta fallos del juego. Se recomienda quitar el mod para evitar estos problemas y más. Si necesitabas Optifine por alguna razón, revisá la lista de Alternativas a Optifine de LambdAurora:",
+  "Warning: One or more mods present in your game client might have issues caused by the use of the Sodium mod without Indium, ranging from minor visual artifacts to game crashes. Click on one of the buttons below to download Indium and avoid these issues and more:": "Advertencia: Uno o más mods presentes en tu cliente de juego podrían tener problemas causados por el uso del mod Sodium sin Indium, que van desde pequeños artefactos visuales hasta fallos del juego. Hacé clic en uno de los botones de abajo para descargar Indium y evitar estos problemas y más:",
+  "Warning: Optifabric present on game client": "Advertencia: Optifabric presente en el cliente del juego"
+ }
+}

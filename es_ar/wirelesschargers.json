@@ -1,0 +1,26 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Advanced Wireless Block Charger": "Cargador inalámbrico avanzado para bloques",
+  "Advanced Wireless Player Charger": "Cargador inalámbrico avanzado para jugadores",
+  "Basic Wireless Block Charger": "Cargador inalámbrico básico para bloques",
+  "Basic Wireless Player Charger": "Cargador inalámbrico básico para jugadores",
+  "Charges blocks in a %1$dx%1$dx%1$d area.": "Carga bloques en un área de %1$dx%1$dx%1$d.",
+  "Charges players' items in a %1$dx%1$dx%1$d area.": "Carga objetos de jugadores en un área de %1$dx%1$dx%1$d.",
+  "Charging rate: %d per block": "Tasa de carga: %d por bloque",
+  "Charging rate: %d per player": "Tasa de carga: %d por jugador",
+  "Craft a wireless charger": "Creá un cargador inalámbrico.",
+  "Craft an advanced wireless block charger": "Creá un cargador de bloques inalámbrico avanzado.",
+  "Craft an advanced wireless player charger": "Creá un cargador inalámbrico avanzado para jugadores.",
+  "Disabled": "Deshabilitado",
+  "Energy stored: %1$d / %2$d": "Energía almacenada: %1$d / %2$d",
+  "High": "Alto",
+  "Highlight area: %s": "Resaltar área: %s.",
+  "Low": "Bajo",
+  "No More Batteries": "Sin más baterías",
+  "No More Cables": "Sin más cables",
+  "Redstone mode: %s": "Modo redstone: %s",
+  "Wireless Chargers": "Cargadores inalámbricos",
+  "Wireless Charging": "Carga inalámbrica"
+ }
+}

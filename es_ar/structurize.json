@@ -1,0 +1,33 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Anchor pos set to x=%d y=%d z=%d": "Posición de anclaje establecida en x=%d y=%d z=%d",
+  "Barrel Horizontal": "Barril horizontal",
+  "Barrel Vertical": "Barril vertical",
+  "Build Tool": "Herramienta de construcción",
+  "Calipers": "Calibre",
+  "First pos set to x=%d y=%d z=%d": "Primera posición establecida en x=%d y=%d z=%d",
+  "Fluid Placeholder": "Marcador de posición de fluido",
+  "Mirror": "Espejo",
+  "Missing first position": "Falta la primera posición",
+  "Missing second position": "Falta la segunda posición",
+  "Placeholder Block": "Bloque marcador de posición",
+  "Point one saved: %d %d %d": "Primer punto guardado: %d %d %d",
+  "Point two saved: %d %d %d.": "Segundo punto guardado: %d %d %d.",
+  "Random": "Aleatorio",
+  "SCAN_%s": "ESCANEO_%s",
+  "Scan Tool": "Herramienta de análisis",
+  "Scan failed to save": "No se pudo guardar el escaneo",
+  "Scan successfully saved as %s": "Escaneo guardado exitosamente como %s",
+  "Schematic too big, max allowed volume is %d blocks": "Esquema demasiado grande, el volumen máximo permitido es de %d bloques",
+  "Second pos set to x=%d y=%d z=%d": "Segunda posición establecida en x=%d y=%d z=%d",
+  "Select": "Seleccionar",
+  "Shape Tool": "Herramienta de formas",
+  "Slot": "Ranura",
+  "Solid Placeholder": "Marcador de posición sólido",
+  "Tag Anchor Block": "Bloque de anclaje de etiqueta",
+  "Tag Tool": "Herramienta de etiquetas",
+  "That was the same point!": "¡Ese era el mismo punto!",
+  "The Scan Tool's anchor position is outside the scanned area! Please move it using shift + right-click!": "¡La posición de anclaje de la herramienta de escaneo está fuera del área escaneada! ¡Movedla usando Mayús + clic derecho!"
+ }
+}

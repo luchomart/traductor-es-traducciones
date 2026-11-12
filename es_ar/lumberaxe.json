@@ -1,0 +1,14 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Axe durability is doubled by default. Set to 1 to make it the same as vanilla axe.": "La durabilidad del hacha se duplica por defecto. Poné 1 para que sea igual a la del hacha normal.",
+  "Diamond Lumberaxe": "Hacha de madera de diamante",
+  "Gold Lumberaxe": "Hacha de madera de oro",
+  "Iron Lumberaxe": "Hacha de madera de hierro",
+  "Lumberaxe": "Lumberaxe",
+  "Lumberaxe Config": "Configuración de Lumberaxe",
+  "Lumberaxe durability multiplier": "Multiplicador de durabilidad de Lumberaxe",
+  "Maximum block broken": "Máximo de bloques que se pueden romper",
+  "Netherite Lumberaxe": "Hacha de madera de netherita"
+ }
+}

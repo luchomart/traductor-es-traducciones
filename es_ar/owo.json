@@ -1,0 +1,14 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%d of %d": "%d de %d",
+  "Add entry": "Agregar entrada",
+  "Done": "Listo",
+  "Exit Minecraft": "Salir de Minecraft",
+  "No matches": "No se encontraron coincidencias",
+  "Reload": "Recargar",
+  "Restart later": "Ignorar el reinicio",
+  "Search...": "Buscar...",
+  "Some changes you made require a restart to apply": "Algunos cambios que hiciste requieren un reinicio para aplicarse"
+ }
+}

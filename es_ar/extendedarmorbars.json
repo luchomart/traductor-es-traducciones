@@ -1,0 +1,16 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Armor Bar Y Offset": "Desplazamiento vertical de la barra de armadura",
+  "Colors": "Colores",
+  "Disabling this will only disable this mods\noverriding of the armor bar. It will NOT\ndisable the armor bar completely.": "Desactivar esto solo deshabilitará la\nmodificación de la barra de armadura de este mod.\nNO deshabilitará la barra de armadura por completo.",
+  "Don't move armor bar when over 10 hearts": "No mover la barra de armadura al superar los 10 corazones",
+  "Enable Armor Bar": "Habilitar barra de armadura",
+  "Enable Toughness Bar": "Habilitar barra de resistencia",
+  "Hide Armor Bar When Empty": "Ocultar barra de armadura cuando esté vacía",
+  "Hide Background for Armor Bar": "Ocultar fondo de la barra de armadura",
+  "Hide Background for Toughness Bar": "Ocultar fondo de la barra de resistencia",
+  "Hide Toughness Bar When Empty": "Ocultar barra de resistencia cuando esté vacía",
+  "Toughness Bar Y Offset": "Desplazamiento vertical de la barra de resistencia"
+ }
+}

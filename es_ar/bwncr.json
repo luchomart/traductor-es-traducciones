@@ -1,0 +1,16 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Bad Wither No Cookie - Reloaded": "Bad Wither no Cookie - Reloaded",
+  "Debug Mode": "Modo de depuración",
+  "Example: entity.sheep.step - use /listen for other sounds": "Ejemplo: entity.sheep.step - usá /listen para otros sonidos",
+  "Extra localized sounds that you can cancel": "Sonidos localizados adicionales que podés cancelar",
+  "General": "General",
+  "Global basic sounds and events you can cancel": "Sonidos y eventos básicos globales que podés cancelar",
+  "Silence Dragon": "Silenciar dragón",
+  "Silence Lightning": "Silenciar rayos",
+  "Silence Trader": "Silenciar comerciante",
+  "Silence Us": "Silenciar sonidos personalizados",
+  "Silence Wither": "Silenciar descomposición"
+ }
+}

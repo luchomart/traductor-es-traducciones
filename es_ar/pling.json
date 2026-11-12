@@ -1,0 +1,27 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Pitch": "Tono",
+  "Play When Resources Reloaded": "Reproducir al recargar recursos",
+  "Play When World Loaded": "Reproducir al cargar el mundo",
+  "Play When World Optimized": "Reproducir al optimizar el mundo",
+  "Pling Configuration": "Configuración de Pling",
+  "Request Window Attention": "Solicitar atención de la ventana",
+  "Require Unfocused": "Requerir que no esté enfocado",
+  "Sound": "Sonido",
+  "The identifier of the sound to play.": "El identificador del sonido que se va a reproducir.",
+  "The pitch of the sound to play.": "El tono del sonido a reproducir.",
+  "When enabled, the loading sound will": "Cuando está habilitado, el sonido de carga se...",
+  "When enabled, the system will request": "Cuando está habilitado, el sistema solicitará",
+  "attention to the game window when the": "atención a la ventana del juego cuando",
+  "by any cause, such as by changing": "por cualquier motivo, como al cambiar",
+  "loading sound is played. For example,": "se reproduce el sonido de carga. Por ejemplo,",
+  "not focused.": "no está enfocada.",
+  "on macOS the Dock icon will bounce.": "en macOS, el icono de la Dock parpadeará.",
+  "only play when the game window is": "solo se reproduce cuando la ventana del juego",
+  "play after a world is loaded.": "se reproduce después de que se carga un mundo.",
+  "play after resources are reloaded": "reproduce después de que se recargan los recursos",
+  "play after world optimization completes.": "se reproduce después de que se completa la optimización del mundo.",
+  "the loaded resource pack list.": "la lista de paquetes de recursos cargados."
+ }
+}

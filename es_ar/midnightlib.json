@@ -1,0 +1,20 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Common Library for Team MidnightDust's mods.": "Biblioteca común para los mods del equipo MidnightDust.",
+  "Common Library for Team MidnightDust's mods.\nProvides a config api, automatic integration with other mods, common utils, and cosmetics.": "Biblioteca común para los mods del equipo MidnightDust.\nProporciona una API de configuración, integración automática con otros mods, utilidades comunes y elementos cosméticos.",
+  "CurseForge": "CurseForge",
+  "Enable Config Screen List": "Activar la lista de pantallas de configuración",
+  "Enable Supporter Hats": "Activar sombreros exclusivos",
+  "MidnightConfig Overview": "Descripción general de MidnightConfig",
+  "MidnightLib Config": "Configuración de MidnightLib",
+  "Modrinth": "Modrinth",
+  "Texture of config screen backgrounds": "Textura de los fondos de la pantalla de configuración",
+  "Wiki": "Wiki",
+  "§aYes": "§aSí",
+  "§bModMenu": "§bModMenu",
+  "§cNo": "§cNo",
+  "§nMidnightHats": "§nMidnightHats",
+  "§nMidnightLib": "§nMidnightLib"
+ }
+}

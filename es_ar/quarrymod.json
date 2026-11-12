@@ -1,0 +1,32 @@
+{
+ "revisadas": {},
+ "ia": {
+  " blocks": " bloques",
+  "Can't output Quarry Tube": "No se puede extraer el tubo de cantera",
+  "Can't output mine drop": "No se puede extraer el mineral",
+  "Complete": "Completo",
+  "Effects don't sums\nYou need increase level of\nupgrade to get stronger effect": "Los efectos no se suman.\nNecesitás aumentar el nivel de\nla mejora para obtener un efecto más fuerte",
+  "Extracting Tube": "Extrayendo tubo",
+  "Filler Blocks": "Bloques de relleno",
+  "Fortune Upgrade Lvl1": "Mejora de fortuna nivel 1",
+  "Fortune Upgrade Lvl2": "Mejora de fortuna nivel 2",
+  "Fortune Upgrade Lvl3": "Mejora de fortuna nivel 3",
+  "Increase Quarry sqr radius of mining": "Aumenta el radio de excavación de la cantera",
+  "Increase radius to: ": "Aumenta el radio a: ",
+  "Mine All": "Excavar todo",
+  "Mine Ores": "Excavar minerales",
+  "Not enough Quarry Tube": "No hay suficientes tubos de cantera",
+  "Quarry": "Cantera",
+  "Quarry Tube": "Tubo de cantera",
+  "Quarry Tubes": "Tubos de cantera",
+  "Quarry mine as pickaxe with Fortune I": "La cantera excava como un pico con Fortuna I",
+  "Quarry mine as pickaxe with Fortune II": "La cantera excava como un pico con Fortuna II",
+  "Quarry mine as pickaxe with Fortune III": "La cantera excava como un pico con Fortuna III",
+  "Quarry mine as pickaxe with Silk Touch": "La cantera excava como un pico con Toque de seda",
+  "Quarry upgrades": "Mejoras para la cantera",
+  "Range Extender Upgrade Lvl1": "Mejora de extensión de rango nivel 1",
+  "Range Extender Upgrade Lvl2": "Mejora de extensión de rango nivel 2",
+  "Range Extender Upgrade Lvl3": "Mejora de extensión de rango nivel 3",
+  "Silk Touch Upgrade": "Mejora de toque de seda"
+ }
+}

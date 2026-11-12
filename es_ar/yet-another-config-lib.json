@@ -1,0 +1,28 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Close Minecraft": "Cerrar Minecraft",
+  "Closes the GUI.": "Cierra la interfaz.",
+  "Config requires restart!": "La configuración requiere reinicio.",
+  "EXECUTE": "EJECUTAR",
+  "Failed to apply": "No se pudieron aplicar los cambios.",
+  "False": "Falso",
+  "Forgets pending changes and closes the GUI.": "Deshace los cambios pendientes y cierra la interfaz.",
+  "Ignore": "Ignorar",
+  "List is empty": "La lista está vacía",
+  "Makes the changes made permanent.": "Hace que los cambios realizados sean permanentes.",
+  "Move down": "Mover hacia abajo",
+  "Move up": "Mover hacia arriba",
+  "New entry": "Nueva entrada",
+  "One or more options needs you to restart the game to apply the changes.": "Una o más opciones requieren que reinicies el juego para aplicar los cambios.",
+  "Remove": "Eliminar",
+  "Resets all options to default. (This is reversible!)": "Restaura todas las opciones a los valores predeterminados. (¡Esto es reversible!)",
+  "Reverts all options back to what they were before editing.": "Revierte todas las opciones a como estaban antes de la edición.",
+  "Save Changes": "Guardar cambios",
+  "Save before exiting!": "¡Guardá antes de salir!",
+  "Save or cancel to exit the GUI.": "Guardá o cancelá para salir de la interfaz.",
+  "There was an error and the changes couldn't be applied.": "Ocurrió un error y no se pudieron aplicar los cambios.",
+  "True": "Verdadero",
+  "Undo": "Deshacer"
+ }
+}

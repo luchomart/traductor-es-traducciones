@@ -1,0 +1,12 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Connected Textures": "Texturas conectadas",
+  "Continuity Configuration": "Configuración de Continuity",
+  "Custom Block Layers": "Capas de bloque personalizadas",
+  "Emissive Textures": "Texturas emisivas",
+  "Enable or disable connected textures for blocks.": "Activá o desactivá las texturas conectadas para los bloques.",
+  "Enable or disable custom block layers.": "Activá o desactivá las capas de bloque personalizadas.",
+  "Enable or disable emissive textures for block and item models.": "Activá o desactivá las texturas emisivas para los modelos de bloques y objetos."
+ }
+}

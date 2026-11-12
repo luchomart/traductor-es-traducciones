@@ -1,0 +1,20 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Abort": "Cancelar",
+  "Accept Risk": "Aceptar riesgo",
+  "Create new entry": "Crear nueva entrada",
+  "Default": "Predeterminado",
+  "Discarding changes!": "¡Descartando cambios!",
+  "Error": "Error",
+  "Go to issue": "Ir al problema",
+  "Info": "Información",
+  "Open": "Abrir",
+  "Reset to:": "Restablecer a:",
+  "Save & Close": "Guardar y cerrar",
+  "There are some warnings in the current configuration.\nPlease look through them and then continue.": "Hay algunas advertencias en la configuración actual.\nPor favor, revisalas y luego continuá.",
+  "There have been found errors in the current configuration.\n§lProceeding will result in data loss!": "Se encontraron errores en la configuración actual.\n§l¡Si continuás, se perderán los datos!",
+  "Warning": "Advertencia",
+  "You're about to discard all changes that you made. Do you want to continue?": "Estás por descartar todos los cambios que hiciste. ¿Querés continuar?"
+ }
+}

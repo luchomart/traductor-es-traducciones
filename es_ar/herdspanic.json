@@ -1,0 +1,12 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Alert All Animals": "Alertar a todos los animales",
+  "Animal Sheltering": "Los animales buscan refugio",
+  "Excluded Entity List": "Lista de entidades excluidas",
+  "Herds Panic": "Pánico de las manadas",
+  "HerdsPanic Config": "Configuración de HerdsPanic",
+  "Panic Distance": "Distancia de pánico",
+  "Panic Time": "Tiempo de pánico"
+ }
+}

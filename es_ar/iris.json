@@ -1,0 +1,12 @@
+{
+ "revisadas": {},
+ "ia": {
+  "\nmacOS is known to have issues with many shader packs.": "\nSe sabe que macOS tiene problemas con muchos paquetes de shaders.",
+  "Color Space": "Espacio de color",
+  "Shader Packs": "Paquetes de shaders",
+  "Shader Packs...": "Paquetes de shaders...",
+  "The color space to transform the screen to. Works on top of shader packs. Use SRGB if unsure.": "El espacio de color para transformar la pantalla. Funciona sobre los paquetes de shaders. Usá SRGB si no estás seguro.",
+  "The shader requested a specific feature (SSBO) that is not supported by your GPU, it may not work correctly.": "El shader solicitado requiere una función específica (SSBO) que no es compatible con tu GPU, y es posible que no funcione correctamente.",
+  "The shadow render distance controls how far away terrain can potentially be rendered in the shadow pass. Lower distances mean that less terrain will be rendered, improving frame rates. This option cannot be changed on packs which explicitly specify a shadow render distance. The actual shadow render distance is capped by the View Distance setting.": "La distancia de renderizado de sombras controla qué tan lejos puede ser renderizado el terreno en la fase de sombra. Las distancias más bajas significan que se renderizará menos terreno, mejorando los FPS. Esta opción no se puede cambiar en los paquetes que especifican explícitamente una distancia de renderizado de sombras. La distancia real de renderizado de sombras está limitada por la configuración de Distancia de visión."
+ }
+}

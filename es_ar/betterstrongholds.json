@@ -1,0 +1,20 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Cobweb Spawn Rate (NORMAL)": "Tasa de aparición de telarañas (NORMAL)",
+  "Cobweb Spawn Rate (SPAWNER)": "Tasa de aparición de telarañas (GENERADOR)",
+  "Default: 0.1": "Predeterminado: 0.1",
+  "Default: 0.2": "Predeterminado: 0.2",
+  "Default: 0.3": "Predeterminado: 0.3",
+  "General Settings": "Configuración general",
+  "General settings.": "Configuración general.",
+  "Lantern Spawn Rate": "Tasa de aparición de faroles",
+  "The rate at which cobwebs will spawn around spider spawners in libraries.": "La tasa a la que aparecerán telarañas alrededor de los generadores de arañas en las bibliotecas.",
+  "The rate at which cobwebs will spawn in various parts of the stronghold.": "La tasa a la que aparecerán telarañas en varias partes de la fortaleza.",
+  "The rate at which lanterns spawn throughout the stronghold.": "La tasa a la que aparecerán linternas por toda la fortaleza.",
+  "The rate at which torches spawn throughout the stronghold.": "La tasa a la que aparecerán antorchas por toda la fortaleza.",
+  "Torch Spawn Rate": "Tasa de aparición de antorchas",
+  "Use /locate structure betterstrongholds:stronghold instead!": "¡Usá /locate structure betterstrongholds:stronghold en su lugar!",
+  "YUNG's Better Strongholds": "YUNG's Better Strongholds"
+ }
+}

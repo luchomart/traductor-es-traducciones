@@ -1,0 +1,29 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Can't change upgrade; too many items.": "No podés cambiar la mejora; hay demasiados objetos.",
+  "Compacting Drawer": "Cajón compactador",
+  "Contains:": "Contiene:",
+  "Creative Drawer Upgrade": "Mejora de cajón creativa",
+  "Double Drawer": "Cajón doble",
+  "Drawer": "Cajón",
+  "Drawer Access Point": "Punto de acceso de cajón",
+  "Drawer Connector": "Conector de cajón",
+  "Drawer Downgrade": "Degradación de cajón",
+  "Drawer Lock": "Cerradura de cajón",
+  "Drawer Upgrade I": "Mejora de cajón I",
+  "Drawer Upgrade II": "Mejora de cajón II",
+  "Drawer Upgrade III": "Mejora de cajón III",
+  "Drawer Upgrade IV": "Mejora de cajón IV",
+  "Empty": "Vacío",
+  "Extended Drawers": "Extensión de cajones",
+  "Extending Drawers": "Extensión de cajones",
+  "Modifiers: %s": "Modificadores: %s",
+  "Press SHIFT for modifiers": "Presioná SHIFT para ver los modificadores",
+  "Quad Drawer": "Cajón cuádruple",
+  "Shadow Drawer": "Cajón de sombra",
+  "This guide will take you through all the steps of setting up great storage systems using drawers, as well as how each item and block in the mod work.": "Esta guía te va a llevar por todos los pasos para configurar sistemas de almacenamiento geniales usando cajones, además de cómo funciona cada objeto y bloque del mod.",
+  "Upgrade Frame": "Marco de mejora",
+  "Version 1.4.5": "Versión 1.4.5"
+ }
+}

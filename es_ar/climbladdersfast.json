@@ -1,0 +1,11 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Climb Down Speed": "Velocidad de descenso",
+  "Climb Up Speed": "Velocidad de ascenso",
+  "ClimbLaddersFast": "ClimbLaddersFast",
+  "Disable Scaffolding Collision": "Desactivar colisión con andamios",
+  "Disable Scaffolding Fast Climbing": "Desactivar ascenso rápido en andamios",
+  "Disable Vines Fast Climbing": "Desactivar ascenso rápido en enredaderas"
+ }
+}

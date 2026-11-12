@@ -1,0 +1,19 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Allows you to teleport as though holding a Staff of Traveling": "Te permite teletransportarte como si estuvieras sosteniendo un Bastón de Viaje.",
+  "Destination obstructed.": "El destino está obstruido.",
+  "Enter a name to use it": "Ingresá un nombre para usarlo.",
+  "Increases the distance you may teleport with a Staff of Traveling": "Aumenta la distancia que podés teletransportarte con un Bastón de Viaje.",
+  "Look at this with a Staff of Traveling, or Teleportation enchantment to teleport.": "Mirá esto con un Bastón de Viaje, o con el encantamiento de Teletransportación para teletransportarte.",
+  "No travel anchor found.": "No se encontró ninguna ancla de viaje.",
+  "Range": "Alcance",
+  "Search": "Buscar",
+  "Sneak + Right-Click to short range Teleport. Look at Travel Anchor to warp.": "Agáchate y hacé clic derecho para un teletransporte de corto alcance. Mirá la Ancla de Viaje para teletransportarte.",
+  "Staff of Traveling": "Bastón de viaje",
+  "Teleportation": "Teletransportación",
+  "Teleported to %s.": "Teletransportado a %s.",
+  "Travel Anchor": "Ancla de viaje",
+  "Travel Anchors": "Anclas de viaje"
+ }
+}

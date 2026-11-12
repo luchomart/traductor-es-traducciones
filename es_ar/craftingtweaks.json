@@ -1,0 +1,24 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Balance Grid": "Equilibrar cuadrícula",
+  "Clear Grid": "Vaciar cuadrícula",
+  "Compress All": "Comprimir todo",
+  "Compress Item": "Comprimir objeto",
+  "Compress Stack": "Comprimir pack",
+  "Crafting Tweaks": "Ajustes de crafteo",
+  "Decompress All": "Descomprimir todo",
+  "Decompress Item": "Descomprimir objeto",
+  "Decompress Stack": "Descomprimir pack",
+  "Drops items if necessary": "Tira los objetos si es necesario",
+  "Force Clear Grid": "Forzar vaciado de cuadrícula",
+  "Mode": "Modo",
+  "Refill Last": "Rellenar último",
+  "Refill Last (Stack)": "Rellenar último (pack)",
+  "Rotate Grid": "Rotar cuadrícula",
+  "Rotate Grid (CCW)": "Rotar cuadrícula (antihorario)",
+  "Spread Grid": "Repartir cuadrícula",
+  "Toggle Buttons": "Alternar botones",
+  "Transfer to Crafting Grid": "Transferir a la cuadrícula de crafteo"
+ }
+}

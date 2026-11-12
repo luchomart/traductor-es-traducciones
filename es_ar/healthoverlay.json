@@ -1,0 +1,25 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Absorption": "Absorción",
+  "Absorption: Over Health": "Absorción: Sobre la salud",
+  "Absorption: Separate": "Absorción: Separada",
+  "Always": "Siempre",
+  "Cancel": "Cancelar",
+  "Colors": "Colores",
+  "Counter Position (§cWIP§r)": "Posición del contador (§cEn desarrollo§r)",
+  "Frozen": "Frozen",
+  "Health": "Salud",
+  "Heart Counter": "Contador de corazones",
+  "Heart Position": "Posición del corazón",
+  "Normal": "Normal",
+  "Off": "Apagado",
+  "On Change": "Al cambiar",
+  "Poisoned": "Envenenado",
+  "QoL & GUI": "Comodidad y GUI",
+  "Save & Quit": "Guardar y salir",
+  "Vanilla: False": "Vanilla: Falso",
+  "Vanilla: True": "Vanilla: Verdadero",
+  "Withered": "Marchitado"
+ }
+}

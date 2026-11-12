@@ -1,0 +1,25 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%s has recovered a DISK Drive with the UUID of [%s].": "%s recuperó un disco duro con el UUID [%s].",
+  "16k ME DISK Drive": "Disco duro ME de 16k",
+  "16k Portable DISK": "Disco portátil de 16k",
+  "1k ME DISK Drive": "Disco duro ME de 1k",
+  "1k Portable DISK": "Disco portátil de 1k",
+  "256k ME DISK Drive": "Disco duro ME de 256k",
+  "256k Portable DISK": "Disco portátil de 256k",
+  "4k ME DISK Drive": "Disco duro ME de 4k",
+  "4k Portable DISK": "Disco portátil de 4k",
+  "64k ME DISK Drive": "Disco duro ME de 64k",
+  "64k Portable DISK": "Disco portátil de 64k",
+  "Advanced Inscriber": "Prensa avanzada",
+  "Crystal Growth Chamber": "Cámara de crecimiento de cristales",
+  "Error, given DISK is empty/no uuid found.": "Error, el disco indicado está vacío o no se encontró un UUID.",
+  "Error, given item is not a DISK.": "Error, el objeto indicado no es un disco.",
+  "Failed to recover DISK Drive: UUID [%s] does not exist.": "No se pudo recuperar el disco duro: el UUID [%s] no existe.",
+  "ME DISK Housing": "Carcasa de disco ME",
+  "ME DISKs": "Discos ME",
+  "Portable DISKs": "Discos portátiles",
+  "UUID of given DISK is: [%s]": "El UUID del disco indicado es: [%s]"
+ }
+}

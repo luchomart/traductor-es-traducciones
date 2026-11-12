@@ -1,0 +1,26 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Emoji Autocompletion": "Autocompletado de emojis",
+  "Emoji Render": "Renderizado de emojis",
+  "Emoji Selector": "Selector de emojis",
+  "Emoji Types": "Tipos de emojis",
+  "Emojiful": "Emojiful",
+  "Enable Emoji Rendering": "Habilitar renderizado de emojis",
+  "Enable Emoji Selection GUI in the chat text line": "Habilitar la interfaz de selección de emojis en la línea de texto del chat",
+  "Enable Profanity Filter, this will replace bad words with emoji": "Habilitar filtro de lenguaje ofensivo, esto reemplazará las malas palabras con emojis",
+  "GIF emojis": "Emojis GIF",
+  "Load Custom Emojis": "Cargar emojis personalizados",
+  "Load Twemoji": "Cargar Twemoji",
+  "Load animated emojis, if disabled they will be a still image": "Cargar emojis animados, si se deshabilita serán imágenes estáticas",
+  "Load server datapacks": "Cargar datapacks del servidor",
+  "Loads Twemojis used in sites like Twitter and Discord": "Carga Twemojis usados en sitios como Twitter y Discord",
+  "Loads custom emojis provided by Emojiful": "Carga emojis personalizados provistos por Emojiful",
+  "Loads datapack emojis provided by the server you join": "Carga emojis de datapacks provistos por el servidor al que te unís",
+  "Profanity Filter": "Filtro de lenguaje ofensivo",
+  "Replace short versions of emoji like :) into :smile: so they can be rendered as emoji": "Reemplaza versiones cortas de emojis como :) por :smile: para que puedan renderizarse como emojis",
+  "Replacement word": "Palabra de reemplazo",
+  "Replacement word for the profanity filter": "Palabra de reemplazo para el filtro de lenguaje ofensivo",
+  "Short Emoji Replacement": "Reemplazo de emojis cortos"
+ }
+}

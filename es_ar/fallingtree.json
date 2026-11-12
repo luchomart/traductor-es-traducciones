@@ -1,0 +1,12 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Chopper": "Talador",
+  "Chopper (fall all block)": "Talador (caída de todos los bloques)",
+  "Chopper (fall block)": "Talador (caída de bloques)",
+  "Chopper (fall item)": "Talador (caída de objetos)",
+  "Chopper (instantaneous)": "Talador (instantáneo)",
+  "Chopper (shift down)": "Talador (agachado)",
+  "General": "General"
+ }
+}

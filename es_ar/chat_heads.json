@@ -1,0 +1,10 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Before Line": "Antes de la línea",
+  "Before Name": "Antes del nombre",
+  "Chat Heads": "Cabezas en el chat",
+  "Render Position": "Posición de renderizado",
+  "Where to render the chat heads\n\nNote: \"Before Name\" may be incompatible with certain mods.\nFor Caxton and Modern UI, \"Before Line\" will automatically be used.": "Dónde renderizar las cabezas en el chat\n\nNota: \"Antes del nombre\" puede ser incompatible con ciertos mods.\nPara Caxton y Modern UI, se usará automáticamente \"Antes de la línea\"."
+ }
+}

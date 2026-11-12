@@ -1,0 +1,12 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Amount of layers of leaves before the inside of the leaves is culled.\n1 = Fastest but least good-looking.\n2 = Recommended.\n4 = Slowest but most good-looking.": "Cantidad de capas de hojas antes de que el interior de las hojas sea descartado.\n1 = Más rápido pero se ve peor.\n2 = Recomendado.\n4 = Más lento pero se ve mejor.",
+  "Cull Leaves": "Descartar hojas",
+  "Cull Leaves Depth": "Profundidad de descarte de hojas",
+  "Cull Less Leaves": "Descartar menos hojas",
+  "Depth": "Profundidad",
+  "Enabled": "Activado",
+  "Enables Cull Less Leaves mod.": "Activa el mod Cull Less Leaves."
+ }
+}

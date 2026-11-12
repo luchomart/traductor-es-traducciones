@@ -1,0 +1,8 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Finished updating GraphLib block-nodes from %s to %s.": "Finalizada la actualización de los nodos de bloques de GraphLib de %s a %s.",
+  "Removed %d empty graphs.": "Se eliminaron %d gráficos vacíos.",
+  "Updating GraphLib block-nodes from %s to %s... This could cause some lag.": "Actualizando los nodos de bloques de GraphLib de %s a %s... Esto podría causar algo de lag."
+ }
+}

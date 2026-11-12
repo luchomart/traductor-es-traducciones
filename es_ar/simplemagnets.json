@@ -1,0 +1,31 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Advanced Demagnetization Coil": "Bobina de desmagnetización avanzada.",
+  "Advanced Magnet": "Imán avanzado.",
+  "Blacklist": "Lista negra",
+  "Can pick up items and xp up to %d blocks away when activated": "Podés recoger objetos y experiencia hasta a %d bloques de distancia cuando está activado.",
+  "Can pick up items and xp up to %d blocks away when activated, items can be filtered": "Podés recoger objetos y experiencia hasta a %d bloques de distancia cuando está activado; los objetos se pueden filtrar.",
+  "Decrease Range": "Disminuir alcance.",
+  "Demagnetization Coil": "Bobina de desmagnetización.",
+  "Experience": "Experiencia.",
+  "False": "Falso",
+  "Highlight area: %s": "Resaltar área: %s.",
+  "Ignore NBT": "Ignorar NBT.",
+  "Increase Range": "Aumentar alcance.",
+  "Item Filter": "Filtro de objeto",
+  "Items": "Items",
+  "Magnet": "Imán",
+  "Magnet:": "Imán:",
+  "Match NBT": "Coincidir con NBT",
+  "Off": "Apagado",
+  "On": "Activado",
+  "Prevents items up to %d blocks away from being attracted by magnets": "Impide que los objetos hasta a %d bloques de distancia sean atraídos por imanes.",
+  "Prevents items up to %d blocks away from being attracted by magnets, items can be filtered": "Impide que los objetos hasta a %d bloques de distancia sean atraídos por imanes; los objetos se pueden filtrar.",
+  "Range (%1$dx%1$dx%1$d Blocks)": "Alcance (%1$dx%1$dx%1$d bloques).",
+  "Simple Magnets": "Imanes simples.",
+  "Toggle Magnet": "Activar/desactivar imán.",
+  "True": "Verdadero",
+  "Whitelist": "Lista blanca"
+ }
+}
