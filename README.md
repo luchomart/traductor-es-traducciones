@@ -28,16 +28,19 @@ Cada archivo tiene dos secciones, con el **texto en inglés como clave** (así s
 Las misiones de FTB Quests y las fichas de REI son de cada modpack y no van acá (por ahora).
 
 ## Aportar
-1. Traducí con el mod y corregí lo que haga falta con el editor del juego (las correcciones entran como revisadas).
-2. Hacé un fork de este repo y cloná tu fork.
-3. Con [`tools/compartir.py`](https://github.com/luchomart/traductor-es/blob/main/tools/compartir.py) del repo del mod:
-   ```
-   python3 compartir.py "<carpeta de tu instancia>" --repo <carpeta de tu fork>
-   ```
-   La variante (es_ar, es_es…) sale sola de la que usaste en el juego. Lo que ya está en el repo no se pisa.
-4. Revisá: `python3 herramientas/validar.py`, y abrí un pull request.
+Traducí con el mod y corregí lo que haga falta con el editor del juego (las correcciones entran como revisadas).
+Después, en el juego: **Herramientas → Compartir…**
 
-Para mejorar una traducción a mano: editala y pasala de `ia` a `revisadas`. Después, `python3 herramientas/validar.py --indice`.
+- **Enviar a la comunidad** (lo más fácil): la primera vez te pide conectar tu cuenta de GitHub con un código;
+  después, un clic. El mod sube tus traducciones nuevas y abre el pull request por vos.
+- **Exportar carpeta** (sin conectar la cuenta): el mod arma una carpeta `es_ar/` (o la de tu variante) y abre la
+  página de subida de este repo. Arrastrá esa carpeta, pegá el título que el mod ya copió (Ctrl+V) y tocá *Propose changes*.
+
+En los dos casos la variante sale sola, y cada archivo ya trae lo que estaba en el repo más lo tuyo: no se pisa nada.
+Un control automático revisa cada pull request antes de aceptarlo. `index.json` no se toca: se rehace solo.
+
+Para muchos modpacks a la vez está [`tools/compartir.py`](https://github.com/luchomart/traductor-es/blob/main/tools/compartir.py)
+del repo del mod. Para mejorar una traducción a mano: editala y pasala de `ia` a `revisadas`.
 
 ## Licencia
 [CC BY-NC-SA 4.0](LICENSE). Los textos originales pertenecen a los autores de cada mod.

@@ -2,11 +2,12 @@
 """
 Revisa que el repo esté bien formado. Lo corre GitHub en cada pull request.
 
-    python3 herramientas/validar.py            revisa todo
+    python3 herramientas/validar.py            revisa los archivos de traducciones
     python3 herramientas/validar.py --indice   además rehace index.json
 
-Revisa: carpetas de variantes válidas, nombres de archivo, formato {"revisadas": {...}, "ia": {...}},
-que los marcadores (%s, %d, %1$s...) del inglés estén en el español, y que index.json esté al día.
+Revisa: carpetas de variantes válidas, nombres de archivo, formato {"revisadas": {...}, "ia": {...}} y
+que los marcadores (%s, %d, %1$s...) del inglés estén en el español.
+index.json no hace falta tocarlo: GitHub lo rehace solo cada vez que algo entra a main.
 """
 import hashlib
 import json
@@ -87,8 +88,6 @@ def main():
         if "--indice" in sys.argv:
             f.write_text(nuevo, encoding="utf-8")
             print("index.json rehecho")
-        elif not f.exists() or f.read_text(encoding="utf-8") != nuevo:
-            errores.append("index.json no está al día: correr python3 herramientas/validar.py --indice")
 
     for e in errores:
         print("✗", e)
