@@ -1,0 +1,27 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Apply": "Aplicar",
+  "Back": "Volver",
+  "Background Strength: %d": "Fuerza del fondo: %d",
+  "Customize Light Color": "Personalizar color de luz",
+  "Determines how much of the sky is covered by nebulas. Lower values will create few, small, sparse nebulas.": "Determina cuánto del cielo está cubierto por nebulosas. Los valores más bajos crearán pocas nebulosas, pequeñas y dispersas.",
+  "Determines the size of the nebulas. Higher values will make nebulas appear smaller, and vice-versa.": "Determina el tamaño de las nebulosas. Los valores más altos harán que las nebulosas parezcan más pequeñas, y viceversa.",
+  "Determines the strength of the rainbow background. Higher values will make the background appear brighter.": "Determina la fuerza del fondo arcoíris. Los valores más altos harán que el fondo parezca más brillante.",
+  "Determines the transparency of the nebulas. Higher values will make nebulas appear more visible.": "Determina la transparencia de las nebulosas. Los valores más altos harán que las nebulosas sean más visibles.",
+  "Determines whether nebulas are rendered during the day. If disabled, nebulas will only be rendered at night, fading in and out.": "Determina si las nebulosas se renderizan durante el día. Si está Desactivado, las nebulosas solo se renderizarán por la noche, apareciendo y desapareciendo gradualmente.",
+  "In custom dimensions": "En dimensiones personalizadas",
+  "Nebula Coverage: %d": "Cobertura de nebulosa: %d",
+  "Nebula Scale: %dx": "Escala de nebulosa: %dx",
+  "Nebula Settings": "Ajustes de nebulosa",
+  "Nebula Strength: %d": "Fuerza de nebulosa: %d",
+  "Nicer Skies Settings": "Ajustes de Nicer Skies",
+  "Render During Day": "Renderizar durante el día",
+  "Render Nebulas": "Renderizar nebulosas",
+  "Reset": "Restablecer",
+  "Toggle Features": "Alternar funciones",
+  "Tweak the light color with slightly warmer block lights and darker, bluer nights.": "Ajusta el color de la luz con luces de bloque ligeramente más cálidas y noches más oscuras y azules.",
+  "Twinkle Stars": "Estrellas centelleantes",
+  "§l§eNote:§r \nDisable \"Twinkle Stars\" for compatibility with other mods.\n(e.g. Custom Stars)": "§l§eNota:§r \nDesactiva \"Twinkle Stars\" para la compatibilidad con otros mods.\n(p. ej., Custom Stars)"
+ }
+}

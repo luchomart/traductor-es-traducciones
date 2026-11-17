@@ -1,0 +1,10 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Abridged Config": "Configuración de Abridged",
+  "Directly Sample Heightmap": "Muestrear mapa de altura directamente",
+  "Directly samples the heightmap when checking for a valid bridge configuration.\n\nBy default, this is disabled and an approximation of the heightmap is used with the `depth` field in the noise router.\n\nThe approximation is vastly more efficient and increases successful bridge placements, but may break under strange circumstances (e.g. while using Tectonic or the Amplified world type).": "Muestrea directamente el mapa de altura al comprobar si hay una configuración de puente válida.\n\nPor defecto, esto está desactivado y se usa una aproximación del mapa de altura con el campo `depth` en el generador de ruido.\n\nLa aproximación es mucho más eficiente y aumenta las colocaciones exitosas de puentes, pero puede fallar en circunstancias extrañas (por ejemplo, al usar Tectonic o el tipo de mundo Amplificado).",
+  "Frequency": "Frecuencia",
+  "The chance of a bridge placing is a valid position is found.": "La probabilidad de que se coloque un puente si se encuentra una posición válida."
+ }
+}

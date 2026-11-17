@@ -1,0 +1,20 @@
+{
+ "revisadas": {},
+ "ia": {
+  "⌂ Structure": "⌂ Estructura",
+  "☀ Biome": "☀ Bioma",
+  "☃ Dummy": "☃ Ficticio",
+  "☑ Check": "☑ Comprobación",
+  "⛏ Block Interaction": "⛏ Interacción con bloque",
+  "✔ Advancement": "✔ Progreso",
+  "❓ Composite": "❓ Compuesto",
+  "⭐ Experience": "⭐ Experiencia",
+  "🌊 Changed Dimension": "🌊 Cambio de dimensión",
+  "🎣 Item Interaction": "🎣 Interacción con objeto",
+  "💪 Stat": "💪 Estadísticas",
+  "🗡 Kill Entity": "🗡 Matar entidad",
+  "🧪 Acquire Item": "🧪 Obtener objeto",
+  "🪓 Entity Interaction": "🪓 Interacción con entidad",
+  "🪓 Recipe": "🪓 Receta"
+ }
+}

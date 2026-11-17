@@ -1,0 +1,17 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%s %s Slot": "%s ranura de %s",
+  "%s %s Slots": "%s ranuras de %s",
+  "+%s %s Slot": "+%s ranura de %s",
+  "+%s %s Slots": "+%s ranuras de %s",
+  "Curios Networking Failure": "Error de red de Curios",
+  "Dropped items in all slots for %s": "Objetos soltados en todas las ranuras para %s",
+  "Dropped items in slot %s for %s": "Objetos soltados en la ranura %s para %s",
+  "Entity curios inventory": "Inventario de curios de la entidad",
+  "Inactive Slot": "Ranura inactiva",
+  "Page %d / %d": "Página %d / %d",
+  "Replaced slot %s for %s with %s": "Ranura %s para %s reemplazada con %s",
+  "Toggle Cosmetics": "Alternar cosméticos"
+ }
+}

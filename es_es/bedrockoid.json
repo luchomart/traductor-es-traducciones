@@ -1,0 +1,31 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Bedrockoid Blacklists": "Listas negras de Bedrockoid",
+  "Bedrockoid Configuration": "Configuración de Bedrockoid",
+  "Bedrockoid Features": "Características de Bedrockoid",
+  "Can Bedrock Edition reach around placement be used": "Permitir el uso de la colocación con alcance de Bedrock Edition",
+  "Can be fly with elytra stopped by pressing jump button": "Permitir detener el vuelo con élitros pulsando el botón de salto",
+  "Can be mushroom trees spawn in swamp": "Permitir que aparezcan árboles de champiñones en el pantano",
+  "Can be plants covered by snow": "Permitir que las plantas se cubran de capa de nieve",
+  "Can be redstone connected to piston": "Permitir que la redstone se conecte al pistón",
+  "Can be wet sponges dried out in dry biomes": "Permitir que las esponjas mojadas se sequen en biomas áridos",
+  "Can cauldron be filled by liquid naturally": "Permitir que el caldero se llene de líquido de forma natural",
+  "Can entities in fire light campfires and candles": "Permitir que las entidades en llamas enciendan hogueras y velas",
+  "Can item with fire aspect fire tnt, campfires and candles": "Permitir que un objeto con aspecto ígneo encienda dinamita, hogueras y velas",
+  "Can leaves be painted in white if snow above them or biome is snowy": "Permitir que las hojas se pongan blancas si hay una capa de nieve encima o el bioma es nevado",
+  "Can living shulkers be dyed": "Permitir teñir shulkers vivos",
+  "Can plants be duped by bonemealing": "Permitir duplicar plantas usando tinte de hueso",
+  "Can shield be activated if sneaking": "Permitir activar el escudo al agacharse",
+  "Can sugarcane be bonemealed": "Permitir usar tinte de hueso en la caña de azúcar",
+  "Can vines be painted in white if snow above them or biome is snowy": "Permitir que las enredaderas se pinten de blanco si hay nieve encima o el bioma es nevado",
+  "Have arms of armor stand to be visible by default": "Hacer que los brazos del soporte para armadura sean visibles por defecto",
+  "Have composter's collision to be fixed after composting": "Corregir la colisión del compostador después de compostar",
+  "Have fallen trees to be spawned": "Generar árboles caídos",
+  "Have frostwalker enchantment be boosted": "Mejorar el encantamiento paso helado",
+  "Have sheep's fur color to be fixed": "Corregir el color de la lana de la oveja",
+  "Have snow to be spawned under trees": "Hacer que aparezca nieve bajo los árboles",
+  "Have some missed blocks to be waterlogged if placed in water": "Permitir que algunos bloques olvidados se aneguen si se colocan en el agua",
+  "List of biomes, where snow blocked to spawned under trees": "Lista de biomas donde se bloquea la aparición de la capa de nieve bajo los árboles"
+ }
+}

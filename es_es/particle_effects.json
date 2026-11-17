@@ -1,0 +1,15 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Disabled": "Desactivado",
+  "Enabled": "Activado",
+  "If enabled, additional info will be logged to console for debugging; if disabled, won't.": "Si está activado, se registrará información adicional en la consola para la depuración; si está desactivado, no.",
+  "If enabled, each particle of each effect will be replaced with a unique texture; if disabled, won't.": "Si está activado, cada partícula de cada efecto se reemplazará con una textura única; si está desactivado, no.",
+  "Mod Enabled": "Mod activado",
+  "Visual Fabric Mod that adds unique textured particles for every effect in vanilla Minecraft!": "¡Mod visual para Fabric que añade partículas con texturas únicas para cada efecto en el Minecraft vanilla!",
+  "You need to install §6§lYet Another Config Lib [YACL]§f to open Particle Effects Configuration Screen\n\n§a§lOpen §6§lYACL §a§lModrinth page?": "Necesitas instalar §6§lYet Another Config Lib [YACL]§f para abrir la pantalla de configuración de Particle Effects\n\n§a§l¿Abrir la página de §6§lYACL §a§len Modrinth?",
+  "§6Debug Log Enabled": "§6Registro de depuración activado",
+  "§lGeneral": "§lGeneral",
+  "§lParticle Effects Configuration": "§lConfiguración de Particle Effects"
+ }
+}

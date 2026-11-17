@@ -1,0 +1,20 @@
+{
+ "revisadas": {},
+ "ia": {
+  "After Name": "Después del nombre",
+  "Behind Count": "Detrás del recuento",
+  "General": "General",
+  "Left": "Izquierda",
+  "Right": "Derecha",
+  "Server Entry": "Entrada de servidor",
+  "Server Play Time Color": "Color del tiempo de juego en el servidor",
+  "Server Play Time Position": "Posición del tiempo de juego en el servidor",
+  "Show Server Play Time": "Mostrar tiempo de juego en el servidor",
+  "Show World Play Time": "Mostrar tiempo de juego en el mundo",
+  "Top Right": "Arriba a la derecha",
+  "World Entry": "Entrada de mundo",
+  "World Play Time Color": "Color del tiempo de juego en el mundo",
+  "World Play Time Config": "Configuración de tiempo de juego",
+  "World Play Time Position": "Posición del tiempo de juego en el mundo"
+ }
+}

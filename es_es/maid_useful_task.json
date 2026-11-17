@@ -1,0 +1,22 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Allow maid control rotation only": "Permitir que la sirvienta solo controle la rotación",
+  "Allow maid control vehicle": "Permitir que la sirvienta controle el vehículo",
+  "Block Up": "Bloque superior",
+  "Locate": "Localizar",
+  "Logging": "Tala",
+  "Maid Useful Tasks": "Tareas útiles de la sirvienta",
+  "No": "No",
+  "Not allowing maid control vehicle": "No permitir que la sirvienta controle el vehículo",
+  "Only revive owner": "Solo revivir al dueño",
+  "Plant Saplings": "Plantar brotes",
+  "Revive Player": "Revivir al jugador",
+  "Skip Non-nature Logs": "Omitir troncos no naturales",
+  "Switch Vehicle Control Mode": "Cambiar modo de control del vehículo",
+  "The maid can locate the some structure or your home with specific items.": "La sirvienta puede localizar algunas estructuras o tu hogar con objetos específicos.",
+  "The maid will cut down the logs around her and plant saplings.": "La sirvienta talará los troncos a su alrededor y plantará brotes.",
+  "The maid will revive nearby bleeding player.": "La sirvienta revivirá al jugador cercano con hemorragia.",
+  "Yes": "Sí"
+ }
+}

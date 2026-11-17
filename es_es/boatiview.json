@@ -1,0 +1,10 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Boat Item View": "Cliente de Boat Item View",
+  "Boat Item View Client": "Cliente de Boat Item View",
+  "Client settings": "Ajustes del cliente",
+  "Items that will remain displayed in hand. Adding the character '*' after a Mod ID will include all items from the mod. E.g. 'modid:*'. If no Mod ID is specified before the '*' character, all items will be included. E.g. '*'": "Objetos que permanecerán visibles en la mano. Añadir el carácter '*' después de un ID de mod incluirá todos los objetos de ese mod. P. ej., 'modid:*'. Si no se especifica ningún ID de mod antes del carácter '*', se incluirán todos los objetos. P. ej., '*'",
+  "Toggle whether the item in hand should be rendered whilst the boat is moving": "Alterna si el objeto en la mano debe renderizarse mientras la barca está en movimiento"
+ }
+}

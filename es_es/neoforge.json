@@ -1,0 +1,12 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%s: %s TPS (%s ms/tick)": "%s: %s TPS (%s ms/tick)",
+  "Maximum ad-hoc channel limit": "Límite máximo de canales ad-hoc",
+  "Received a split packet that exceeds the maximum limits.": "Se ha recibido un paquete dividido que supera los límites máximos.",
+  "Split Packet Maximum Size (MB)": "Tamaño máximo de paquete dividido (MB)",
+  "The maximum allowed size for reassembled packets, expressed in MB; larger packets will cause the client to be disconnected.": "El tamaño máximo permitido para paquetes reensamblados, expresado en MB; los paquetes más grandes provocarán que el cliente se desconecte.",
+  "The maximum number of ad-hoc channels that can be registered for any given network connection.": "El número máximo de canales ad-hoc que se pueden registrar para cualquier conexión de red dada.",
+  "Too many ad-hoc channels registered.": "Demasiados canales ad-hoc registrados."
+ }
+}

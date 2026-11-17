@@ -1,0 +1,29 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Action Control: OFF": "Control de acción: DESACTIVADO",
+  "Action Control: On": "Control de acción: Activado",
+  "Added fuel.": "Combustible añadido.",
+  "Arrow Stalker": "Flecha asechadora",
+  "Camera Mode: Control": "Modo de cámara: Control",
+  "Camera Mode: Follow": "Modo de cámara: Seguimiento",
+  "Camera Mode: Free": "Modo de cámara: Libre",
+  "Camera Stalker": "Cámara asechadora",
+  "Diligent Stalker": "Asechador diligente",
+  "Disconnect": "Desconectar",
+  "Drone Stalker": "Dron asechador",
+  "Fuel full.": "Depósito lleno.",
+  "Hold RClick to connect": "Mantén pulsado clic derecho para conectar",
+  "Press RClick to connect": "Pulsa clic derecho para conectar",
+  "RClick entity to be stalker": "Haz clic derecho en una entidad para convertirla en Asechador",
+  "Recorded": "Grabado",
+  "SHIFT RClick for Container": "SHIFT + clic derecho para abrir el contenedor",
+  "SHIFT RClick to record": "SHIFT + clic derecho para grabar",
+  "Stalker Core": "Núcleo de asechador",
+  "Stalker Master": "Maestro asechador",
+  "Switch Camera State": "Cambiar estado de cámara",
+  "Turn Control State": "Cambiar estado de control",
+  "Under Maintaining": "En mantenimiento",
+  "Void Stalker": "Asechador del vacío"
+ }
+}

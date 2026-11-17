@@ -1,0 +1,22 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%s / %s xp levels %s": "%s / %s niveles de xp %s",
+  "%s xp levels %s": "%s niveles de xp %s",
+  "Ender Linker": "Vinculador de ender",
+  "Linked": "Vinculado",
+  "Linked Storage Endpoint: %s": "Punto final de almacenamiento vinculado: %s",
+  "Linked Storage Group: %s": "Grupo de almacenamiento vinculado: %s",
+  "Linked to: %s": "Vinculado a: %s",
+  "Linked when crafted": "Vinculado al craftear",
+  "Main Linked": "Vinculado principal",
+  "Right-click a compatible storage or craft with one": "Haz clic derecho en un almacenamiento compatible o craftea con uno",
+  "Right-click or craft with an unlinked compatible storage to add it": "Haz clic derecho o craftea con un almacenamiento compatible sin vincular para añadirlo",
+  "Sophisticated Core": "Núcleo de Sophisticated",
+  "Sophisticated Mods": "Mods de Sophisticated",
+  "Storage cannot be linked": "El almacenamiento no se puede vincular",
+  "Storage has contents": "El almacenamiento contiene objetos",
+  "Storage is already linked": "El almacenamiento ya está vinculado",
+  "Storage is incompatible with this linked storage group": "El almacenamiento es incompatible con este grupo de almacenamiento vinculado"
+ }
+}

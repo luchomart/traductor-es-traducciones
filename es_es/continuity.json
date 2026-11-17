@@ -1,0 +1,9 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Cull faces between glass panes": "Elimina las caras entre paneles de cristal",
+  "Default Connected Textures": "Texturas conectadas predeterminadas",
+  "Glass Pane Culling Fix": "Corrección de renderizado de paneles de cristal",
+  "Glass, sandstone, bookshelves": "Cristal, arenisca, estanterías"
+ }
+}

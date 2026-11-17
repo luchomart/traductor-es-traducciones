@@ -1,0 +1,16 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Attachment identifier: %s": "Identificador de adjunto: %s",
+  "Block entity": "Entidad de bloque",
+  "Block entity position: %s": "Posición de la entidad de bloque: %s",
+  "Chunk": "Chunk",
+  "Chunk position: %s": "Posición del chunk: %s",
+  "Entity": "Entidad",
+  "Entity network ID: %s": "ID de red de la entidad: %s",
+  "Received attachment change for unknown target!": "¡Se ha recibido un cambio de adjunto para una diana desconocida!",
+  "Target type: %s": "Tipo de diana: %s",
+  "World": "Mundo",
+  "World: %s": "Mundo: %s"
+ }
+}

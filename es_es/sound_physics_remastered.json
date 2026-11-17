@@ -1,0 +1,7 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Reverb attenuation distance": "Distancia de atenuación de la reverberación",
+  "The ray distance at which reverb starts.\n0.0 disables reverb attenuation.": "La distancia del rayo a la que comienza la reverberación.\n0.0 desactiva la atenuación de la reverberación."
+ }
+}

@@ -1,0 +1,7 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Mine with weapon whitelist": "Minar con lista blanca de armas",
+  "Weapons with an ID that matches this regex can always mine blocks, even when 'Mine with weapons' is disabled": "Las armas con un ID que coincida con esta expresión regular siempre pueden minar bloques, incluso cuando «Minar con armas» está desactivado"
+ }
+}

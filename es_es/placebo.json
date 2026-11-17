@@ -1,0 +1,11 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%s was not found.": "No se ha encontrado %s.",
+  "An error occured during the serialization process.": "Ha ocurrido un error durante el proceso de serialización.",
+  "Placebo": "Placebo",
+  "Saved %s to %s.": "Se ha guardado %s en %s.",
+  "Toggle Supporter Trails": "Alternar estelas de colaborador",
+  "Toggle Supporter Wings": "Alternar alas de colaborador"
+ }
+}

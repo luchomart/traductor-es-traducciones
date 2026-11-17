@@ -1,0 +1,12 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Back": "Volver",
+  "Close this screen without saving any changes.": "Cerrar esta pantalla sin guardar los cambios.",
+  "Default: ": "Predeterminado: ",
+  "Export": "Exportar",
+  "Exports the current config file to the clipboard.": "Exporta el archivo de configuración actual al portapapeles.",
+  "Save & Close": "Guardar y cerrar",
+  "Save your changes and close the screen.": "Guardar los cambios y cerrar la pantalla."
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Default Tomato Vine Rope": "Cuerda de tomates predeterminada",
+  "Farmer's Delight": "Farmer's Delight",
+  "Generate Village Compost Heaps": "Generar pilas de compost en aldeas",
+  "If enabled, Pumpkin Pie will require the user to sneak to place it down as a block.": "Si está activado, el usuario deberá agacharse para colocar la tarta de calabaza como bloque.",
+  "If enabled, storage crates (3x3) for vanilla crops (similar to Quark and Thermal Cultivation) will become craftable.": "Si está activado, se podrán fabricar cajas de almacenamiento (3x3) para los cultivos del juego base (similar a Quark y Thermal Cultivation).",
+  "If enabled, tomato crops will be able to climb any rope tagged as farmersdelight:ropes. If disabled, this will be restricted to this mod's rope only.\n\n§lBeware: this will convert these blocks into the block specified in defaultTomatoVineRope.§r": "Si está activado, los cultivos de tomate podrán trepar por cualquier cuerda etiquetada como farmersdelight:ropes. Si está desactivado, esto se limitará únicamente a la cuerda de este mod.\n\n§lCuidado: esto convertirá estos bloques en el bloque especificado en la cuerda de tomates predeterminada.§r",
+  "Sneak to Place Pumpkin Pie": "Agacharse para colocar tarta de calabaza",
+  "Tomato Rope Permanence": "Permanencia de la cuerda de tomate",
+  "Tomato Vine Climbs Tagged Ropes": "Los tomates trepan por cuerdas etiquetadas",
+  "Tomato crops hanging on rope will force-place a Rope block when broken. Due to technical limitations, this affects things such as commands, making them fail to 'setblock' this block on the first attempt.\n\nDisable this if this block is preventing you from editing a region in creative or with commands. For normal gameplay, I recommend leaving this enabled.": "Los cultivos de tomate que cuelguen de una cuerda forzarán la colocación de un bloque de Cuerda al romperse. Debido a limitaciones técnicas, esto afecta a cosas como los comandos, haciendo que fallen al intentar usar 'setblock' con este bloque en el primer intento.\n\nDesactiva esto si este bloque te impide editar una región en creativo o con comandos. Para el juego normal, recomiendo dejarlo activado.",
+  "Which rope should Tomato Vines leave behind when broken?": "¿Qué cuerda deben dejar los tomates al romperse?"
+ }
+}

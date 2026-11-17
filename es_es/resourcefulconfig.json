@@ -1,0 +1,33 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Add Item: ": "Añadir objeto: ",
+  "Allow Flight": "Permitir vuelo",
+  "Choose Item: ": "Elegir objeto: ",
+  "Close": "Cerrar",
+  "Dedicated Server": "Servidor dedicado",
+  "Defaults": "Predeterminados",
+  "Edit": "Editar",
+  "Edit List": "Editar lista",
+  "Edit Object": "Editar objeto",
+  "Edit String": "Editar hilo",
+  "Enforce White List": "Aplicar lista blanca",
+  "If this is enabled, only the users in the white list can access the server, if users are on the server that are not in the whitelist they will be kicked.": "Si se activa, solo los usuarios de la lista blanca podrán acceder al servidor; si hay usuarios en el servidor que no están en la lista blanca, serán expulsados.",
+  "If this is enabled, only the users in the white list can access the server.": "Si se activa, solo los usuarios de la lista blanca podrán acceder al servidor.",
+  "If this is enabled, players are allowed to fly in the server, usually needed in a modded server.": "Si se activa, los jugadores pueden volar en el servidor, algo que suele ser necesario en un servidor con mods.",
+  "If this is enabled, players can attack each other.": "Si se activa, los jugadores pueden atacarse entre sí.",
+  "Max Players": "Jugadores máximos",
+  "Message of the Day": "Mensaje del día",
+  "Mod Configs": "Configuraciones de mods",
+  "Player vs Player": "Jugador contra jugador",
+  "Properties that can be can update real-time.": "Propiedades que se pueden actualizar en tiempo real.",
+  "Recents": "Recientes",
+  "Reset": "Restablecer",
+  "Select a config to view or edit.": "Selecciona una configuración para verla o editarla.",
+  "Text Colors": "Colores de texto",
+  "The maximum number of players that can play on the server at the same time.": "El número máximo de jugadores que pueden jugar en el servidor al mismo tiempo.",
+  "The message that is displayed in the server list.": "El mensaje que se muestra en la lista de servidores.",
+  "White List": "Lista blanca",
+  "Wiki": "Wiki"
+ }
+}

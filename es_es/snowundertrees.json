@@ -1,0 +1,11 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Add biome IDs here to exempt biomes from being affected by the mod. You can find the biome ID of the biome you're currently in on the F3 screen. For example, the biome ID of the plains biome looks like this: minecraft:plains": "Añade aquí los identificadores de biomas para eximirlos de los efectos del mod. Puedes encontrar el identificador del bioma en el que te encuentras en la pantalla de depuración (F3). Por ejemplo, el identificador del bioma de llanura tiene este aspecto: minecraft:plains",
+  "Disable this so no snow accumulates under trees while it's snowing.": "Desactiva esto para que no se acumule capa de nieve bajo los árboles mientras está nevando.",
+  "Disable this so that there is no snow under trees when first generating chunks.": "Desactiva esto para que no haya capa de nieve bajo los árboles al generar los chunks por primera vez.",
+  "Enable biome feature": "Activar característica de bioma",
+  "Enable when snowing": "Activar al nevar",
+  "Filtered biomes": "Biomas filtrados"
+ }
+}

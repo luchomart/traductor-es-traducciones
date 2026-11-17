@@ -1,0 +1,9 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Creature Net": "Red de criaturas",
+  "Lets you catch and move aquatic creatures": "Te permite capturar y mover criaturas acuáticas",
+  "Placed creatures become passive and don't despawn": "Las criaturas colocadas se vuelven pasivas y no desaparecen",
+  "Stored Entity: %s": "Entidad almacenada: %s"
+ }
+}

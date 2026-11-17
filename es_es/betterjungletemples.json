@@ -1,0 +1,15 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Disable Vanilla Jungle Temples": "Desactivar templos de la jungla vanilla",
+  "Enable Pick Your Poison Compatibility": "Activar compatibilidad con Pick Your Poison",
+  "General": "General",
+  "General Settings": "Ajustes generales",
+  "Mod Compatibility": "Compatibilidad con mods",
+  "Mod Compatibility Settings": "Ajustes de compatibilidad con mods",
+  "Use /locate structure betterjungletemples:jungle_temple instead!": "¡Usa /locate structure betterjungletemples:jungle_temple en su lugar!",
+  "Whether PYP poison darts should spawn in Better Jungle Temples.": "Indica si los dardos venenosos de PYP deben aparecer en los templos de la jungla mejorados.",
+  "Whether vanilla Jungle Temples should be disabled.": "Indica si los templos de la jungla vanilla deben estar desactivados.",
+  "YUNG's Better Jungle Temples": "YUNG's Better Jungle Temples"
+ }
+}

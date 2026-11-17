@@ -1,0 +1,18 @@
+{
+ "revisadas": {},
+ "ia": {
+  "AoA Wiki": "Wiki de AoA",
+  "Contents": "Contenido",
+  "Contents of the journal given by the $(thing)Corrupted Traveller$()": "Contenido del diario entregado por el $(thing)Viajero corrupto$()",
+  "Corrupted Traveller": "Viajero corrupto",
+  "I have spread the first four runes in dungeons and temples everywhere, to stop anyone from re-releasing the horrors within.$(br2)I will smash this one to pieces, so that it may never be used again.": "He esparcido las primeras cuatro runas en mazmorras y templos por todas partes, para evitar que nadie vuelva a liberar los horrores que contiene.$(br2)Destrozaré esta en pedazos, para que nunca más pueda ser utilizada.",
+  "Include the $(thing)carved runes.$()$(br)At the center in the base of the frame, insert a $(thing)Carved Rune of Power$(). this is the focus. This takes the keys.$(br)13 of the $(thing)blackened stone$(), 5 $(thing)carved runes$().$(br2)What I have opened cannot be closed.": "Incluye las $(thing)runas talladas.$()$(br)En el centro de la base del marco, inserta una $(thing)Runa tallada de poder$(). Este es el foco. Esto toma las llaves.$(br)13 de la $(thing)piedra ennegrecida$(), 5 $(thing)runas talladas$().$(br2)Lo que he abierto no se puede cerrar.",
+  "Journal": "Diario",
+  "Journal Entry": "Entrada del diario",
+  "May $(thing)Krasaun$() bless you, for your soul will never be the same again.": "Que $(thing)Krasaun$() te bendiga, porque tu alma nunca volverá a ser la misma.",
+  "The fifth key rune must be hand-crafted from a combination of $(thing)unpowered runes$() and an $(thing)ender eye$(), imbued into a central blackened stone. Something like this:": "La quinta runa clave debe ser elaborada a mano a partir de una combinación de $(thing)runas sin energía$() y un $(thing)ojo de ender$(), imbuida en una piedra ennegrecida central. Algo así:",
+  "They're everywhere!$(br)T-The faces, why so many eyes?$(br2)Four $(thing)carved runes$():$(br)One of $(thing)Reality.$()$(br)One of $(thing)Travel.$()$(br)One of $(thing)Space.$()$(br)One of $(thing)Direction.$()$(br)Build a frame from the $(thing)blackened stone$(), six blocks high.": "¡Están por todas partes!$(br)L-Las caras, ¿por qué tantos ojos?$(br2)Cuatro $(thing)runas talladas$():$(br)Una de $(thing)Realidad.$()$(br)Una de $(thing)Viaje.$()$(br)Una de $(thing)Espacio.$()$(br)Una de $(thing)Dirección.$()$(br)Construye un marco de $(thing)piedra ennegrecida$(), de seis bloques de altura.",
+  "Visit the $(aoa) wiki to read more about the $(thing)Corrupted Traveller$()": "Visita la $(aoa) wiki para leer más sobre el $(thing)Viajero corrupto$()",
+  "Wiki Link": "Enlace a la Wiki"
+ }
+}

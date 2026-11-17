@@ -1,0 +1,14 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Allows strongholds to be slightly destroyed by small noodle caves.": "Permite que las fortalezas sean ligeramente destruidas por pequeñas cuevas de tipo fideo.",
+  "Enable Structure Ruin": "Habilitar ruina de estructura",
+  "Filled Portal Frame Chance": "Probabilidad de marco del portal relleno",
+  "General Settings": "Ajustes generales",
+  "General settings.": "Ajustes generales.",
+  "Note that they will remain unaffected by large caverns.": "Ten en cuenta que no se verán afectadas por grandes cavernas.",
+  "The chance for each End Portal Frame block to spawn already filled with an Eye of Ender.": "La probabilidad de que cada bloque de marco del portal del End aparezca ya relleno con un ojo de ender.",
+  "Use /locate structure betterstrongholds:stronghold instead!": "¡Usa /locate structure betterstrongholds:stronghold en su lugar!",
+  "YUNG's Better Strongholds": "YUNG's Better Strongholds"
+ }
+}

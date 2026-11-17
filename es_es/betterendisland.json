@@ -1,0 +1,18 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Play Bell Sound": "Reproducir sonido de campana",
+  "Respawn Central Tower on Resummon": "Reaparecer torre central al reinvocar",
+  "Resummoned Dragon Drops Egg": "El dragón reinvocado suelta el huevo",
+  "Spawn Central Tower Initially": "Generar torre central inicialmente",
+  "Spawn Vanilla End Gateways": "Generar portales de acceso de vainilla",
+  "Spawn Vanilla Obsidian Platform": "Generar plataforma de obsidiana de vainilla",
+  "Whether the Ender Dragon drops an egg every time it's defeated": "Indica si el Enderdragón suelta un huevo cada vez que es derrotado",
+  "Whether the bell sound should play before the Ender Dragon is summoned for the first time and during re-summonings": "Indica si debe reproducirse el sonido de la campana antes de invocar al Enderdragón por primera vez y durante sus reinvocaciones",
+  "Whether the central tower should respawn in the End when the Ender Dragon is re-summoned": "Indica si la torre central debe reaparecer en El End cuando se reinvoca al Enderdragón",
+  "Whether the central tower should spawn in the End when the world is first generated": "Indica si la torre central debe generarse en El End al crear el mundo por primera vez",
+  "Whether the vanilla End Gateways should spawn in the End instead of the revamped gateways": "Indica si los portales de acceso de vainilla deben generarse en El End en lugar de los portales renovados",
+  "Whether the vanilla obsidian platform should spawn in the End instead of the revamped platform": "Indica si la plataforma de obsidiana de vainilla debe generarse en El End en lugar de la plataforma renovada",
+  "YUNG's Better End Island": "YUNG's Better End Island"
+ }
+}

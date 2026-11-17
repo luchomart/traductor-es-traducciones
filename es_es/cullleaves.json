@@ -1,0 +1,10 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Cull Leaves Config": "Configuración de Cull Leaves",
+  "Enable Leaf Culling": "Activar la eliminación de hojas",
+  "Enable Mangrove Root Culling": "Activar la eliminación de raíces de mangle",
+  "Enables culling for leaves, providing a nice performance boost": "Activa la eliminación de caras ocultas en las hojas, lo que proporciona una mejora de rendimiento",
+  "Enables culling for mangrove roots": "Activa la eliminación de caras ocultas en las raíces de mangle"
+ }
+}

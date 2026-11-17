@@ -1,0 +1,11 @@
+{
+ "revisadas": {},
+ "ia": {
+  "A test pamphlet, which is a book with only one category.": "Un panfleto de prueba, que es un libro con una sola categoría.",
+  "Failed to open book %s": "No se pudo abrir el libro %s",
+  "Failed to reload contents %S": "No se pudieron recargar los contenidos %S",
+  "Reading History": "Historial de lectura",
+  "Test Pamphlet": "Panfleto de prueba",
+  "Toggle Mock Header": "Alternar cabecera simulada"
+ }
+}

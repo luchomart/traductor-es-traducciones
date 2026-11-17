@@ -1,0 +1,21 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%d of %d": "%d de %d",
+  "Add entry": "Añadir entrada",
+  "Choose file": "Elegir archivo",
+  "Configure Hot Reload": "Configurar recarga en caliente",
+  "Done": "Hecho",
+  "Edit as text": "Editar como texto",
+  "Edit with slider": "Editar con control deslizante",
+  "Exit Minecraft": "Salir de Minecraft",
+  "No matches": "Sin coincidencias",
+  "Reload": "Recargar",
+  "Restart later": "Reiniciar más tarde",
+  "Save": "Guardar",
+  "Search...": "Buscar...",
+  "Sections": "Secciones",
+  "Some changes you made require a restart to apply": "Algunos cambios realizados requieren reiniciar para aplicarse",
+  "Unset": "Sin establecer"
+ }
+}

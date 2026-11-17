@@ -1,0 +1,8 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Load from base 'datapacks' directory": "Cargar desde el directorio base 'datapacks'",
+  "Paxi": "Paxi",
+  "Whether Paxi should also force-load all data packs placed in the 'datapacks' folder in the base Minecraft folder. This is for compatibility with CurseForge's new data pack system.": "Indica si Paxi también debe forzar la carga de todos los paquetes de datos colocados en la carpeta 'datapacks' de la carpeta principal de Minecraft. Esto es para garantizar la compatibilidad con el nuevo sistema de paquetes de datos de CurseForge."
+ }
+}

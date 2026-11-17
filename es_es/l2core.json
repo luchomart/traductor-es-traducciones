@@ -1,0 +1,12 @@
+{
+ "revisadas": {},
+ "ia": {
+  " Default: 250\n Range: -1000000 ~ 1000000": " Predeterminado: 250\n Rango: -1000000 ~ 1000000",
+  "Allowed Values: DISABLE, SHIFT_ONLY, ALWAYS": "Valores permitidos: DISABLE, SHIFT_ONLY, ALWAYS",
+  "L2Core Client Configuration": "Configuración del cliente de L2Core",
+  "L2Core Configuration": "Configuración de L2Core",
+  "Render overlay icons on entities": "Renderizar iconos de superposición en entidades",
+  "Show Enchantment Descriptions when there are enchantments with custom parametric descriptions": "Mostrar descripciones de encantamientos cuando haya encantamientos con descripciones paramétricas personalizadas",
+  "The height of item character overlay": "La altura de la superposición de caracteres del objeto"
+ }
+}

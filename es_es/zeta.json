@@ -1,0 +1,16 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%d children": "%d hijos",
+  "%s Configuration": "Configuración de %s",
+  "------- Sub Categories -------": "------- Subcategorías -------",
+  "1 child": "1 hijo",
+  "Default: %s": "Predeterminado: %s",
+  "Disabled. Install %s to enable.": "Desactivado. Instala %s para activarlo.",
+  "Discard Changes": "Descartar cambios",
+  "Save Changes": "Guardar cambios",
+  "Set to Default": "Restablecer predeterminado",
+  "You're missing the necessary addon mod for this category": "Te falta el mod adicional necesario para esta categoría",
+  "[Zeta]\n": "[Zeta]\n"
+ }
+}

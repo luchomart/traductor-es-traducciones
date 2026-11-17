@@ -1,0 +1,8 @@
+{
+ "revisadas": {},
+ "ia": {
+  "See configs are in ": "Consulta las configuraciones en ",
+  "This is the command from the coremod FutureLibrary.  This mod has many java features to support mods; and sub-commands to support projects such as modpacks": "Este es el comando del coremod FutureLibrary. Este mod contiene muchas funciones de Java para dar soporte a otros mods; y subcomandos para ayudar en proyectos como paquetes de mods",
+  "You will need OP permissions to use other sub-comands": "Necesitarás permisos de operador para usar otros subcomandos"
+ }
+}

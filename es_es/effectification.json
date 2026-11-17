@@ -1,0 +1,32 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Additional effects to call for visuals": "Efectos adicionales que se llamarán para efectos visuales",
+  "All": "Todos",
+  "Amplifier Multiplier": "Multiplicador de amplificador",
+  "Debug": "Depuración",
+  "Discard Effect Ticks": "Descartar ticks de efecto",
+  "Dynamic Mappings": "Mapeos dinámicos",
+  "Effect Mapping": "Asignación de efectos",
+  "Effect unification mapping entry": "Entrada de asignación de unificación de efectos",
+  "Effects to block from updating": "Efectos que se bloquearán al actualizarse",
+  "Errors": "Errores",
+  "Extra Effect Ticks": "Ticks de efecto adicionales",
+  "Log Level": "Nivel de registro",
+  "Multiplier for effect strength": "Multiplicador para la Fuerza del efecto",
+  "New Mapping": "Nueva asignación",
+  "None": "Ninguno",
+  "Only change display name without conversion": "Cambiar solo el nombre mostrado sin conversión",
+  "Prevent source mod handlers from triggering": "Evitar que se activen los gestores del mod de origen",
+  "Registry aliasing at startup (requires restart)": "Asignación de alias en el inicio (requiere reiniciar)",
+  "Runtime effect conversion (reloadable)": "Conversión de efectos en tiempo de ejecución (recargable)",
+  "Source Effect": "Efecto de origen",
+  "Source effect pattern with wildcard support": "Patrón de efecto de origen con soporte para comodines",
+  "Static Mappings": "Asignaciones estáticas",
+  "Target Effect": "Efecto diana",
+  "Target effect with fallback support": "Efecto Diana con soporte de reserva",
+  "Unidirectional": "Unidireccional",
+  "Visual Only": "Solo visual",
+  "Warnings": "Advertencias"
+ }
+}

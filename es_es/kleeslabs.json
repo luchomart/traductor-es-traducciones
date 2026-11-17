@@ -1,0 +1,11 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Control whether KleeSlabs should trigger ALWAYS, ONLY_WHEN_SNEAKING or ONLY_WHEN_NOT_SNEAKING": "Controla si KleeSlabs debe activarse SIEMPRE (ALWAYS), SOLO_AL_AGACHARSE (ONLY_WHEN_SNEAKING) o SOLO_AL_NO_AGACHARSE (ONLY_WHEN_NOT_SNEAKING)",
+  "Debug Dump Slabs": "Volcado de depuración de losas",
+  "Disabled Compatibility": "Compatibilidad desactivada",
+  "For development purposes. Set to true to have KleeSlabs dump a list of items containing the word 'slab' in their name upon world load.": "Para fines de desarrollo. Establécelo en true para que KleeSlabs vuelque una lista de objetos que contengan la palabra 'slab' en su nombre al cargar el mundo.",
+  "IDs of mods whose compatibility should be disabled.": "IDs de los mods cuya compatibilidad debería estar desactivada.",
+  "Mode": "Modo"
+ }
+}

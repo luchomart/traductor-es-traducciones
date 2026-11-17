@@ -1,0 +1,28 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Better Grass Mode": "Modo de hierba mejorada",
+  "Better Snow": "Nieve mejorada",
+  "Better Snow Mode": "Modo de nieve mejorada",
+  "BetterGrassify Config": "Configuración de BetterGrassify",
+  "Connects crimson nylium too!": "¡Conecta también el necelio carmesí!",
+  "Connects dirt paths too!": "¡Conecta también los caminos de tierra!",
+  "Connects farmlands too!": "¡Conecta también las tierras de cultivo!",
+  "Connects grass blocks too!": "¡Conecta también los bloques de hierba!",
+  "Connects mycelium too!": "¡Conecta también el micelio!",
+  "Connects podzol too!": "¡Conecta también el podsol!",
+  "Connects snowy grass too!": "¡También conecta la hierba nevada!",
+  "Connects warped nylium too!": "¡También conecta el necelio distorsionado!",
+  "Excluded Blocks": "Bloques excluidos",
+  "Excluded Tags": "Etiquetas excluidas",
+  "Fix issues with various resource-packs like Alacrity.": "Corrige problemas con varios paquetes de recursos como Alacrity.",
+  "Grass-like blocks that should be connected on slopes.": "Bloques similares a la hierba que deben conectarse en pendientes.",
+  "LambdaBetterGrass-like": "Estilo LambdaBetterGrass",
+  "More Snow-like Layers": "Más capas similares a la nieve",
+  "OptiFine-like": "Estilo OptiFine",
+  "Resource-pack Compatibility Mode": "Modo de compatibilidad con paquetes de recursos",
+  "§4Off §r- Grass Blocks look normal\n§3Fast §r- Top Grass texture will be applied to all sides of the Grass Blocks (fast)\n§dFancy §r- Top Grass texture will be applied dynamically to required sides of the Grass Blocks (slow)": "§4Desactivado §r- Los bloques de hierba se ven normales\n§3Rápido §r- La textura superior de la hierba se aplicará a todos los lados de los bloques de hierba (rápido)\n§dDetallado §r- La textura superior de la hierba se aplicará dinámicamente a los lados necesarios de los bloques de hierba (lento)",
+  "§4Off §r- No snow layer will be generated.\n§3OptiFine-like §r- Shows a snow layer beneath specific blocks that have at-least one snow layer or snow block near them.\n§dLambdaBetterGrass-like §r- Shows a snow layer beneath specific blocks that have at-least \"two\" snow layers or snow blocks near them.": "§4Desactivado §r- No se generará ninguna capa de nieve.\n§3Estilo OptiFine §r- Muestra una capa de nieve bajo bloques específicos que tengan al menos una capa de nieve o bloque de nieve cerca.\n§dEstilo LambdaBetterGrass §r- Muestra una capa de nieve bajo bloques específicos que tengan al menos \"dos\" capas de nieve o bloques de nieve cerca.",
+  "§cBetterGrassify is unable to display a configuration screen because YetAnotherConfigLib mod is not installed. Please use the configuration file instead. Sorry for the inconvenience!§r\n\nIf you're using Sodium, you can change most of the configurations in the \"Video Settings Menu\".": "§cBetterGrassify no puede mostrar una pantalla de configuración porque el mod YetAnotherConfigLib no está instalado. Utiliza el archivo de configuración en su lugar. ¡Disculpa las molestias!§r\n\nSi estás usando Sodium, puedes cambiar la mayoría de las configuraciones en el \"Menú de configuración de vídeo\"."
+ }
+}

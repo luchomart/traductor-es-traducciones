@@ -1,0 +1,15 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Accessories Compat Config": "Configuración de compatibilidad de Accessories",
+  "Add Pocket Slot": "Añadir ranura de bolsillo",
+  "Adds a Pocket slot which emulates the Curio Slot": "Añade una ranura de bolsillo que emula la ranura de Curios",
+  "Dump Data when Null Entries": "Volcar datos con entradas nulas",
+  "Pocket": "Bolsillo",
+  "Show Pocket Slot In Tooltip": "Mostrar ranura de bolsillo en la descripción",
+  "Shows the pocket slot in the tooltip if not implicitly valid for the slot": "Muestra la ranura de bolsillo en la descripción si no es implícitamente válida para la ranura",
+  "Slot Id Redirects": "Redirecciones de ID de ranura",
+  "Useful when an error within trinkets occurs due to null value and such behavior leads to crashing": "Útil cuando se produce un error en Trinkets debido a un valor nulo y dicho comportamiento provoca un cierre inesperado",
+  "Useful when needing to redirect a trinket slot to a conventional accessories slot type": "Útil cuando se necesita redirigir una ranura de Trinkets a un tipo de ranura de Accessories convencional"
+ }
+}

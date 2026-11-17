@@ -1,0 +1,19 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Curse: %s": "Maldición: %s",
+  "Enchantment Description": "Descripción del encantamiento",
+  "Enchantment Info": "Información de encantamientos",
+  "Exclusions": "Exclusiones",
+  "Max Level: %s": "Nivel máximo: %s",
+  "Randomly Selectable: %s": "Obtenible aleatoriamente: %s",
+  "Treasure: %s": "Tesoro: %s",
+  "Unknown Enchantment": "Encantamiento desconocido",
+  "Valid Items": "Objetos válidos",
+  "Villagers Trade: %s": "Comercio con aldeanos: %s",
+  "§0No": "§0Sí",
+  "§0Yes": "§0Sí",
+  "§4No": "§4No",
+  "§4Yes": "§4No"
+ }
+}

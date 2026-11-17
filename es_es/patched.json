@@ -1,0 +1,17 @@
+{
+ "revisadas": {},
+ "ia": {
+  " (applying to namespaces %1$s and paths %2$s)": " (aplicando a los espacios de nombres %1$s y rutas %2$s)",
+  "Additionally, the following packs do not have patching enabled:": "Además, los siguientes packs no tienen los parches activados:",
+  "That file could not be found.": "No se ha podido encontrar ese archivo.",
+  "That pack doesn't exist.": "Ese pack no existe.",
+  "That pack doesn't have patches enabled.": "Ese pack no tiene los parches activados.",
+  "That patch could not be found.": "No se ha podido encontrar ese parche.",
+  "That patch is not a json file. (See console for details.)": "Ese parche no es un archivo JSON. (Consulta la consola para más detalles).",
+  "There are %1$s packs with patching enabled:": "Hay %1$s packs con los parches activados:",
+  "There are %1$s patches in %2$s:": "Hay %1$s parches en %2$s:",
+  "There is 1 pack with patching enabled:": "Hay 1 pack con los parches activados:",
+  "There is 1 patch in %2$s:": "Hay 1 parche en %2$s:",
+  "There is more than one pack with that name.": "Hay más de un pack con ese nombre."
+ }
+}

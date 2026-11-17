@@ -1,0 +1,22 @@
+{
+ "revisadas": {},
+ "ia": {
+  "A restart is required for this change to take effect": "Es necesario reiniciar para que este cambio surta efecto",
+  "CurseForge": "CurseForge",
+  "Edit Manually": "Editar manualmente",
+  "If you believe this is a false positive, please contact the mod author": "Si crees que esto es un falso positivo, contacta con el autor del mod",
+  "Modrinth": "Modrinth",
+  "Open": "Abrir",
+  "Reset": "Restablecer",
+  "Reset to Default Value": "Restablecer al valor predeterminado",
+  "Select Config for %s": "Seleccionar configuración para %s",
+  "Sites such as %s %s and can be used to %s. Mods can be officially found on %s and %s.": "Sitios como %s %s y pueden usarse para %s. Los mods se pueden encontrar oficialmente en %s y %s.",
+  "The following mod files have been renamed - this is often a sign of a mod being %s.": "Los siguientes archivos de mod han sido renombrados; esto suele ser señal de que un mod está siendo %s.",
+  "This message will only appear once. %s.": "Este mensaje solo aparecerá una vez. %s.",
+  "Value should be between %d and %d": "El valor debe estar entre %d y %d",
+  "Value should match the following regular expression: %s": "El valor debe coincidir con la siguiente expresión regular: %s",
+  "distribute malware": "distribuir malware",
+  "harm modders": "dañar a los creadores de mods",
+  "redistributed without permission": "redistribuido sin permiso"
+ }
+}

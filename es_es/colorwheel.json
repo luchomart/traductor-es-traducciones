@@ -1,0 +1,27 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Broken shader pack alert is disabled": "La alerta de paquete de sombreadores dañado está desactivada",
+  "Broken shader pack alert is enabled": "La alerta de paquete de sombreadores dañado está activada",
+  "Broken shader pack alert is now disabled": "La alerta de paquete de sombreadores dañado está ahora desactivada",
+  "Broken shader pack alert is now enabled": "La alerta de paquete de sombreadores dañado está ahora activada",
+  "Current shader pack contains broken shaders, expect graphical issues": "El paquete de sombreadores actual contiene sombreadores dañados, espera problemas gráficos",
+  "Disable broken shader pack alert": "Desactivar la alerta de paquete de sombreadores dañado",
+  "Disable incompatible shader pack alert": "Desactivar la alerta de paquete de sombreadores incompatible",
+  "Disable this alert": "Desactivar esta alerta",
+  "Enable fallback mode": "Activar modo de reserva",
+  "Fallback mode is disabled": "El modo de reserva está desactivado",
+  "Fallback mode is enabled": "El modo de reserva está activado",
+  "Fallback mode is now disabled": "El modo de reserva está ahora desactivado",
+  "Fallback mode is now enabled. Here be dragons !": "El modo de reserva está ahora activado. ¡Aquí hay dragones!",
+  "Incompatible shader pack alert is disabled": "La alerta de paquete de sombreadores incompatible está desactivada",
+  "Incompatible shader pack alert is enabled": "La alerta de paquete de sombreadores incompatible está activada",
+  "Incompatible shader pack alert is now disabled": "La alerta de paquete de sombreadores incompatible está ahora desactivada",
+  "Incompatible shader pack alert is now enabled": "La alerta de paquete de sombreadores incompatible está ahora activada",
+  "The shader pack %1$s is not compatible": "El paquete de sombreadores %1$s no es compatible",
+  "You may request Colorwheel support to the shader pack developer. You may also enable the %1$s for fully automatic support. There WILL BE graphical issues and extensive support WON'T be provided.": "Puedes solicitar soporte de Colorwheel al desarrollador del paquete de sombreadores. También puedes activar el %1$s para obtener soporte totalmente automático. HABRÁ problemas gráficos y NO se proporcionará soporte exhaustivo.",
+  "You should select %1$s in the Shader Packs menu instead": "Deberías seleccionar %1$s en el menú de paquetes de sombreadores en su lugar",
+  "click here": "haz clic aquí",
+  "fallback mode": "modo de reserva"
+ }
+}

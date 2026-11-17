@@ -1,0 +1,12 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Applied global settings": "Ajustes globales aplicados",
+  "Cancel": "Cancelar",
+  "Confirm": "Confirmar",
+  "Initialized global settings": "Ajustes globales inicializados",
+  "Sync failed! Please report this error.": "¡Error al sincronizar! Informa de este error.",
+  "Synced with global file": "Sincronizado con el archivo global",
+  "Updated global settings": "Ajustes globales actualizados"
+ }
+}

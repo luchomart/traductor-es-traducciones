@@ -1,0 +1,24 @@
+{
+ "revisadas": {},
+ "ia": {
+  "/tme particle - Summon particle(s) using TME's particle system": "/tme particle - Invoca partícula(s) usando el sistema de partículas de TME",
+  "Cleared %1$s's %2$s particles": "Se han eliminado las partículas %2$s de %1$s",
+  "Cleared %1$s's particles": "Se han eliminado las partículas de %1$s",
+  "Cleared the %2$s particles of %1$s players": "Se han eliminado las partículas %2$s de %1$s jugadores",
+  "Cleared the particles of %1$s players": "Se han eliminado las partículas de %1$s jugadores",
+  "Invalid enum value %1$2, must be one of %2$s": "Valor de enumeración no válido %1$2, debe ser uno de %2$s",
+  "Invalid properties for particle: '%1$s'": "Propiedades no válidas para la partícula: '%1$s'",
+  "Missing expected argument '%1$s'": "Falta el argumento esperado '%1$s'",
+  "Particle": "Partícula",
+  "Properties:": "Propiedades:",
+  "Replaced all %1$s particle(s) with %2$s for %3$s": "Se han reemplazado todas las partículas %1$s por %2$s para %3$s",
+  "Replaced all %1$s particle(s) with %2$s for %3$s players": "Se han reemplazado todas las partículas %1$s por %2$s para %3$s jugadores",
+  "Replaced all %1$s particle(s) with %2$s for all players in %3$s": "Se han reemplazado todas las partículas %1$s por %2$s para todos los jugadores en %3$s",
+  "Replaced up to %1$s %2$s particle(s) with %3$s for %4$s": "Se han reemplazado hasta %1$s partícula(s) %2$s por %3$s para %4$s",
+  "Replaced up to %1$s %2$s particle(s) with %3$s for %4$s players": "Se han reemplazado hasta %1$s partícula(s) %2$s por %3$s para %4$s jugadores",
+  "Replaced up to %1$s %2$s particle(s) with %3$s for all players in %4$s": "Se han reemplazado hasta %1$s partícula(s) %2$s por %3$s para todos los jugadores en %4$s",
+  "Sent %1$s %2$s particle(s) to %3$s": "Se han enviado %1$s partícula(s) %2$s a %3$s",
+  "Sent %1$s %2$s particle(s) to %3$s players": "Se han enviado %1$s partícula(s) %2$s a %3$s jugadores",
+  "Sent %1$s %2$s particle(s) to all players in %3$s": "Se han enviado %1$s partícula(s) %2$s a todos los jugadores en %3$s"
+ }
+}

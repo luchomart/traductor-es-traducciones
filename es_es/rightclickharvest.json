@@ -1,0 +1,33 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Chat on Discord": "Chatear en Discord",
+  "Check for updates on Modrinth": "Comprobar actualizaciones en Modrinth",
+  "Cost XP": "Coste de EXP",
+  "Harvest Blacklist": "Lista negra de cosecha",
+  "Harvest in Radius": "Cosechar en radio",
+  "High": "Alto",
+  "High Tier Hoes": "Azadas de nivel alto",
+  "Hoe Not Required": "Azada no requerida",
+  "Hunger Level": "Nivel de hambre",
+  "Low": "Bajo",
+  "Low Tier Hoes": "Azadas de nivel bajo",
+  "Make hoes of different tiers harvest multiple blocks in a radius.": "Permite que las azadas de distintos niveles cosechen varios bloques en un radio.",
+  "Mid Tier Hoes": "Azadas de nivel medio",
+  "None": "Ninguno",
+  "Normal": "Normal",
+  "Only allow harvesting certain crops (e.g. wheat, carrots) if the player is holding a hoe in their hand.": "Solo permite cosechar ciertos cultivos (p. ej. trigo, zanahorias) si el jugador sostiene una azada en la mano.",
+  "Radius Harvest Blacklist": "Lista negra de cosecha por radio",
+  "Report bugs and request new features on GitHub": "Informa de errores y solicita nuevas funciones en GitHub",
+  "Require Hoe": "Requerir azada",
+  "Reward XP": "Recompensa de EXP",
+  "Right Click Harvest Config": "Configuración de Right Click Harvest",
+  "RightClickHarvest is configured to require holding a hoe for harvesting - do so, or set %s to %s in the config to disable this requirement. This message will only be shown once.": "RightClickHarvest está configurado para requerir que lleves una azada para cosechar. Hazlo, o configura %s como %s en la configuración para desactivar este requisito. Este mensaje solo se mostrará una vez.",
+  "RightClickHarvest is not installed on the server. To function, the mod needs to be installed on the server, as well as optionally on the client. Set %s to %s in the config to disable this message.": "RightClickHarvest no está instalado en el servidor. Para funcionar, el mod debe estar instalado en el servidor, y opcionalmente en el cliente. Configura %s como %s en la configuración para desactivar este mensaje.",
+  "Show Server Warning": "Mostrar advertencia del servidor",
+  "The food usage when harvesting crops.": "El consumo de comida al cosechar cultivos.",
+  "Whether XP should be taken or given for harvesting.": "Indica si se debe quitar o dar EXP al cosechar.",
+  "Whether to show the warning about playing on a server without RightClickHarvest installed.": "Indica si se debe mostrar la advertencia sobre jugar en un servidor sin RightClickHarvest instalado.",
+  "XP Type": "Tipo de EXP"
+ }
+}

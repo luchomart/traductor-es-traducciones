@@ -1,0 +1,17 @@
+{
+ "revisadas": {},
+ "ia": {
+  "A texture to use as a custom background, instead of the typical blurred background.": "Una textura para usar como fondo personalizado, en lugar del típico fondo borroso.",
+  "Allows right clicking to cycle backwards through some buttons.": "Permite hacer clic derecho para cambiar hacia atrás en algunos botones.",
+  "Allows scrolling the mouse wheel to modify options using a slider": "Permite usar la rueda del ratón para modificar opciones que utilicen un control deslizante",
+  "Custom Background Texture": "Textura de fondo personalizada",
+  "Enable Custom Background Texture": "Activar textura de fondo personalizada",
+  "If enabled, a custom background texture will be used in menus where possible.": "Si se activa, se usará una textura de fondo personalizada en los menús siempre que sea posible.",
+  "Mouse Scroll Wheel Affects Sliders": "La rueda del ratón afecta a los controles deslizantes",
+  "Only does anything if the Enable Custom Background Texture option is true.": "Solo surte efecto si la opción de activar textura de fondo personalizada está habilitada.",
+  "Right Click Reverses Cycle Buttons": "El clic derecho invierte los botones de ciclo",
+  "The texture used is specified by the Custom Background Texture option below.": "La textura utilizada se especifica en la opción de textura de fondo personalizada de más abajo.",
+  "YUNG's Menu Tweaks": "YUNG's Menu Tweaks",
+  "when hovering over the slider.": "al pasar el cursor por encima."
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "revisadas": {},
+ "ia": {
+  "(none)": "(ninguno)",
+  "Caller is non-player; please provide an entity or position.": "El emisor no es un jugador; por favor, proporciona una entidad o posición.",
+  "Command options:\n  §9/biolith help§r - Biolith command info\n  §9/biolith describe§r - Biome and noise info": "Opciones de comando:\n  §9/biolith help§r - Información del comando Biolith\n  §9/biolith describe§r - Información de ruido y bioma",
+  "Moderner Beta biome: ": "Bioma de Moderner Beta: ",
+  "Overworld": "Overworld",
+  "Replacement biome: ": "Bioma de reemplazo: ",
+  "Sub-biome selected: ": "Subbioma seleccionado: ",
+  "Target dimension is not modified by Biolith.": "La dimensión objetivo no está modificada por Biolith.",
+  "TerraBlender biome: ": "Bioma de TerraBlender: ",
+  "Terraformers' world generation utilities": "Utilidades de generación de mundo de Terraformers",
+  "The End": "El End",
+  "The Nether": "El Nether",
+  "Vanilla/data biome: ": "Bioma de Vanilla/datos: ",
+  "biome values": "valores del bioma",
+  "nearest: ": "más cercano: ",
+  "scale": "escala",
+  "§6(Try \"§9/biolith help§6\" for command info...)": "§6(Prueba \"§9/biolith help§6\" para obtener información del comando...)",
+  "§9/biolith describe [at (<entity>|<position>)]§r - Information about noise and biome selection": "§9/biolith describe [at (<entity>|<position>)]§r - Información sobre el ruido y la selección de biomas",
+  "§eThere is no help for the specified command.": "§eNo hay ayuda para el comando especificado."
+ }
+}
