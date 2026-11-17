@@ -1,0 +1,10 @@
+{
+ "revisadas": {},
+ "ia": {
+  " See the client logs for more details.\nThe following registry entry namespaces may be related:\n\n": " Consultá los registros del cliente para obtener más detalles.\nLos siguientes espacios de nombres de registros podrían estar relacionados:\n\n",
+  "And %d more...": "Y %d más...",
+  "Received %d registry entries that are unknown to this client.\n": "Se recibieron %d entradas de registro que son desconocidas para este cliente.\n",
+  "Received a registry entry that is unknown to this client.\n": "Se recibió una entrada de registro que es desconocida para este cliente.\n",
+  "This is usually caused by a mismatched mod set between the client and server.": "Esto generalmente se debe a un conjunto de mods diferente entre el cliente y el servidor."
+ }
+}

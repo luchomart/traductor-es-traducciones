@@ -1,13 +1,22 @@
 {
- "revisadas": {},
+ "revisadas": {
+  "updates version": "updates version"
+ },
  "ia": {
+  "(Mod Menu update checker is experimental!)": "(El verificador de actualizaciones de Mod Menu es experimental)",
   "A child of this mod has an update available.": "Un mod hijo tiene una actualización disponible.",
   "An update is available:": "Hay una actualización disponible:",
+  "Below Bugs": "Debajo de los errores",
   "Disabled": "Deshabilitado",
   "Enabled": "Activado",
+  "Failed to load config screen for '%s'\nReport to '%s', not Mod Menu": "No se pudo cargar la pantalla de configuración para '%s'\nReporta el problema a '%s', no a Mod Menu",
+  "Game Menu": "Botón del menú del juego",
   "GitHub Sponsors": "Patrocinadores de GitHub",
   "Hidden": "Oculto",
+  "Icon": "Icono",
   "Open Collective": "Open Collective",
+  "Quick Configure": "Configuración rápida",
+  "Replace Bugs": "Reemplazar errores",
   "Shown": "Mostrado",
   "Update Checker": "Verificador de actualizaciones",
   "Update Indicator": "Indicador de actualización",
