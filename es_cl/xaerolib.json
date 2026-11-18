@@ -1,0 +1,21 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Are you sure you would like to permanently delete the following profile?": "¿Estás seguro de que quieres eliminar permanentemente el siguiente perfil?",
+  "Enforced server profile ID (not the name).": "ID del perfil del servidor impuesto (no el nombre).",
+  "No matching entries found for your input!": "No se encontraron entradas coincidentes con tu entrada!",
+  "Relog if you're supposed to.": "Reconecta si deberías tenerlo.",
+  "Search...": "Buscar...",
+  "Shift-click to view the server-enforced value of this option.": "Haz clic con la tecla Shift para ver el valor impuesto por el servidor de esta opción.",
+  "Synchronizing with the server...": "Sincronizando con el servidor...",
+  "Takes precedence over permissions.": "Toma precedencia sobre permisos.",
+  "The ID of the server config profile the values of which are enforced for players by default.": "El ID del perfil de configuración del servidor cuyos valores se imponen por defecto para los jugadores.",
+  "The effective value of this option is being affected by the server!": "El valor efectivo de esta opción está siendo afectado por el servidor!",
+  "This entry is not accessible in the current context.": "Esta entrada no es accesible en el contexto actual.",
+  "Whether the mod should be allowed to access the internet to fetch dynamic data, such as Patreon member names and mod versions. Nothing is sent from your computer.": "¿El mod debería poder acceder a internet para obtener datos dinámicos, como los nombres de miembros de Patreon y versiones del mod? Nada se envía desde tu computadora.",
+  "Whether you should ignore config values normally enforced by the server, if you have the server profile editing permission (e.g. you are an operator). The enforcement for the value of this option (\"Ignore Enforced As Editor\") can't be ignored though, allowing server owners to disable this feature if they want to, making it a bit more difficult for cheaters to circumvent server enforcement.": "¿Deberías ignorar los valores de configuración normalmente impuestos por el servidor, si tienes permiso para editar el perfil del servidor (ej. eres un operador). La imposición para el valor de esta opción (\"Ignorar Impuesto como Editor\") no puede ignorarse, permitiendo a los dueños del servidor desactivar esta función si lo desean, haciendo un poco más difícil para los trucadores evitar la imposición del servidor.",
+  "Would you like to confirm the changes you've made?": "¿Quieres confirmar los cambios que has hecho?",
+  "You don't have permission to edit this config.": "No tienes permiso para editar esta configuración.",
+  "Your currently used client config profile.": "Tu perfil actual de configuración del cliente."
+ }
+}

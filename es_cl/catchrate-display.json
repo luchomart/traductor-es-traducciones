@@ -1,0 +1,18 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Quick Ball bonus already spent on this target": "Quick Ball bonus ya gastado en esta diana",
+  "§6========== CatchRateDisplay Info ==========": "§6========== Info de CatchRateDisplay ==========",
+  "§7  Debug (config): §f%s": "§7  Depuración (config): §f%s",
+  "§7  Debug (session): §f%s": "§7  Debug (session): §f%s",
+  "§7  Debug active: §f%s": "§7  Depuración activa: §f%s",
+  "§7  HUD enabled: §f%s": "§7  HUD activo: §f%s",
+  "§7  Hide unencountered info: §f%s": "§7  Ocultar info de no encontrados: §f%s",
+  "§7  Show out of combat: §f%s": "§7  Mostrar fuera de combate: §f%s",
+  "§a[CatchRate] Debug logging §2ENABLED§a for this session. Check latest.log for detailed output.": "§a[CatchRate] Logging de depuración §2ACTIVADO§a para esta sesión. Revisa latest.log para salida detallada.",
+  "§a[CatchRate] Debug report saved to: §f%s": "§a[CatchRate] Reporte de depuración guardado en: §f%s",
+  "§c[CatchRate] Debug logging §4DISABLED§c for this session.": "§c[CatchRate] Logging de depuración §4DESACTIVADO§c para esta sesión.",
+  "§c[CatchRate] Failed to save report: %s": "§c[CatchRate] Fallo al guardar el reporte: %s",
+  "§e[CatchRate] Generating debug report...": "§e[CatchRate] Generando reporte de depuración..."
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Configure": "Configurar",
+  "Could not dump the requested resource, look at your log for details": "No se pudo exportar el recurso solicitado, revise su log para más detalles",
+  "Could not reload all resources, look at your log for details": "No se pudo recargar todos los recursos, revise su log para más detalles",
+  "Debug Commands": "Comandos de depuración",
+  "Debug Logs": "Logs de depuración",
+  "Executed snippet and got: %s": "Ejecutado snippet y obtenido: %s",
+  "Failed to load resource packs": "No se pudo cargar los packs de recursos",
+  "IO Logs": "Logs de entrada/salida",
+  "Invalid Identifier": "Identificador inválido",
+  "Invalid value": "Valor inválido",
+  "Log every resource access. WARNING: This WILL result in giant log files! (requires restart)": "Guarda cada acceso a recursos. ADVERTENCIA: Esto GENERARÁ archivos de log muy grandes! (requiere reinicio)",
+  "Logs some information useful for debugging packs or the mod itself. (requires restart)": "Guarda información útil para depurar packs o el mod mismo. (requiere reinicio)",
+  "ResPackOpts": "ResPackOpts",
+  "Snippet could not be executed: %s": "El snippet no pudo ejecutarse: %s",
+  "Successfully dumped the resource to %s": "Exportación exitosa del recurso a %s",
+  "Successfully reloaded resources and data": "Recarga exitosa de recursos y datos",
+  "There is an issue with the resource pack configs. Please take a look at the game log": "Hay un problema con las configuraciones del pack de recursos. Por favor revise el log del juego",
+  "Version %s using the respackopts meta version %s": "Versión %s usando la versión meta de respackopts %s"
+ }
+}

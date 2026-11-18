@@ -1,0 +1,31 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Conversion Chance": "Oportunidad de conversión",
+  "Defines how high the max usages should be (100 = vanilla, 200 = 2 x more than vanilla)": "Define cuánto debe ser el máximo de usos (100 = vanilla, 200 = 2 x más que vanilla)",
+  "Features": "Características",
+  "If enabled, villagers will never run out of stock": "Si está activado, los aldeanos nunca se agotarán de stock",
+  "Infinite Stock": "Stock infinito",
+  "Lock Chance": "Oportunidad de bloqueo",
+  "Lock Profession": "Bloquear profesión",
+  "Max Discount": "Descuento máximo",
+  "Max Raise": "Aumento máximo",
+  "Max Uses": "Usos máximos",
+  "Min Uses": "Usos mínimos",
+  "Old Trade Mechanics": "Mecánicas de comercio antiguo",
+  "The chance of a trade locking itself (1.12 default: 20)": "La oportunidad de que un comercio se bloquee por sí mismo (1.12 por defecto: 20)",
+  "The chance of a trade unlocking all other trades (1.12 default: 20)": "La probabilidad de que un trade desbloquee todos los demás trades (valor por defecto 1.12: 20)",
+  "The chance of a villager to converting to a villagerzombie (-1 = vanilla behaviour)": "La oportunidad de que un aldeano convierta a un aldeanozombie (-1 = comportamiento vanilla)",
+  "The highest possible price discount a villager can give on it's default trade price": "El descuento máximo posible en el precio de un comercio por defecto que puede dar un aldeano",
+  "The highest possible price raise a villager can give on it's default trade price (100 = vanilla, 0 = none)": "El aumento máximo posible en el precio de un comercio por defecto que puede dar un aldeano (100 = vanilla, 0 = ninguno)",
+  "The maximum amount of trades possible, if reached a trade is guaranteed to get locked (1.12 default: 12)": "La cantidad máxima de comercios posibles, si se alcanza un comercio garantizará que se bloquee (1.12 por defecto: 12)",
+  "The minimum amount of trades possible after which it can get locked (1.12 default: 2)": "El mínimo de trades posibles después del cual puede bloquearse (valor por defecto 1.12: 2)",
+  "Toggles wherever or not villagers should change their trades when getting reemployed": "Activa o desactiva si los aldeanos deben cambiar sus trades al ser recontratados",
+  "Trade Cycling": "Ciclo de comercio",
+  "Unlock Chance": "Oportunidad de desbloqueo",
+  "Use": "Usar",
+  "VillagerConfig Config": "VillagerConfig Config",
+  "Whether or not https://minecraft.gamepedia.com/Trading/Before_Village_%26_Pillage#Mechanics should be used for trade (un)locking": "Si se debe usar https://minecraft.gamepedia.com/Trading/Before_Village_%26_Pillage#Mechanics para desbloquear comercio (activar/desactivar)",
+  "Whether or not villagers trades will change, when their workstation is replaced (true = vanilla)": "Si los comercios de los aldeanos cambiarán cuando su lugar de trabajo sea reemplazado (verdadero = comportamiento vanilla)"
+ }
+}

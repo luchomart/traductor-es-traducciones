@@ -1,0 +1,26 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%1$s felt a trickshot %2$s performed using %3$s": "%1$s sintió un tiro al blanco de %2$s realizado usando %3$s",
+  "%1$s was executed by %2$s using %3$s": "%1$s fue ejecutado por %2$s usando %3$s",
+  "%1$s was pierced by %2$s using %3$s": "%1$s fue perforado por %2$s usando %3$s",
+  "%1$s was pummeled by %2$s using %3$s": "%1$s fue golpeado por %2$s usando %3$s",
+  "%1$s was reaped by %2$s using %3$s": "%1$s fue cortado por %2$s usando %3$s",
+  "%1$s was whacked by %2$s using %3$s": "%1$s fue golpeado por %2$s usando %3$s",
+  "Auto Pickup": "Auto Pickup",
+  "Blocks lay flat": "Bloques se colocan planos",
+  "Client Only Mode": "Modo solo cliente",
+  "Client-Only Options": "Opciones solo cliente",
+  "Fancy Item Rendering": "Renderizado de objeto elegante",
+  "Full Tooltips": "Tooltips completos",
+  "Global Options": "Opciones globales",
+  "Interactic Configuration": "Configuración de Interactic",
+  "Item Filter": "Filtro de objeto",
+  "Item Throwing": "Filtro de objeto",
+  "Items act as projectiles": "Los items actúan como proyectiles",
+  "Render Item Tooltips": "Renderizado de tooltips de objeto",
+  "Right Click Pickup": "Clic derecho para recoger",
+  "Swing arm on drop": "Movimiento de brazo al lanzar",
+  "[Interactic] Pick up Item": "[Interactic] Recoger Objeto"
+ }
+}

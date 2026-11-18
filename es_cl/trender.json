@@ -1,0 +1,7 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Changes the UI Style for all of mods by tr7zw.": "Cambia el estilo de la interfaz para todos los mods de tr7zw.",
+  "When enabled, stacktraces in the log or game crashes that contain mod references to mods by tr7zw will be sent to the mod author via Sentry (Sentry.io) to help fix bugs faster. No personal information is collected or sent. (Restart the game after turning it on)": "Cuando esté activado, las stacktraces en el log o en los crashes del juego que contengan referencias a mods de tr7zw se enviarán al autor del mod vía Sentry (Sentry.io) para ayudar a corregir errores más rápido. No se recopila ni envía información personal. (Reinicia el juego después de activarlo)"
+ }
+}

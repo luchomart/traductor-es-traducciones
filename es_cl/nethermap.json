@@ -1,0 +1,17 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Better Nether Map Config": "Configuración de mapa mejorado del nether",
+  "Dimension ID": "ID de dimensión",
+  "Entry": "Entrada",
+  "Height": "Altura",
+  "Improve cave dimension maps": "Mejora de mapas en dimensiones de cuevas",
+  "Makes maps work better in the Nether and all other cave dimensions.": "Hace que los mapas funcionen mejor en el Nether y todas otras dimensiones de cuevas.",
+  "This list overrides the defaults, and can contain all dimensions.": "Esta lista sobrescribe los valores por defecto, y puede contener todas las dimensiones.",
+  "Use Creation Height": "Usar altura de creación",
+  "Use Fixed Height": "Usar altura fija",
+  "Use Map Creation Height": "Usar altura de creación del mapa",
+  "Use a fixed height for cave dimensions.": "Usar una altura fija para dimensiones de cuevas.",
+  "Use the height where the map was created in cave dimensions.": "Usar la altura donde se creó el mapa en dimensiones de cuevas."
+ }
+}

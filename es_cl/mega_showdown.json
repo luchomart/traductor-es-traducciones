@@ -1,0 +1,31 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%1$s has reached Dynamax Level: %2$s": "%1$s alcanzó el nivel Dinamax: %2$s",
+  "ACC": "ACC",
+  "ATK": "ATK",
+  "Ability": "Habilidad",
+  "CRT": "CRT",
+  "Chiseled Mega Block": "Bloque Mega pulido",
+  "DEF": "DEF",
+  "EVA": "EVA",
+  "Form": "Forma",
+  "Gyrados Jumping Mega": "Gyrados saltando Mega",
+  "Idle": "Idle",
+  "Item": "Objeto",
+  "MSD Jade": "MSD Jade",
+  "Mega Evolve": "Evolucionar Mega",
+  "Mega Showdown": "Mega Showdown",
+  "Meltan": "Meltan",
+  "Moves": "Movimientos",
+  "Polished Mega Block": "Bloque Mega pulido",
+  "Ready": "Ready",
+  "Region Bias MSD": "Region Bias MSD",
+  "SPA": "SPA",
+  "SPD": "SPD",
+  "SPE": "SPE",
+  "Ultra Burst": "Ultra Burst",
+  "You already have 5 cores": "Ya tienes 5 núcleos",
+  "Your pokemon already has this tera type": "Tu pokémon ya tiene este tipo tera"
+ }
+}

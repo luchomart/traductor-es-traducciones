@@ -1,0 +1,14 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Common": "Común",
+  "Failure": "Fallo",
+  "Rare": "Raro",
+  "Success": "Éxito",
+  "That %1$s is reserved for %2$s.": "Ese %1$s está reservado para %2$s.",
+  "Ultra Rare": "Ultra raro",
+  "Uncommon": "Incomún",
+  "Unknown Bucket": "Baldé desconocido",
+  "someone else": "alguien más"
+ }
+}

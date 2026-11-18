@@ -1,0 +1,27 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%1$s fell from the top of the world": "%1$s cayó desde la parte superior del mundo",
+  "Damage on Fall Mode": "Modo de daño al caer",
+  "Effects applied to a player when they fall through the void, in the format \"effect|duration|amplifier\"": "Efectos aplicados al jugador cuando caen a través del vacío, en el formato \"efecto|duración|amplificador\"",
+  "Entity Allow List": "Lista de entidades permitidas",
+  "Fall Through Void Effects": "Efectos al caer a través del vacío",
+  "List of additional dimension ids to be deny-listed from Forgiving Void. Options triggerInOverworld etc. take priority. Ignored if dimensionAllowList is set.": "Lista de identificadores de dimensiones adicionales para denegar en Forgiving Void. Las opciones triggerInOverworld etc. tienen prioridad. Se ignora si dimensionAllowList está establecido.",
+  "List of dimension ids to be allowed for Forgiving Void. Options triggerInOverworld etc. take priority.": "Lista de identificadores de dimensiones permitidos para Forgiving Void. Las opciones triggerInOverworld etc. tienen prioridad.",
+  "List of entity ids to be allowed for Forgiving Void. On Forge this only supports living entities.": "Lista de identificadores de entidades permitidos para Forgiving Void. En Forge solo soporta entidades vivas.",
+  "Prevent death on void fall (limits damage to leave at least 0.5 hearts)": "Prevenir la muerte al caer al vacío (limita el daño para que al menos quede 0.5 corazones)",
+  "Return to Last Grounded": "Volver al último punto de contacto",
+  "Set to ABSOLUTE for absolute fall damage in half hearts, RELATIVE_CURRENT for a percentage of their current health, or RELATIVE_MAX for a percentage of their max health.": "Establece en ABSOLUTE para daño absoluto al caer en media corazón, RELATIVE_CURRENT para un porcentaje de su salud actual, o RELATIVE_MAX para un porcentaje de su salud máxima.",
+  "Set to false to make Forgiving Void not trigger in the end void (dimension 1).": "Establece en false para que Forgiving Void no active en el vacío del End (dimensión 1).",
+  "Set to false to make Forgiving Void not trigger in the nether void (dimension -1).": "Establece en falso para que el Vacío Perdonador no active en el vacío del mundo del nether (dimensión -1).",
+  "Set to false to make Forgiving Void not trigger in the overworld void (dimension 0).": "Establece en falso para que el Vacío Perdonador no active en el vacío del mundo del overworld (dimensión 0).",
+  "Set to true if players are rubber-banding while falling through the void. If you're hosting a public server, you should only do this if you have proper anti-cheat installed.": "Establece en true si los jugadores están sufriendo rubber-banding mientras caen a través del vacío. Si estás hospedando un servidor público, solo debes hacer esto si tienes instalado un anti-cheat adecuado.",
+  "Set to true to have tridents with loyalty be affected by Forgiving Void. Not supported on Forge.": "Establece en true para que los tridentes con lealtad sean afectados por Forgiving Void. No es compatible en Forge.",
+  "Set to true to make Forgiving Void return the player to the sky above their last grounded position instead of their current position. Prevents players from using Forgiving Void to fly across larger distances.": "Establece en true para que Forgiving Void devuelva al jugador al cielo sobre su último punto de contacto en lugar de su posición actual. Evita que los jugadores usen Forgiving Void para volar a distancias más grandes.",
+  "The amount of damage applied to the player when they land.": "La cantidad de daño aplicado al jugador cuando tocan el suelo.",
+  "The distance to the minimum y level at which Forgiving Void should forgive the player and send them towards the sky.": "La distancia al nivel mínimo y al cual Forgiving Void debe perdonar al jugador y enviarlo hacia el cielo.",
+  "The height from which the player will be falling after falling through the void.": "La altura desde la cual el jugador caerá después de caer a través del vacío.",
+  "Trident Forgiveness": "Perdón para tridentes",
+  "Trigger at Distance Below": "Activar a distancia debajo"
+ }
+}

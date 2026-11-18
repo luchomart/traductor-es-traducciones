@@ -1,0 +1,15 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Accessories Compat Config": "Configuración de compatibilidad de Accessories",
+  "Add Pocket Slot": "Añadir bolsillo",
+  "Adds a Pocket slot which emulates the Curio Slot": "Agrega un bolsillo que emula el slot de Curio",
+  "Dump Data when Null Entries": "Vaciar Datos al tener Entradas Nulas",
+  "Pocket": "Bolsillo",
+  "Show Pocket Slot In Tooltip": "Mostrar bolsillo en Tooltip",
+  "Shows the pocket slot in the tooltip if not implicitly valid for the slot": "Muestra el bolsillo en el tooltip si no es implícitamente válido para el slot",
+  "Slot Id Redirects": "Redirección de Id de Slot",
+  "Useful when an error within trinkets occurs due to null value and such behavior leads to crashing": "Útil cuando ocurre un error dentro de los trinkets debido a un valor nulo y tal comportamiento lleva a un crash",
+  "Useful when needing to redirect a trinket slot to a conventional accessories slot type": "Útil cuando se necesita redirigir un slot de trinket a un tipo de slot convencional de accessories"
+ }
+}

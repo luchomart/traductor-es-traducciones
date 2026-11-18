@@ -1,0 +1,7 @@
+{
+ "revisadas": {},
+ "ia": {
+  "When turned on, display entities without a bounding box will get assigned a default bounding box for culling purposes. This can improve performance for maps/servers that do not configure their display entities correctly, but can cause visual issues.": "Cuando esté activado, los entidades sin un volumen de caja de delimitación recibirán un volumen de caja de delimitación por defecto para fines de culling. Esto puede mejorar el rendimiento en mapas/servidores que no configuren correctamente sus entidades visuales, pero puede causar problemas visuales.",
+  "When turned on, leaves will be treated as solid for culling purposes. This can improve performance in forests, but also cause visual issues. Useful when setting 'See-Through Leaves' to Off, or using a bushy leaves resource pack.": "Cuando esté activado, las hojas serán tratadas como sólidas para fines de culling. Esto puede mejorar el rendimiento en bosques, pero también puede causar problemas visuales. Útil cuando se establezca 'Hojas Translúcidas' en Off, o al usar un paquete de recursos con hojas densas."
+ }
+}

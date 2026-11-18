@@ -1,0 +1,13 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Aim Duration": "Duración del mira",
+  "Aim Player on Interact": "Mira al jugador al interactuar",
+  "Better Third Person": "Better Third Person",
+  "Follow Yaw Angle": "Seguir angulo de Yaw",
+  "Free Camera During Elytra Flight": "Cámara libre durante vuelo con Elytra",
+  "Pitch Change Speed": "Velocidad de cambio de Pitch",
+  "Player Rotation Speed": "Velocidad de rotación del jugador",
+  "Skip Third-Person Front View": "Saltar vista frontal en tercera persona"
+ }
+}

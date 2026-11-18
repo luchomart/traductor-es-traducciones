@@ -1,0 +1,14 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Choose file": "Elegir archivo",
+  "Configure Hot Reload": "Configurar recarga caliente",
+  "Edit as text": "Editar como texto",
+  "Edit with slider": "Editar con deslizador",
+  "Save": "Guardar",
+  "Search...": "Buscar...",
+  "Sections": "Secciones",
+  "Some changes you made require a restart to apply": "Algunos cambios que realizaste requieren un reinicio para aplicarse",
+  "Unset": "Desestablecer"
+ }
+}

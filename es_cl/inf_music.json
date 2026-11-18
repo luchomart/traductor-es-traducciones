@@ -1,0 +1,33 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%s minutes": "%s minutos",
+  "%s seconds": "%s segundos",
+  "1 minute": "1 minuto",
+  "1 second": "1 segundo",
+  "Controls if music will be stoped if a music disc starts playing. The delay for the next music track starts once the music disc stops.": "Controla si la música se detendrá si comienza a reproducirse un disco musical. El retraso para la siguiente pista musical comienza una vez que el disco musical se detiene.",
+  "Creative Music...": "Música Creativa...",
+  "Custom": "Personalizado",
+  "Delay": "Retraso",
+  "Determines if music will start when you join a world regardless of the custom delay set.": "Determina si la música comenzará al unirse a un mundo independientemente del retraso personalizado establecido.",
+  "Disabled": "Desactivado",
+  "Enabled": "Habilitado",
+  "End Music...": "Música del End...",
+  "Gameplay Music...": "Música de Juego...",
+  "Infinite Music Options": "Opciones de Infinite Music",
+  "MC Default": "Predeterminado de MC",
+  "Main Menu Music...": "Música del Menú Principal...",
+  "Music": "Música",
+  "Music will play after %s": "La música se reproducirá después de %s",
+  "Music will randomly play between %s and %s": "La música se reproducirá aleatoriamente entre %s y %s",
+  "No Delay": "Sin retraso",
+  "None": "Ninguno",
+  "OFF": "APAGADO",
+  "ON": "ENCENDIDO",
+  "Pause For Discs": "Pausar para discos",
+  "Play Immediately": "Reproducir inmediatamente",
+  "Preset": "Preajuste",
+  "Randomness": "Aleatoriedad",
+  "Underwater Music...": "Música Subacuática..."
+ }
+}
