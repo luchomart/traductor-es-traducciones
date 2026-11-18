@@ -1,0 +1,14 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Battle Positions": "Posiciones de batalla",
+  "Player Pokemon Position": "Posición del Pokemon del jugador",
+  "Player Stand Position": "Posición del Stand del jugador",
+  "Trainer Pokemon Position": "Posición del Pokemon del entrenador",
+  "Trainer Stand Position": "Posición del Stand del entrenador",
+  "§7Where the player teleports during battle (optional)": "§7Donde el jugador teletransporta durante la batalla (opcional)",
+  "§7Where the player's Pokemon spawns during battle": "§7Donde aparece el Pokemon del jugador durante la batalla",
+  "§7Where the trainer teleports during battle (optional)": "§7Donde el entrenador teletransporta durante la batalla (opcional)",
+  "§7Where the trainer's Pokemon spawns during battle": "§7Donde aparece el Pokemon del entrenador durante la batalla"
+ }
+}

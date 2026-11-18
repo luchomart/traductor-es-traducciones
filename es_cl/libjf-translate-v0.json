@@ -1,0 +1,13 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Google": "Google",
+  "LibJF Translate v1": "LibJF Translate v1",
+  "LibreTranslate": "LibreTranslate",
+  "LibreTranslate Host": "Host de LibreTranslate",
+  "NOOP": "NOOP",
+  "The host of LibreTranslate to use if that is selected": "El host de LibreTranslate a usar si se selecciona ese opción",
+  "The service to use for translation. Other mods may access services directly, but this should be used": "El servicio a usar para traducción. Otros mods pueden acceder a servicios directamente, pero se debe usar este",
+  "Translation Service": "Servicio de traducción"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "revisadas": {},
+ "ia": {
+  "All": "Todos",
+  "Allowed models": "Modelos permitidos",
+  "Compiled animation math": "Matemáticas de animación compiladas",
+  "Determines what models EMF will try to interact with. Note: this is not perfect, some mods just use the vanilla namespace ids and there is little EMF can do about it": "Determina qué modelos EMF intentará interactuar. Nota: esto no es perfecto, algunos mods simplemente usan los ids del namespace vanilla y hay poco que EMF pueda hacer al respecto",
+  "Export rotations": "Exportar rotaciones",
+  "Known only (Mostly Vanilla / OptiFine)": "Solo conocidos (Mayormente Vanilla / OptiFine)",
+  "Log compiled math state": "Log estado de matemáticas compiladas",
+  "Unknown only (Mostly Modded)": "Solo desconocidos (Mayormente modded)",
+  "Will cause log spam, you probably don't need this unless the dev asked you to provide a log with this.": "Provocará spam en el log, probablemente no lo necesites a menos que el desarrollador te haya pedido proporcionar un log con esto.",
+  "You almost always want this ON.\nWhen disabled the animation system will defer to a more computationally expensive expression tree, which can be more useful for debugging.": "Casi siempre quieres que este esté ENCENDIDO.\nCuando está desactivado, el sistema de animación se volverá a una expresión más costosa computacionalmente, lo cual puede ser más útil para depuración.",
+  "exported jem models should not include the rotation values as they will inherit these from the vanilla parts\n however some model editors may like to have these values included\n this option will include them in the exported jem files": "Los modelos jem exportados no deben incluir los valores de rotación ya que heredarán estos de las partes vanilla\n sin embargo, algunos editores de modelos pueden preferir incluir estos valores\n esta opción los incluirá en los archivos jem exportados"
+ }
+}

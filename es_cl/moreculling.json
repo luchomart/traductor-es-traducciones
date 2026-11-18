@@ -1,0 +1,11 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Add block id here to prevent it from culling. for example minecraft:bamboo": "Agrega el id del bloque aquí para evitar que sea culled. por ejemplo minecraft:bamboo",
+  "Culls back and inner faces of the painting": "Cuello las caras de atrás e interior del cuadro",
+  "Dont Cull": "No Cull",
+  "Item Frame Culling": "Marco de ítems Culling",
+  "Leaves Culling": "Bambú Culling",
+  "Painting Culling": "Cuadro Culling"
+ }
+}

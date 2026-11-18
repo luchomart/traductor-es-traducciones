@@ -1,0 +1,16 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Enable File Host": "Habilitar servidor de archivos",
+  "LibJF Web v0": "LibJF Web v0",
+  "Max. Connections": "Conexiones máximas",
+  "Port": "Puerto",
+  "Port Override": "Puerto de sobrescritura",
+  "Server IP": "IP del servidor",
+  "The maximum number of concurrent connections to this server": "Número máximo de conexiones concurrentes a este servidor",
+  "The port to host content on, 0 to choose a random one or -1 to reuse the minecraft port on servers (requires restart)": "El puerto donde se servirá el contenido, 0 para elegir uno aleatorio o -1 para reutilizar el puerto de Minecraft en servidores (requiere reinicio)",
+  "The port to send to clients (for reverse proxies, -1 to disable)": "El puerto para enviar a los clientes (para proxies inversos, -1 para desactivar)",
+  "The public IP/host name to send to clients": "La IP/puerto público para enviar a los clientes",
+  "Whether files from config/wwwroot should be hosted as static resources": "¿Los archivos de config/wwwroot deben ser servidos como recursos estáticos?"
+ }
+}

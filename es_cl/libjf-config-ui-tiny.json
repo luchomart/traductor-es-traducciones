@@ -1,0 +1,9 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Could not read": "No se pudo leer",
+  "Could not write": "No se pudo escribir",
+  "The given entry could not be read from a string. Please edit the config manually": "La entrada dada no pudo ser leída desde un hilo. Por favor edite la configuración manualmente",
+  "The given entry could not be stringified. Please edit the config manually": "La entrada dada no pudo ser hilada. Por favor edite la configuración manualmente"
+ }
+}

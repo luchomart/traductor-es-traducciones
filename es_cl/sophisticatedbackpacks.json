@@ -1,0 +1,31 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Chipped Alchemy Bench in an upgrade tab": "Banco de Alquimia Chipped en una pestaña de mejora",
+  "Chipped Carpenters Workbench in an upgrade tab": "Mesa de Carpintería Chipped en una pestaña de mejora",
+  "Chipped Glassblower in an upgrade tab": "Vidriero Chipped en una pestaña de mejora",
+  "Chipped Loom Table in an upgrade tab": "Telar Chipped en una pestaña de mejora",
+  "Chipped Mason Table in an upgrade tab": "Mesa de Cantero Chipped en una pestaña de mejora",
+  "Chipped Tinkering Table in an upgrade tab": "Mesa de Tinkering Chipped en una pestaña de mejora",
+  "Chipped: Alchemy Bench Upgrade": "Chipped: Mejora de banco de alquimia",
+  "Chipped: Carpenters Workbench Upgrade": "Chipped: Mejora de mesa de carpintería",
+  "Chipped: Glassblower Upgrade": "Chipped: Mejora de vidriero",
+  "Chipped: Loom Table Upgrade": "Chipped: Mejora de telar",
+  "Chipped: Mason Table Upgrade": "Chipped: Mejora de mesa de cantero",
+  "Chipped: Tinkering Table Upgrade": "Chipped: Mejora de mesa de Tinkering",
+  "Divides the number of stacks that can fit in a slot by 16": "Divide la cantidad de stacks que caben en una slot por 16",
+  "Divides the number of stacks that can fit in a slot by 32": "Divide la cantidad de stacks que caben en una slot por 32",
+  "Divides the number of stacks that can fit in a slot by 8": "Divide la cantidad de stacks que caben en una slot por 8",
+  "Makes all items in backpack infinite\nAll players can set infinite items and break or pickup backpack": "Hace que todos los items en la mochila sean infinitos\nTodos los jugadores pueden establecer items infinitos y romper o recoger la mochila",
+  "Makes all items in backpack infinite\nOnly admins can set infinite items and break or pickup backpack": "Hace que todos los objetos en la mochila sean de Infinidad\nSolo los administradores pueden establecer objetos de Infinidad y romper o recoger la mochila",
+  "Only Admins can break backpack with Infinity Upgrade": "Solo los administradores pueden romper la mochila con Mejora de Infinidad",
+  "Only Admins can pickup backpack with Infinity Upgrade": "Solo los administradores pueden recoger la mochila con Mejora de Infinidad",
+  "Portable Jukebox with support for more music discs\nAlso more playback options": "Tocadiscos portátil con soporte para más discos musicales\nTambién más opciones de reproducción",
+  "Raises the stack size limit to 2,147,483,647": "Aumenta el límite de stacks a 2.147.483.647",
+  "Smithing": "Herrería",
+  "Smithing Table in an upgrade tab": "Mesa de Herrería en una pestaña de mejora",
+  "Sophisticated Backpacks": "Sophisticated Backpacks",
+  "There's already Everlasting Upgrade in another upgrade slot": "Ya existe una Mejora de la Eternidad en otra ranura de mejora",
+  "There's no place for item in hand in either backpack or player's inventory": "No hay espacio para el objeto en mano en ninguna de las mochilas o en la inventario del Jugador"
+ }
+}

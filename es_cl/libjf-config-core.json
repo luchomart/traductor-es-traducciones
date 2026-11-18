@@ -1,0 +1,19 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Automatically reload configs when they are changed": "Automáticamente recarga las configuraciones cuando cambien",
+  "Could not render entry: %s": "No se pudo renderizar la entrada: %s",
+  "Default": "Default",
+  "Edit": "Editar",
+  "LibJF Config": "Configuración de LibJF",
+  "No mod for rendering config UIs was discovered. Install LibJF to add one.": "No hay mod para renderizar interfaces de configuración. Instala LibJF para agregar una.",
+  "No screen": "No screen",
+  "Presets": "Presets",
+  "Reset": "Reiniciar",
+  "See also: %s": "Ver también: %s",
+  "Watch for changes": "Buscar cambios",
+  "§aTrue": "§aTrue",
+  "§cFalse": "§cFalse",
+  "§dNull": "§dNull"
+ }
+}

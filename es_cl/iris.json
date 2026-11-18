@@ -1,0 +1,13 @@
+{
+ "revisadas": {},
+ "ia": {
+  "\nmacOS is known to have issues with many shader packs.": "\nmacOS es conocido por tener problemas con muchos paquetes de shader.",
+  "Iris encountered an issue trying to load the shader; please report this to Iris developers. ": "Iris encontró un problema al intentar cargar el shader; por favor reporte esto a los desarrolladores de Iris. ",
+  "Shader Packs...": "Paquetes de Shader...",
+  "Shader debugging has been enabled; OpenGL debugging is unsupported on NeoForge.": "Se ha habilitado la depuración de shader; la depuración de OpenGL no es compatible con NeoForge.",
+  "The color space to transform the screen to. Works on top of shader packs. Use SRGB if unsure.": "El espacio de color a transformar la pantalla. Funciona sobre paquetes de shader. Use SRGB si no está seguro.",
+  "The shader requested a specific feature (SSBO) that is not supported by your GPU, it may not work correctly.": "El shader solicitó una característica específica (SSBO) que no es compatible con su GPU, puede que no funcione correctamente.",
+  "The shaderpack failed to load! Please report the error to the shader developer. ": "El paquete de shader falló al cargar¡ Por favor reporte el error al desarrollador del shader. ",
+  "The shadow render distance controls how far away terrain can potentially be rendered in the shadow pass. Lower distances mean that less terrain will be rendered, improving frame rates. This option cannot be changed on packs which explicitly specify a shadow render distance. The actual shadow render distance is capped by the View Distance setting.": "La distancia de renderizado de sombras controla hasta qué distancia puede renderizarse el terreno en la pasada de sombras. Distancias más bajas significan que menos terreno se renderizará, mejorando las tasas de cuadros. Esta opción no puede cambiarse en los paquetes que especifiquen explícitamente una distancia de renderizado de sombras. La distancia real de renderizado de sombras está limitada por la configuración de distancia de vista."
+ }
+}

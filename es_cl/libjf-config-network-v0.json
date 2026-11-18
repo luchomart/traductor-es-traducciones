@@ -1,0 +1,10 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Permission denied": "Permiso denegado",
+  "Serverside Mods Overview": "Vista previa de mods del lado del servidor",
+  "Unavailable": "No disponible",
+  "You do not have permission to edit configs on this server": "No tienes permiso para editar configuraciones en este servidor",
+  "libjf-config-network-v0 server is unavailable": "libjf-config-network-v0 servidor no está disponible"
+ }
+}
