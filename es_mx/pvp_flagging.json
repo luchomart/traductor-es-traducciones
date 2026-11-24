@@ -1,0 +1,18 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Failed to add Zone \"%s\", already exists": "Error al añadir la Zona \"%s\", ya existe",
+  "PVP Enabled: %s": "PVP activado: %s",
+  "PVP flagging is enabled! In order to fight players, use %s to toggle your PVP Flag Status": "¡El marcado de PVP está activado! Para luchar contra otros jugadores, usa %s para cambiar tu Estado de Bandera PVP",
+  "There are no PVP Zones": "No hay Zonas PVP",
+  "You are about to enter a PVP zone and will be flagged.": "Estás a punto de entrar en una zona PVP y serás marcado.",
+  "You are about to enter a PVP zone.": "Estás a punto de entrar en una zona PVP.",
+  "You are no longer flagged for PVP": "Ya no estás marcado para PVP",
+  "You are now flagged for PVP": "Ahora estás marcado para PVP",
+  "You cannot unflag inside a PVP zone.": "No puedes quitar el marcado dentro de una zona PVP.",
+  "You will no longer be flagged for PVP in %s seconds": "Ya no estarás marcado para PVP en %s segundos",
+  "Your PVP unflag request has been cancelled": "Tu solicitud para quitar el marcado de PVP ha sido cancelada",
+  "Zone \"%s\" Added": "Zona \"%s\" añadida",
+  "[PVP Flagging]: %s": "[Marcado de PVP]: %s"
+ }
+}

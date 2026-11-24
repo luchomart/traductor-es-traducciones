@@ -1,0 +1,7 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Set this to true to enable living entities to use items with durations of 0. Fixes being able to use Eyes of Ender repeatedly by holding down the use button. Disabled by default as it could change interactions with items of existing mods.": "Establece esto en true para permitir que las entidades vivas usen objetos con duraciones de 0. Corrige el problema de poder usar Ojos de Ender repetidamente manteniendo presionado el botón de uso. Desactivado por defecto, ya que podría cambiar las interacciones con objetos de mods existentes.",
+  "When enabled, Forge will allow mipmaps to be lowered in real-time. This is the default behavior in vanilla. Use this if you experience issues with resource packs that use textures lower than 8x8.": "Cuando está activado, Forge permitirá reducir los mipmaps en tiempo real. Este es el comportamiento por defecto en vanilla. Usa esto si experimentas problemas con paquetes de recursos que usan texturas menores a 8x8."
+ }
+}

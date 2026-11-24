@@ -1,0 +1,32 @@
+{
+ "revisadas": {},
+ "ia": {
+  "<np><t2>Raw hides will obtain the \"Machine-Made\" tag after getting processed by the Beamhouse. The tag will be inherited if the subsequent washing, fleshing (scraping) and tanning process are handled by the Beamhouse and the Fleshing Machine.": "<np><t2>Las pieles crudas obtendrán la etiqueta \"Hecho a máquina\" después de ser procesadas por la Casa de vigas. La etiqueta se heredará si los procesos posteriores de lavado, desollado (raspado) y curtido son manejados por la Casa de vigas y la Máquina de desollado.",
+  "<t1>The Fleshing Machine removes excess fat and flesh from hides using a rotating cylinder with sharp blades that scrap the hide as it passes through the machine.": "<t1>La Máquina de desollado elimina el exceso de grasa y carne de las pieles usando un cilindro giratorio con cuchillas afiladas que raspan la piel a medida que pasa a través de la máquina.",
+  "<t2>In order to operate the Fleshing Machine, Fleshing Blades need to be put on the cylinder inside the machine by rightclicking the machine with Fleshing Blades.": "<t2>Para operar la Máquina de desollado, las Cuchillas de desollado deben colocarse en el cilindro dentro de la máquina haciendo clic derecho en la máquina con las Cuchillas de desollado.",
+  "Beamhouse": "Casa de vigas",
+  "Before the loom can operate, it must be primed with 16 of the selected yarn/fiber by rightclicking with the yarn/fiber on the 'grill' in the center of the machine.": "Antes de que el telar pueda operar, debe prepararse con 16 del hilo/fibra seleccionado haciendo clic derecho con el hilo/fibra en la 'parrilla' en el centro de la máquina.",
+  "Fleshing Machine": "Máquina de desollado",
+  "Flour Power": "Poder de harina",
+  "For fluid input, either put a filled bucket inside the GUI or rightclick the fluid input port with the filled bucket. Unwanted fluid can be removed by rightclicking the same port with an empty bucket.": "Para la entrada de fluidos, coloca una cubeta llena dentro de la interfaz o haz clic derecho en el puerto de entrada de fluidos con la cubeta llena. El fluido no deseado se puede eliminar haciendo clic derecho en el mismo puerto con una cubeta vacía.",
+  "Going through all these processes, the amount of leather obtained will be §2double§r the normal amount. Note that if any step of the process is not handled by machines, the \"Machine-Made\" tag will be lost and the bonus of double output cannot be retained.": "Al pasar por todos estos procesos, la cantidad de cuero obtenida será §2doble§r de la cantidad normal. Ten en cuenta que si cualquier paso del proceso no es manejado por máquinas, la etiqueta \"Hecho a máquina\" se perderá y no se podrá conservar el bono de producción doble.",
+  "Grist Mill": "Molino de grano",
+  "High Quality Leather": "Cuero de alta calidad",
+  "In order to operate the Power Loom, pirns spooled with a selected yarn/fiber must be put on the holder located at the side of the machine.": "Para operar el Telar mecánico, las pirns enrolladas con el hilo/fibra seleccionado deben colocarse en el soporte ubicado en el costado de la máquina.",
+  "It consumes 20IF/t by default.": "Consume 20IF/t por defecto.",
+  "It consumes <t1>IF/t.": "Consume <t1>IF/t.",
+  "Items can be inputted from the top by a Hopper, a Chute, or a Dropping Conveyor Belt.": "Los objetos pueden introducirse desde la parte superior mediante una Tolva, un Conducto o una Cinta transportadora con soltador.",
+  "Output may be retrieved by a storage device placed in the center of the output side, or by shift-rightclicking on the back.": "La salida puede recuperarse mediante un dispositivo de almacenamiento colocado en el centro del lado de salida, o haciendo clic derecho con Shift en la parte trasera.",
+  "Output will be tagged with <l3>\"Machine-Made\"</l3> if the input has the same tag.": "La salida estará etiquetada como <l3>\"Hecho a máquina\"</l3> si la entrada tiene la misma etiqueta.",
+  "Power Loom": "Telar mecánico",
+  "Shed Your Husk": "Despídete de tu piel de disecado",
+  "Textile Empire": "Imperio textil",
+  "The Beamhouse handles liming, washing and tanning of hides in the leather production process.": "La Casa de vigas se encarga del encalado, lavado y curtido de las pieles en el proceso de producción de cuero.",
+  "The Grist Mill grains raw grain into more edible flour.": "El Molino de grano convierte el grano crudo en harina más comestible.",
+  "The Power Loom is an innovative solution to a growing demand for textiles. To automate the weaving process, a shuttle containing a pirn spooled with yarn is rapidly sent back and forth between two perpendicular sets of strung yarn alternating between high and low positions.": "El Telar mecánico es una solución innovadora para la creciente demanda de textiles. Para automatizar el proceso de tejido, una lanzadera que contiene una pirn enrollada con hilo se envía rápidamente de un lado a otro entre dos conjuntos perpendiculares de hilo tensado que alternan entre posiciones altas y bajas.",
+  "The Taxidermy": "Taxidermia",
+  "The Thresher separates chaff from grain using rotating cylinders and mechanical power.": "La trilladora separa la paja del grano usando cilindros rotatorios y poder mecánico.",
+  "Then, input yarn/fiber can be put with the same method on the lower beam on the machine's shorter side.": "Luego, el hilo/fibra de entrada puede colocarse con el mismo método en la viga inferior en el lado más corto de la máquina.",
+  "Thresher": "Trilladora"
+ }
+}

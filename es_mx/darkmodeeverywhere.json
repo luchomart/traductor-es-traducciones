@@ -1,0 +1,16 @@
+{
+ "revisadas": {},
+ "ia": {
+  " * Use shift to skip to Light Mode": " * Usa shift para cambiar al Modo claro",
+  "A list of class:method strings (render methods) that the dark shader will not be applied to.\\nEach string consists of the class and the method (or any substring) to block the dark shader.\\nFor example, 'renderHunger' is sufficient to block 'net.minecraftforge.client.gui.overlay.ForgeGui:renderFood' (either will work)": "Una lista de cadenas clase:método (métodos de renderizado) a los que no se aplicará la apariencia oscura.\\nCada cadena consiste en la clase y el método (o cualquier subcadena) para bloquear la apariencia oscura.\\nPor ejemplo, 'renderHunger' es suficiente para bloquear 'net.minecraftforge.client.gui.overlay.ForgeGui:renderFood' (cualquiera de los dos funcionará)",
+  "Dark Mode": "Modo oscuro",
+  "Enabled": "Activado",
+  "Enabling this config will (every 5 seconds) dump which methods were used to render GUIs that the dark shader was applied to\\nThe dump will consist of a list of class:method strings, e.g. 'net.minecraftforge.client.gui.overlay.ForgeGui:renderFood'\\nUse this feature to help find the render method strings of GUIs you would like to blacklist.": "Activar esta configuración (cada 5 segundos) mostrará qué métodos se usaron para renderizar las GUIs a las que se aplicó la apariencia oscura\\nEl volcado consistirá en una lista de cadenas clase:método, ej. 'net.minecraftforge.client.gui.overlay.ForgeGui:renderFood'\\nUsa esta función para ayudar a encontrar las cadenas de métodos de renderizado de las GUIs que te gustaría poner en la lista negra.",
+  "Less Perfect Dark": "Oscuridad menos perfecta",
+  "Light Mode": "Modo claro",
+  "Perfect Dark": "Oscuridad perfecta",
+  "Pixels away from the bottom of the GUI in the y axis": "Píxeles desde la parte inferior de la GUI en el eje y",
+  "Pixels away from the left of the GUI in the x axis": "Píxeles desde la izquierda de la GUI en el eje x",
+  "Toasted Light Mode": "Modo claro tostado"
+ }
+}

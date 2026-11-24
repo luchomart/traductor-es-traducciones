@@ -1,0 +1,21 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%s Block(s)": "%s Bloque(s)",
+  "Add Group": "Añadir grupo",
+  "Block": "Bloque",
+  "Blocks": "Bloques",
+  "Blocktag": "Etiqueta de bloque",
+  "Content": "Contenido",
+  "Do you want to save your changes?": "¿Quieres guardar tus cambios?",
+  "Enabled": "Activado",
+  "Item": "Ítem",
+  "Itemtag": "Etiqueta de objeto",
+  "Okay": "Aceptar",
+  "Open Permissions": "Abrir permisos",
+  "Recent ingredients:": "Ingredientes recientes:",
+  "Stack": "Pila",
+  "pitch": "tono",
+  "volume": "volumen"
+ }
+}

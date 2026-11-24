@@ -1,0 +1,20 @@
+{
+ "revisadas": {},
+ "ia": {
+  "BackButton": "Atrás",
+  "Color": "Color",
+  "Day Counter GUI": "Interfaz del contador de días",
+  "Day Preview": "Vista previa del día",
+  "Offset": "Desfase",
+  "Position": "Posición",
+  "Reset": "Reiniciar",
+  "Reset Size": "Reiniciar tamaño",
+  "Save": "Guardar",
+  "Size": "Tamaño",
+  "UP": "ARRIBA",
+  "down": "abajo",
+  "left": "izquierda",
+  "reset": "reiniciar",
+  "right": "derecha"
+ }
+}

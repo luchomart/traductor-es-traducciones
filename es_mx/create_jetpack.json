@@ -1,0 +1,19 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Allows levitation using pressurized air": "Permite la Levitación usando aire presurizado",
+  "Create Jetpack": "Crear mochila propulsora",
+  "Fly downwards": "Volar hacia abajo",
+  "Fly upwards": "Volar hacia arriba",
+  "Jetpack": "Mochila Propulsora",
+  "Jetpack Placeable": "Mochila propulsora colocable",
+  "Netherite Jetpack": "Jetpack de netherita",
+  "Netherite Jetpack Placeable": "Jetpack de netherita colocable",
+  "Press [G]": "Presiona [G]",
+  "Press [H]": "Presiona [H]",
+  "Press [JUMP]": "Presiona [SALTAR]",
+  "Press [SHIFT]": "Presiona [SHIFT]",
+  "Turn engine on/off": "Encender/apagar motor",
+  "Turn hover mode on/off": "Activar/desactivar modo de suspensión"
+ }
+}

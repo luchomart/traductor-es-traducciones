@@ -1,0 +1,23 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Diode": "Diodo",
+  "Generates a redstone signal (power can be configured by left-clicking on the generator). It is turned off if powered (back input)": "Genera una señal de redstone (el Poder se puede configurar haciendo clic izquierdo en el Generador). Se apaga si recibe energía (entrada trasera)",
+  "Generator": "Generador",
+  "Limiter": "Limitador",
+  "Limits the received redstone signal (back input) to the reference value (right input)": "Limita la señal de redstone recibida (entrada trasera) al valor de referencia (entrada derecha)",
+  "More Tiny Gates": "Más puertas diminutas",
+  "NAND Gate": "Puerta NAND",
+  "Outputs to front when a signal isn't received from any side. (Negated OR gate)": "Emite hacia el frente cuando no se recibe una señal de ningún lado. (Puerta NOR)",
+  "Outputs to front when a signal isn't received to both left AND right side in the same time. (Negated AND gate)": "Emite hacia el frente cuando no se recibe una señal en ambos lados izquierdo Y derecho al mismo tiempo. (Puerta NAND)",
+  "Outputs to front when the input signals match. (Negated XOR gate)": "Emite hacia el frente cuando las señales de entrada coinciden. (Puerta XNOR)",
+  "Tiny Diode": "Diodo diminuto",
+  "Tiny Generator": "Generador diminuto",
+  "Tiny Limiter": "Limitador diminuto",
+  "Tiny NAND Gate": "Puerta NAND diminuta",
+  "Tiny NOR Gate": "Puerta NOR diminuta",
+  "Tiny XNOR Gate": "Puerta XNOR diminuta",
+  "Transmits signal one sided (works similar to a repeater but doesn't amplify signal)": "Transmite la señal en un solo sentido (funciona similar a un repetidor pero no amplifica la señal)",
+  "XNOR Gate": "Puerta XNOR"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%s has %s deaths and is rank %s on this server.": "%s tiene %s muertes y es el rango %s en este servidor.",
+  "%s hasn't died on this server yet! Lucky them!": "¡%s aún no ha muerto en este servidor! ¡Qué suerte!",
+  "Broadcast On Death": "Transmitir al morir",
+  "Command Permission Level": "Nivel de permiso de comando",
+  "Do not persist deaths across sessions? Turning this on disables saving deaths to server folder.": "¿No persistir las muertes entre sesiones? Activar esto desactiva el guardado de muertes en la carpeta del servidor.",
+  "Enable this and death counter messages will not show up in chat. This includes the leaderboard when manually querying with the command!": "Activa esto y los mensajes de Death Counter no aparecerán en el chat. ¡Esto incluye la tabla de posiciones cuando se consulta manualmente con el comando!",
+  "Failed to transfer %s's deaths.": "Error al transferir las muertes de %s.",
+  "Hide Death Counter Messages": "Ocultar mensajes de Death Counter",
+  "Leaderboard Count": "Cantidad de la tabla",
+  "Leaderboard broadcasted!": "¡Tabla de posiciones transmitida!",
+  "Message Type": "Tipo de mensaje",
+  "No deaths on this server yet.": "Aún no hay muertes en este servidor.",
+  "Number of names to show in the leaderboard": "Número de nombres a mostrar en la tabla de posiciones",
+  "Permission level required to use the op commands for Death Counter": "Nivel de permiso requerido para usar los comandos de administrador de Death Counter",
+  "Should we broadcast the leaderboard to the player when they die?\nAccepts: NONE, SELF, ALL": "¿Debemos transmitir la tabla de posiciones al jugador cuando muera?\nAcepta: NONE, SELF, ALL",
+  "Single Session": "Sesión única",
+  "Transferred %s deaths from %s to %s.": "Se transfirieron %s muertes de %s a %s.",
+  "What kind of message should we send players when they die?\nAccepts: NONE, SHORT, LONG": "¿Qué tipo de mensaje debemos enviar a los jugadores cuando mueran?\nAcepta: NONE, SHORT, LONG"
+ }
+}

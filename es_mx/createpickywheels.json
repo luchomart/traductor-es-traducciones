@@ -1,0 +1,32 @@
+{
+ "revisadas": {},
+ "ia": {
+  "...but provide a substantially higher stress capacity": "...pero proporcionan una Capacidad de estrés sustancialmente mayor",
+  "Biome efficiency": "Eficiencia del bioma",
+  "Covering additional sides, or fully submerging it, will disable its kinetic output": "Cubrir lados adicionales o sumergirla por completo desactivará su producción cinética",
+  "Generating at": "Generando en",
+  "Height efficiency": "Eficiencia de altura",
+  "If the body of water is large enough, Large Water Wheels draw force from adjacent Water Sources. Boosted in River Biomes": "Si el cuerpo de agua es lo suficientemente grande, las Ruedas de agua grandes extraen fuerza de las Fuentes de Agua adyacentes. Potenciadas en biomas de Río",
+  "If the body of water is large enough, Water Wheels draw force from adjacent Water Sources. Boosted in River Biomes": "Si el cuerpo de agua es lo suficientemente grande, las Ruedas de agua extraen fuerza de las Fuentes de Agua adyacentes. Potenciadas en biomas de Río",
+  "Invalid Biome": "Bioma no válido",
+  "Lacking Power Source": "Falta fuente de poder",
+  "Not Enough Air Flow": "No hay suficiente flujo de aire",
+  "Not Enough Water": "No hay suficiente agua",
+  "Not at a Aquatic Biome": "No está en un bioma acuático",
+  "Not working due to being in an invalid biomes": "No funciona por estar en un bioma no válido",
+  "Not working due to invalid power source": "No funciona debido a una fuente de poder no válida",
+  "Placed in a suboptimal biome": "Colocado en un bioma subóptimo",
+  "Placed in an optimal biome": "Colocado en un bioma óptimo",
+  "Placed on a suboptimal power source": "Colocado en una fuente de poder subóptima",
+  "Placed on an optimal power source": "Colocado en una fuente de poder óptima",
+  "The targeted body of fluid is not big enough.": "El cuerpo de fluido seleccionado no es lo suficientemente grande.",
+  "These rotate only at half the speed of regular water wheels...": "Estas rotan solo a la mitad de la Velocidad de las ruedas de agua normales...",
+  "This windmill lacks enough empty space around it. Or else, where all that wind would come from?": "Este molino de viento carece de suficiente espacio vacío a su alrededor. De lo contrario, ¿de dónde vendría todo ese viento?",
+  "Too many or too few water sources are trying to rotate this waterwheel.": "Hay demasiadas o muy pocas fuentes de agua intentando girar esta rueda hidráulica.",
+  "Use wood planks on the wheel to change its appearance": "Usa tablones de madera en la rueda para cambiar su apariencia",
+  "Waterwheels are works only the water biome - river, lake, sea": "Las ruedas hidráulicas solo funcionan en biomas de agua: río, lago, mar",
+  "Windmills are picky about their biomes.": "Los molinos de viento son exigentes con sus biomas.",
+  "efficiency": "eficiencia",
+  "from power source conditions": "de las condiciones de la fuente de poder"
+ }
+}

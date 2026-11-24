@@ -1,0 +1,8 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Pack has errors. Check logs/polytone.log": "El paquete tiene errores. Revisa logs/polytone.log",
+  "Polytone Early Resource Reload failed": "Error en la carga temprana de recursos de Polytone",
+  "Polytone Late Resource Reload failed": "Error en la carga tardía de recursos de Polytone"
+ }
+}

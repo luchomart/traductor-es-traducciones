@@ -1,0 +1,33 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Animal Trap Box": "Caja de trampa para animales",
+  "Animal Trap Down": "Trampa para animales abajo",
+  "Animal Trap Empty": "Trampa para animales vacía",
+  "Animal Trap Full": "Trampa para animales llena",
+  "Animal Trap Seed Bait": "Cebo de semillas para trampa de animales",
+  "Animal Trap String": "Hilo de trampa para animales",
+  "Animal Trap with Bait": "Trampa para animales con cebo",
+  "Animal Trap with Twine": "Trampa para animales con hilo",
+  "Carcase Chicken": "Cadáver de gallina",
+  "Carcase Rabbit": "Cadáver de conejo",
+  "Chicken Carcass": "Cadáver de gallina",
+  "Duck Carcass": "Cadáver de pato",
+  "Fish Trap Bait": "Cebo de trampa de peces",
+  "Fish Trap Empty": "Trampa de peces vacía",
+  "Fish Trap full": "Trampa de peces llena",
+  "Flintknife": "Cuchillo de pedernal",
+  "Grouse Carcass": "Cadáver de urogallo",
+  "Pheasant Carcass": "Cadáver de faisán",
+  "Plant Fiber": "Fibra de planta",
+  "Plant Mesh": "Malla de planta",
+  "Plant String": "Hilo de planta",
+  "Quail Carcass": "Cadáver de codorniz",
+  "Rabbit Carcass": "Cadáver de conejo",
+  "Seed Bait": "Cebo de semillas",
+  "Small Animals Bait": "Cebo para animales pequeños",
+  "Turkey Carcass": "Cadáver de pavo",
+  "Turtle Carcass": "Cadáver de tortuga",
+  "Twine": "Cordel"
+ }
+}

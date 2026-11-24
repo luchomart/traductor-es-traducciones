@@ -1,0 +1,28 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%1$s RPM": "%1$s RPM",
+  "Advanced Brass Mesh": "Malla de latón avanzada",
+  "Advanced Custom Mesh": "Malla personalizada avanzada",
+  "After some time, the result can be obtained via Right-click": "Después de un tiempo, el resultado se puede obtener con clic derecho",
+  "Andesite Mesh": "Malla de andesita",
+  "Block sifting": "Tamizado por bloques",
+  "Brass Mesh": "Malla de latón",
+  "Brass Sifter": "Tamiz de latón",
+  "Brass sifter required": "Se requiere tamiz de latón",
+  "Create Sifting data": "Datos de tamizado de Create",
+  "Create sifting": "Tamizado de Create",
+  "Crushed end stone": "Piedra del End triturada",
+  "Custom Mesh": "Malla personalizada",
+  "Dust block": "Bloque de polvo",
+  "Sifter": "Tamiz",
+  "Sifter process items by sifting them": "Los tamices procesan objetos al tamizarlos",
+  "Sifting recipe": "Receta de tamizado",
+  "String Mesh": "Malla de hilo",
+  "The outputs can also be extracted by automation": "Las salidas también pueden extraerse mediante automatización",
+  "They can be powered from the side using cogwheels": "Pueden ser alimentados desde el costado usando engranajes",
+  "Throw or Insert items at the top": "Lanza o inserta objetos en la parte superior",
+  "Waterlogged": "Saturado de agua",
+  "Zinc Mesh": "Malla de zinc"
+ }
+}

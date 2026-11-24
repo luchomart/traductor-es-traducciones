@@ -1,0 +1,20 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Console": "Consola",
+  "Execute a command from the console": "Ejecuta un comando desde la consola",
+  "Ignore?": "¿Ignorar?",
+  "Key": "LLave",
+  "Key for storing values": "LLave para almacenar valores",
+  "Key value": "Valor de la LLave",
+  "Key-value": "LLave-valor",
+  "Leave blank to reset the current quest": "Deja en blanco para reiniciar la misión actual",
+  "Number of second until the quest resets. If the task is team-based, then make the reward team-based.": "Número de segundos hasta que se reinicie la misión. Si la tarea es por equipos, haz que la recompensa también sea por equipos.",
+  "Reset every %s second": "Reiniciar cada %s segundo",
+  "The quest ID to reset": "ID de la misión a reiniciar",
+  "Time to quest reset": "Tiempo de reinicio de misión",
+  "Timer": "Temporizador",
+  "Value": "Valor",
+  "Will rewards ignore quest progress?": "¿Las recompensas ignorarán el progreso de la misión?"
+ }
+}
