@@ -1,0 +1,8 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Cannot pull item entities lying above it.": "No puede extraer entidades de ítems que estén sobre él.",
+  "Cannot pull items from inventories above it.": "No puede extraer ítems de inventarios que estén encima.",
+  "Wooden Hopper": "Tolva de madera"
+ }
+}

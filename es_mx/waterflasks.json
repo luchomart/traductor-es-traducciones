@@ -1,0 +1,22 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%s Iron Flask": "%s Frasco de hierro",
+  "%s Leather Flask": "%s Frasco de cuero",
+  "%s Red Steel Flask": "%s Frasco de acero rojo",
+  "Bladder": "Vejiga",
+  "Broken Iron Flask": "Frasco de hierro roto",
+  "Broken Leather Flask": "Frasco de cuero roto",
+  "Flask breaking": "Frasco rompiéndose",
+  "Iron": "Hierro",
+  "Iron Flask": "Frasco de hierro",
+  "Leather": "Cuero",
+  "Leather Flask": "Frasco de cuero",
+  "Leather Flask Side": "Lado de frasco de cuero",
+  "Materials": "Materiales",
+  "Red Steel": "Acero rojo",
+  "Red Steel Flask": "Frasco de acero rojo",
+  "Unfinished Iron Flask": "Frasco de hierro sin terminar",
+  "Unfinished Red Steel Flask": "Frasco de acero rojo sin terminar"
+ }
+}

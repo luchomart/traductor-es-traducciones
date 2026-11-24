@@ -1,0 +1,20 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%d stages cleared from %s": "Etapas de %d eliminadas de %s",
+  "%s does not have stage %s": "%s no tiene la etapa %s",
+  "%s has no stages unlocked.": "%s no tiene etapas desbloqueadas.",
+  "%s has stage %s": "%s tiene la etapa %s",
+  "%s has the following stages. %s": "%s tiene las siguientes etapas. %s",
+  "%s has unlocked all known stages!": "¡%s ha desbloqueado todas las etapas conocidas!",
+  "Loaded %d known stages.": "Se cargaron %d etapas conocidas.",
+  "Reloaded fake player stages.": "Etapas de jugadores falsos recargadas.",
+  "Sorry, players only!": "Lo siento, ¡solo para jugadores!",
+  "Stage %s removed for %s!": "¡Etapa %s eliminada para %s!",
+  "Stage %s unlocked for %s!": "¡Etapa %s desbloqueada para %s!",
+  "You have unlocked all known stages!": "¡Has desbloqueado todas las etapas conocidas!",
+  "You lost %d stages!": "¡Perdiste %d etapas!",
+  "You lost access to stage %s!": "¡Perdiste el acceso a la etapa %s!",
+  "You unlocked stage %s!": "¡Desbloqueaste la etapa %s!"
+ }
+}

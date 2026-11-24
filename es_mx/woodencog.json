@@ -1,0 +1,30 @@
+{
+ "revisadas": {},
+ "ia": {
+  "1,024 SU": "1,024 SU",
+  "4,096 SU": "4,096 SU",
+  "An item capable of receiving heat will be heated by lava, the maximum temperature is 1700°.": "Un ítem capaz de recibir calor será calentado por lava; la temperatura máxima es de 1700°.",
+  "Assembly Pressing": "Prensado de ensamblaje",
+  "Cooling items": "Enfriar ítems",
+  "Crafting": "Crafteo",
+  "Generating rotation from TFC sources": "Generar rotación desde fuentes de TFC",
+  "Heated Compacting": "Compactación con calor",
+  "Heated Mixing": "Mezcla con calor",
+  "Heated Pressing": "Prensado con calor",
+  "Heated item can be cooled down with water.": "Un ítem caliente puede enfriarse con Agua.",
+  "Heating items": "Calentar ítems",
+  "It's the same with fire, but the temperature limit is 200°. Perfect for cooking !": "Es lo mismo con el Fuego, pero el límite de temperatura es de 200°. ¡Perfecto para cocinar!",
+  "Mode": "Modo",
+  "Other sources": "Otras fuentes",
+  "SU are generated according to the source rotation speed": "Las SU se generan de acuerdo con la Velocidad de rotación de la fuente",
+  "Sealed on": "Sellado en",
+  "The Generator needs to be placed besides a TFC rotation source": "El Generador debe colocarse junto a una fuente de rotación de TFC",
+  "The Rustic Windmill generates double the SU": "El Molino de viento rústico genera el doble de SU",
+  "Transforming rotation": "Transformar rotación",
+  "Use output fluids as input fluids": "Usar fluidos de salida como fluidos de entrada",
+  "Wooden Generator": "Generador de madera",
+  "Wooden Transformer": "Transformador BT-MT de madera",
+  "Wooden Transformers are a new TFC rotation source. Convert from Create to TFC rotation. Rotation speed is matched from input to output.": "Los Transformadores de madera son una nueva fuente de rotación de TFC. Convierte de Create a rotación de TFC. La Velocidad de rotación se iguala de la entrada a la salida.",
+  "aaaa": "aaaa"
+ }
+}

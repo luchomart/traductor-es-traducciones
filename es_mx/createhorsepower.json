@@ -1,0 +1,25 @@
+{
+ "revisadas": {},
+ "ia": {
+  "(CHP) Leash Knot": "(CHP) nudo de correa",
+  "...but not from on top": "...pero no desde arriba",
+  "...or a shaft, from underneath...": "...o un Eje, desde abajo...",
+  "Animals that can be used to pull the Horse Crank": "Animales que pueden usarse para mover la Manivela de caballo",
+  "Blocks that are viable for Working Animals to walk on": "Bloques que son viables para que los Animales de Trabajo caminen sobre ellos",
+  "Crank already has a worker": "La manivela ya tiene un trabajador",
+  "Horse Crank": "Manivela de caballo",
+  "Mob is not a valid worker": "La criatura no es un trabajador válido",
+  "Only 1 mob can be attached": "Solo se puede acoplar 1 criatura",
+  "Path Blocks": "Bloques de sendero",
+  "Some materials might be better than others": "Algunos materiales podrían ser mejores que otros",
+  "This is a Horse Crank": "Esta es una Manivela de caballo",
+  "To use a horse crank you first need to have valid blocks underneath it": "Para usar una Manivela de caballo, primero necesitas tener bloques válidos debajo de ella",
+  "Using Horse Crank": "Uso de la manivela de caballo",
+  "Viable Workers": "Trabajadores viables",
+  "When a valid worker is attached the crank will produce stress": "Cuando se acopla un trabajador válido, la manivela producirá estrés",
+  "Worker has been attached": "Trabajador acoplado",
+  "Worker has been detached": "Trabajador desacoplado",
+  "You can attach any mob in the config to turn it into a worker": "Puedes acoplar cualquier criatura en la configuración para convertirla en un trabajador",
+  "You can get rotation out with a cog from the side...": "Puedes obtener rotación con un engranaje desde el costado..."
+ }
+}

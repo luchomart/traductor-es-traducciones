@@ -1,0 +1,29 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%s sent malformed config data to the server when trying to update %s": "%s envió datos de configuración malformados al servidor al intentar actualizar %s",
+  "%s tried to update server configs without developer status": "%s intentó actualizar las configuraciones del servidor sin tener estado de desarrollador",
+  "Are you sure you want to reset all values? If you are playing with a modpack, this configuration may have been modified by the author and restoring will break the intended experience of the pack. §6This action is irreversible!": "¿Estás seguro de que quieres restablecer todos los valores? Si estás jugando con un modpack, esta configuración podría haber sido modificada por el autor y restablecerla podría arruinar la experiencia prevista del pack. §6¡Esta acción es irreversible!",
+  "Configured is not installed on the server": "Configured no está instalado en el servidor",
+  "Failed to load config": "Error al cargar la configuración",
+  "Failed to process config data from server": "Error al procesar los datos de configuración del servidor",
+  "If this property is changed, you will have to reload your world for it to take effect.": "Si se cambia esta propiedad, tendrás que recargar tu mundo para que surta efecto.",
+  "If this property is changed, you will have to restart your game for it to take effect.": "Si se cambia esta propiedad, tendrás que reiniciar el juego para que surta efecto.",
+  "Loading config": "Cargando configuración",
+  "Only the LAN server owner can edit server configs": "Solo el dueño del servidor LAN puede editar las configuraciones del servidor",
+  "Server based configurations are unique for every world. This means that any changes made to the config will only be applied to the selected world.": "Las configuraciones basadas en el servidor son únicas para cada mundo. Esto significa que cualquier cambio realizado en la configuración solo se aplicará al mundo seleccionado.",
+  "Server configs can only be edited from the main menu": "Las configuraciones del servidor solo pueden editarse desde el menú principal",
+  "The game will need to be restarted for all changes to take effect": "El juego deberá reiniciarse para que todos los cambios surtan efecto",
+  "The server sent data for the wrong config": "El servidor envió datos para la configuración incorrecta",
+  "The world will need to be reloaded for all changes to take effect": "El mundo debe recargarse para que todos los cambios surtan efecto",
+  "There are unsaved changes. Are you sure you want to stop editing?": "Hay cambios sin guardar. ¿Estás seguro de que quieres dejar de editar?",
+  "This config can only be modified by editing the raw file on the server": "Esta configuración solo puede modificarse editando el archivo original en el servidor",
+  "This config is marked as read-only and cannot be edited while the game is running": "Esta configuración está marcada como de solo lectura y no puede editarse mientras el juego esté en ejecución",
+  "This file can be found in the config directory of your dedicated server": "Este archivo se puede encontrar en el directorio de configuración de tu servidor dedicado",
+  "This list has been modified and changes will be lost if you exit. Are you sure you want to stop editing?": "Esta lista ha sido modificada y los cambios se perderán si sales. ¿Estás seguro de que quieres dejar de editar?",
+  "Unable to process config data received from the server. See logs for details": "No se pudo procesar la configuración recibida del servidor. Consulta los registros para más detalles",
+  "Value must be between %s and %s (inclusive)": "El valor debe estar entre %s y %s (inclusive)",
+  "You cannot request this config": "No puedes solicitar esta configuración",
+  "You need to be a developer to edit server configs": "Necesitas ser desarrollador para editar las configuraciones del servidor"
+ }
+}

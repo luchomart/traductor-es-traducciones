@@ -1,0 +1,22 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Auto": "Auto",
+  "Exceeding %s dB amplification may produce audio distortion and other issues!": "¡Exceder la amplificación de %s dB puede producir distorsión de audio y otros problemas!",
+  "Gain: %s": "Ganancia: %s",
+  "Got a response in %s ms after %s attempts": "Se recibió una respuesta en %s ms después de %s intentos",
+  "Group Chat Icons": "Iconos de chat grupal",
+  "If the voice chat icons next to player names should be visible": "Si los iconos de chat de voz junto a los nombres de los jugadores deben ser visibles",
+  "If the voice chat icons on the HUD should be visible": "Si los iconos de chat de voz en el HUD deben ser visibles",
+  "Manual": "Manual",
+  "Please keep automatic microphone gain adjustment enabled to ensure consistent volume levels for everyone hearing you.": "Por favor, mantén activado el ajuste automático de ganancia del micrófono para asegurar niveles de volumen constantes para todos los que te escuchen.",
+  "Press to play a test sound.": "Presiona para reproducir un sonido de prueba.",
+  "Push to talk deactivation delay": "Retraso de desactivación de pulsar para hablar",
+  "Show voice chat HUD icons": "Mostrar iconos de chat de voz en el HUD",
+  "Show voice chat name tag icons": "Mostrar iconos de chat de voz en las etiquetas",
+  "Some modules failed to load - Your Operating System might not be supported.": "Algunos módulos fallaron al cargar - Es posible que tu sistema operativo no sea compatible.",
+  "System Default": "Predeterminado del sistema",
+  "The time it takes for the microphone to deactivate when using push to talk.\nA value of 1 means 20 milliseconds, 2=40 ms, 3=60 ms, and so on.": "El tiempo que tarda en desactivarse el micrófono al usar pulsar para hablar.\nUn valor de 1 significa 20 milisegundos, 2=40 ms, 3=60 ms, y así sucesivamente.",
+  "Voice Activation: %s": "Activación por voz: %s"
+ }
+}

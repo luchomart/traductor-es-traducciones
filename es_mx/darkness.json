@@ -1,0 +1,20 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Affect Block Light Only": "Afectar solo luz de bloque",
+  "Areas lit by sky will not be fully dark": "Las áreas iluminadas por el cielo no estarán totalmente oscuras",
+  "Dark End": "End oscuro",
+  "Dark Nether": "Nether oscuro",
+  "Dark Overworld": "Overworld oscuro",
+  "Enable in Nether": "Activar en Nether",
+  "Enable in Overworld": "Activar en Overworld",
+  "Enable in The End": "Activar en el End",
+  "Enable in modded dimensions with a sky": "Activar en dimensiones modificadas con cielo",
+  "Enable in modded dimensions with no sky": "Activar en dimensiones modificadas sin cielo",
+  "Ignore Moon Phase": "Ignorar fase lunar",
+  "Modded Dimension Darkness": "Oscuridad en dimensiones modificadas",
+  "Modded Skyless Dimension Darkness": "Oscuridad en dimensiones modificadas sin cielo",
+  "Night is truly dark even when the moon is full": "La noche es realmente oscura incluso cuando la luna está llena",
+  "True Darkness Config": "Configuración de oscuridad real"
+ }
+}

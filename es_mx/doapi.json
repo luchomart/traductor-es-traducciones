@@ -1,0 +1,25 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Booze Ambient": "Ambiental de elemental de cerveza",
+  "Booze Attack": "Ataque de elemental de cerveza",
+  "Booze Dying": "Muerte de elemental de cerveza",
+  "Booze Hurt": "Daño de elemental de cerveza",
+  "Breath": "Respiración",
+  "Brewstation Hum": "Zumbido de estación de elaboración",
+  "Closing Cabinet": "Cerrando armario",
+  "Closing Drawer": "Cerrando cajón",
+  "Completionist Banner": "Estandarte de completista",
+  "Completionist Wall Banner": "Estandarte de pared de completista",
+  "Cutting Cake": "Cortando pastel",
+  "Opening Cabinet": "Abriendo armario",
+  "Opening Drawer": "Abriendo cajón",
+  "Oven Crackling": "Chisporroteo de horno",
+  "Popping Bubbles": "Burbujas estallando",
+  "Ringing Dinner Bell": "Campana de cena",
+  "Ticking Timer": "Reloj haciendo clic",
+  "Typing Typewriter": "Máquina de escribir",
+  "Whistling Whistle": "Silbato de silbido",
+  "built-in: %s": "built-in: %s"
+ }
+}

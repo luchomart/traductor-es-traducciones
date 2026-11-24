@@ -1,0 +1,7 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Set to true if the difficulty for new world's should be locked to the specific default. This cannot be unlocked by players without external tools! Probably a bad idea. I don't recommend. Why am I adding this option?": "Establécelo en true si la dificultad de los nuevos mundos debe estar bloqueada a la predeterminada específica. ¡Esto no puede ser desbloqueado por los jugadores sin herramientas externas! Probablemente sea una mala idea. No lo recomiendo. ¿Por qué estoy añadiendo esta opción?",
+  "The default difficulty selected for newly created worlds.": "La dificultad predeterminada seleccionada para los mundos recién creados."
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "revisadas": {},
+ "ia": {
+  "%1$s bonks": "%1$s bonks",
+  "Block generation": "Generación de bloques",
+  "Create Mechanical Extruder": "Create extrusora mecánica",
+  "Extruding recipe": "Receta de extrusión",
+  "Generation depends on side & below blocks.": "La generación depende de los bloques en los lados y debajo.",
+  "Incorrect biome": "Bioma incorrecto",
+  "Max Y: %s": "Y máx: %s",
+  "Mechanical Extruder": "Extrusora mecánica",
+  "Min Speed: %s": "Velocidad mín: %s",
+  "Min Y: %s": "Y mín: %s",
+  "Missing ingredients": "Faltan ingredientes",
+  "Not enough speed": "No hay suficiente Velocidad",
+  "Output full or incompatible": "Salida llena o incompatible",
+  "The Extruder uses rotational force to generate blocks": "La Extrusora mecánica usa fuerza de rotación para generar bloques",
+  "The outputs can also be extracted by automation": "Las salidas también pueden extraerse mediante automatización",
+  "Too high": "Demasiado alto",
+  "Too low": "Demasiado bajo",
+  "When a conbination of ingredient has multiple possible outcomes, the filter slot can specify it": "Cuando una combinación de ingredientes tiene múltiples resultados posibles, la ranura de Filtro puede especificarlo",
+  "When the process is done, the result can be obtained via Right-click": "Cuando el proceso termina, el resultado se puede obtener con clic derecho"
+ }
+}

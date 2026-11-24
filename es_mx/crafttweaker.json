@@ -1,0 +1,21 @@
+{
+ "revisadas": {},
+ "ia": {
+  "An error has occurred during conflict testing: please check the logs": "Ocurrió un error durante la prueba de conflictos: por favor, revisa los registros",
+  "An error occurred while loading scripts: please check the log": "Ocurrió un error al cargar los scripts: por favor, revisa el registro",
+  "Biomes": "Biomas",
+  "Fake Players": "Jugadores falsos",
+  "Fluid": "Fluido",
+  "Loading completed without errors": "Carga completada sin errores",
+  "Loot Tables": "Tablas de botín",
+  "Outputs information on all Fake Players": "Muestra información sobre todos los Jugadores falsos",
+  "Outputs information on all Recipes for the items in the player's inventory": "Muestra información sobre todas las recetas de los objetos en el inventario del Jugador(a)",
+  "Outputs information on all Tool Tiers": "Muestra información sobre todos los niveles de herramientas",
+  "Outputs information on recipes for the recipe manager given as argument": "Muestra información sobre las recetas del gestor de recetas proporcionado como argumento",
+  "Outputs the names of all registered biomes": "Muestra los nombres de todos los biomas registrados",
+  "Outputs the names of all registered damage sources": "Muestra los nombres de todas las fuentes de daño registradas",
+  "Outputs the names of all registered loot tables": "Muestra los nombres de todas las tablas de botín registradas",
+  "Outputs the registry names of the items in your inventory": "Muestra los nombres de registro de los objetos en tu inventario",
+  "Tool Tiers": "Niveles de herramientas"
+ }
+}

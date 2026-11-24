@@ -1,0 +1,18 @@
+{
+ "revisadas": {},
+ "ia": {
+  "A list of modid:name entries that will not be crafted by the compress key.": "Una lista de entradas modid:nombre que no serán fabricadas por la llave de compresión.",
+  "Add mod ids here of mods that you wish to disable Crafting Tweaks support for.": "Agrega aquí los IDs de los mods para los cuales deseas desactivar el soporte de Crafting Tweaks.",
+  "Client": "Cliente",
+  "Common": "Común",
+  "Compress Denylist": "Lista de exclusión de compresión",
+  "Compress Requires Crafting Grid": "Compresión requiere panel de fabricación",
+  "Disabled Addons": "Complementos desactivados",
+  "Hide Vanilla Crafting Guide": "Ocultar guía de fabricación de Vanilla",
+  "If set to true, right-clicking the result slot in a crafting table will craft a full stack.": "Si se establece en verdadero, hacer clic derecho en la ranura de resultado en una Mesa de trabajo fabricará una pila completa.",
+  "Right-click Crafts Stack": "Pila de fabricación al clic derecho",
+  "Set this to false if you want the (de)compress feature to work outside of crafting GUIs (only works if installed on server while in the player inventory)": "Establece esto en falso si quieres que la función de (des)compresión funcione fuera de las interfaces de fabricación (solo funciona si está instalado en el servidor mientras está en el inventario del jugador)",
+  "Set to 'DEFAULT' to enable both buttons and hotkeys. Set to 'BUTTONS' to enable buttons only. Set to 'HOTKEYS' to enable hotkeys only. Set to 'DISABLED' to disable completely.": "Establécelo en 'DEFAULT' para habilitar botones y teclas de acceso rápido. Establécelo en 'BUTTONS' para habilitar solo botones. Establécelo en 'HOTKEYS' para habilitar solo teclas de acceso rápido. Establécelo en 'DISABLED' para desactivarlo por completo.",
+  "We both know JEI is much better. This option hides Vanilla's crafting book button instead of moving it.": "Ambos sabemos que JEI es mucho mejor. Esta opción oculta el botón del libro de fabricación de Vanilla en lugar de moverlo."
+ }
+}

@@ -1,0 +1,8 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Broken tags in Mekanism recipes detected, please check server logs for details. You will be missing some recipes and machines may not accept expected inputs.": "Se detectaron etiquetas rotas en las recetas de Mekanism, por favor revisa los registros del servidor para más detalles. Te faltarán algunas recetas y es posible que las máquinas no acepten las entradas esperadas.",
+  "Ctrl+C, Ctrl+V": "Ctrl+C, Ctrl+V",
+  "Woop Woop Woop!": "¡Woop Woop Woop!"
+ }
+}

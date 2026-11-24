@@ -1,0 +1,24 @@
+{
+ "revisadas": {},
+ "ia": {
+  "Anchors (the top 10 buttons) are used to muffle sounds in a selected area": "Las Anclas (los 10 botones superiores) se usan para amortiguar sonidos en un área seleccionada",
+  "Click any of the Anchor buttons (the numbered ones) and then click the marker like button (in the right) to set the Anchor position": "Haz clic en cualquiera de los botones de Ancla (los numerados) y luego haz clic en el botón tipo Marcador (a la derecha) para establecer la posición de la Ancla",
+  "ESM: Anchor list not found; Creating empty Anchor list": "ESM: No se encontró la lista de Anclas; Creando lista de Anclas Vacía",
+  "ESM: Error loading the muffled sounds list:\\n %s": "ESM: Error cargando la lista de sonidos amortiguados:\\n %s",
+  "ESM: Error saving the muffled sounds list:\\n %s": "ESM: Error guardando la lista de sonidos amortiguados:\\n %s",
+  "ESM: Muffled list not found; Creating empty Muffled list": "ESM: No se encontró la lista de sonidos amortiguados; Creando lista de sonidos amortiguados Vacía",
+  "Hold Shift on the \"Recent\" sounds screen and click the trash button to clear the recent sounds list": "Mantén presionado Shift en la pantalla de sonidos \"Recientes\" y haz clic en el botón de basura para borrar la lista de sonidos recientes",
+  "Nothing to show here yet..": "Aún no hay nada que mostrar aquí...",
+  "Once you've set the Anchors, you can click the marker button to move the position at any time.": "Una vez que hayas establecido las Anclas, puedes hacer clic en el botón de Marcador para mover la posición en cualquier momento.",
+  "Radius: ": "Radio: ",
+  "Range: 1 - %s": "Rango: 1 - %s",
+  "You can change the name and range of the Anchors once you've set the position": "Puedes cambiar el nombre y el rango de las Anclas una vez que hayas establecido la posición",
+  "You can change the side of the Muffler and Play buttons to the left in the config": "Puedes cambiar el lado de los botones de Amortiguador y Reproducir a la izquierda en la configuración",
+  "You can change the volume of muffled sounds by dragging the slider": "Puedes cambiar el volumen de los sonidos amortiguados arrastrando la barra",
+  "You can disable and enable the muffler button on your inventory screen in the config": "Puedes desactivar y activar el botón del amortiguador en tu pantalla de inventario en la configuración",
+  "You can disable the Anchors in the config": "Puedes desactivar las Anclas en la configuración",
+  "You can move the inventory button by holding the RMB over the button and dragging it around": "Puedes mover el botón del inventario manteniendo presionado el botón derecho del ratón sobre el botón y arrastrándolo",
+  "You can play any sound by pressing the corresponding Play sound button": "Puedes reproducir cualquier sonido presionando el botón de Reproducir sonido correspondiente",
+  "You can stop muffling all the selected sounds by pressing the Stop muffling sounds button, press it again to resume the muffling": "Puedes dejar de amortiguar todos los sonidos seleccionados presionando el botón Detener amortiguar sonidos; presiónalo de nuevo para reanudar el amortiguado"
+ }
+}
